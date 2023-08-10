@@ -1,8 +1,9 @@
 ﻿namespace AwcHelper.Txt;
+
 public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Hello world.");
+        new TxtGenerator().GenerateAll();
     }
 }
