@@ -60,4 +60,18 @@ public class Anime
 
         return String.Join(", ", genreList);
     }
+
+    public string EpisodeDurationToString()
+    {
+        if (AverageEpisodeDuration == null)
+            return "unknown";
+
+        if (AverageEpisodeDuration < 60)
+            return $"{AverageEpisodeDuration} sec";
+
+        if (AverageEpisodeDuration / 60 < 60)
+            return $"{AverageEpisodeDuration / 60} min";
+
+        return $"{AverageEpisodeDuration / 3600} h {(AverageEpisodeDuration % 3600) / 60} min";
+    }
 }
