@@ -12,11 +12,24 @@ internal class SimpleAnime
     public SimpleAnime(Anime anime)
     {
         Title = anime.Title!;
-        Score = anime.Mean.ToString() ?? "none";
-        Year = anime.DeserializedStartDate.Year.ToString() ?? "unknown";
-        Episodes = anime.NumEpisodes.ToString() ?? "unknown";
+
+        if (anime.Mean == null)
+            Score = "None";
+        else
+            Score = anime.Mean.ToString()!;
+
+        if (anime.DeserializedStartDate.Year == null)
+            Year = "Unknown";
+        else
+            Year = anime.DeserializedStartDate.Year.ToString()!;
+
+        if (anime.NumEpisodes == 0 || anime.NumEpisodes == null)
+            Episodes = "Unknown";
+        else
+            Episodes = anime.NumEpisodes.ToString()!;
+
         EpDuration = anime.EpisodeDurationToString();
-        Genres = anime.GenresToString() ?? "none";
+        Genres = anime.GenresToString();
         Link = $@"https://myanimelist.net/anime/{anime.Id}";
     }
 }

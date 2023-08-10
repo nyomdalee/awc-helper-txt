@@ -49,10 +49,10 @@ public class Anime
 
     public Anime() { }
 
-    public string? GenresToString()
+    public string GenresToString()
     {
         if (Genres.Count == 0)
-            return null;
+            return "None";
 
         List<string> genreList = new();
         foreach (var genre in Genres)
@@ -63,8 +63,8 @@ public class Anime
 
     public string EpisodeDurationToString()
     {
-        if (AverageEpisodeDuration == null)
-            return "unknown";
+        if (AverageEpisodeDuration == 0)
+            return "Unknown";
 
         if (AverageEpisodeDuration < 60)
             return $"{AverageEpisodeDuration} sec";
