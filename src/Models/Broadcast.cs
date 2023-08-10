@@ -1,13 +1,9 @@
-﻿using Newtonsoft.Json;
-
-namespace AwcHelper.Txt.Models;
+﻿namespace AwcHelper.Txt.Models;
 
 public class Broadcast
 {
-    [JsonProperty("day_of_the_week")]
     public string? DayOfTheWeek { get; set; } = null;
 
-    [JsonProperty("start_time")]
     public string? StartTime { get; set; } = null;
 
     public Broadcast() { }

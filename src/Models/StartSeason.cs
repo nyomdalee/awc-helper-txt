@@ -1,13 +1,9 @@
-﻿using Newtonsoft.Json;
-
-namespace AwcHelper.Txt.Models;
+﻿namespace AwcHelper.Txt.Models;
 
 public class StartSeason
 {
-    [JsonProperty("year")]
     public int? Year { get; set; } = null;
 
-    [JsonProperty("season")]
     public string? Season { get; set; } = null;
 
     public StartSeason() { }
