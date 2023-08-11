@@ -5,6 +5,20 @@ namespace AwcHelper.Txt;
 
 internal class TxtGenerator
 {
+    private readonly string _baseDirectory;
+    private readonly TableFormatter _formatter;
+
+    public TxtGenerator()
+    {
+        string dir = Directory.GetCurrentDirectory();
+        var baseName = "awc-helper-txt";
+        int index = dir.IndexOf(baseName);
+        _baseDirectory = dir.Substring(0, index + baseName.Length);
+
+        var hints = new Hints { MaxTableWidth = 250 };
+        _formatter = new TableFormatter(hints);
+    }
+
     public void GenerateAll()
     {
         var animeList = new MongoDbHandler().GetAllAnime().Result;
@@ -13,34 +27,47 @@ internal class TxtGenerator
 
     private void GenerateBySource(List<Anime> animeList)
     {
-        var distinctSources = animeList.Select(a => a.Source).Distinct().ToList();
+        var distinctSources = animeList
+            .Where(a => a.Source != null)
+            .Select(a => a.Source)
+            .Distinct().ToList();
 
-        string dir = Directory.GetCurrentDirectory();
-        int index = dir.IndexOf("awc-helper-txt");
-        string path = dir.Substring(0, index + 14);
-
-        var dirInfo = new DirectoryInfo(@$"{path}\Anime by Source\");
-        foreach (var file in dirInfo.GetFiles())
-            file.Delete();
+        var folder = "Anime by Source";
+        DeleteExistingFiles(folder);
 
         foreach (var source in distinctSources)
         {
-            var filteredList = animeList.Where(a => a.Source == source).ToList();
+            var simpleList = GetSimpleList(animeList.Where(a => a.Source == source));
 
-            var simpleList = new List<SimpleAnime>();
-            foreach (var anime in filteredList)
-            {
-                simpleList.Add(new SimpleAnime(anime));
-            }
-
-            var hints = new Hints { MaxTableWidth = 250 };
-            var formatter = new TableFormatter(hints);
-            var text = formatter.FormatObjects(simpleList);
-
-            File.WriteAllText($@"{path}\Anime by Source\{source}.txt", text);
+            CreateFile(simpleList, folder, source!);
         }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void DeleteExistingFiles(string folder)
+    {
+        var dirInfo = new DirectoryInfo($@"{_baseDirectory}\{folder}\");
+
+        foreach (var file in dirInfo.GetFiles())
+            file.Delete();
+    }
+
+    private void CreateFile(List<SimpleAnime> simpleList, string folder, string fileName)
+    {
+        var text = _formatter.FormatObjects(simpleList);
+        File.WriteAllText($@"{_baseDirectory}\{folder}\{fileName}.txt", text);
+
+        Console.WriteLine($@"Created: {folder}\{fileName}");
+    }
+
+    private List<SimpleAnime> GetSimpleList(IEnumerable<Anime> animeList)
+    {
+        var simpleList = new List<SimpleAnime>();
+        foreach (var anime in animeList)
+        {
+            simpleList.Add(new SimpleAnime(anime));
+        }
+        return simpleList;
     }
 }
-
-
-
