@@ -23,6 +23,9 @@ internal class TxtGenerator
     {
         var animeList = new MongoDbHandler().GetAllAnime().Result;
         GenerateBySource(animeList);
+        GenerateByStartDay(animeList);
+        GenerateByStartMonth(animeList);
+        GenerateByStartYear(animeList);
     }
 
     private void GenerateBySource(List<Anime> animeList)
@@ -45,16 +48,76 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void DeleteExistingFiles(string folder)
+    private void GenerateByStartDay(List<Anime> animeList)
+    {
+        var distinctDays = animeList
+            .Where(a => a.DeserializedStartDate.Day != null)
+            .Select(a => a.DeserializedStartDate.Day)
+            .Distinct()
+            .ToList();
+
+        var folder = "Anime by Start Day";
+        PrepareDirectory(folder);
+
+        foreach (var day in distinctDays)
+        {
+            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Day == day));
+
+            CreateFile(simpleList, folder, day.ToString()!);
+        }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void GenerateByStartMonth(List<Anime> animeList)
+    {
+        var distinctMonths = animeList
+            .Where(a => a.DeserializedStartDate.Month != null)
+            .Select(a => a.DeserializedStartDate.Month)
+            .Distinct().ToList();
+
+        var folder = "Anime by Start Month";
+        PrepareDirectory(folder);
+
+        foreach (var month in distinctMonths)
+        {
+            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Month == month));
+
+            CreateFile(simpleList, folder, month.ToString()!);
+        }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void GenerateByStartYear(List<Anime> animeList)
+    {
+        var distinctYears = animeList
+            .Where(a => a.DeserializedStartDate.Year != null)
+            .Select(a => a.DeserializedStartDate.Year)
+            .Distinct().ToList();
+
+        var folder = "Anime by Start Year";
+        PrepareDirectory(folder);
+
+        foreach (var year in distinctYears)
+        {
+            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Year == year));
+
+            CreateFile(simpleList, folder, year.ToString()!);
+        }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
     private void PrepareDirectory(string folder)
     {
         var directory = $@"{_baseDirectory}\{folder}\";
         if (Directory.Exists(directory))
-    {
-        var dirInfo = new DirectoryInfo($@"{_baseDirectory}\{folder}\");
+        {
+            var dirInfo = new DirectoryInfo($@"{_baseDirectory}\{folder}\");
 
-        foreach (var file in dirInfo.GetFiles())
-            file.Delete();
+            foreach (var file in dirInfo.GetFiles())
+                file.Delete();
 
             Console.WriteLine($"Folder cleared: {folder}");
         }
