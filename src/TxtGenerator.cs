@@ -7,6 +7,7 @@ internal class TxtGenerator
 {
     private readonly string _baseDirectory;
     private readonly TableFormatter _formatter;
+    private readonly List<Anime> _animeList;
 
     public TxtGenerator()
     {
@@ -17,23 +18,24 @@ internal class TxtGenerator
 
         var hints = new Hints { MaxTableWidth = 250 };
         _formatter = new TableFormatter(hints);
+
+        _animeList = new MongoDbHandler().GetAllAnime().Result;
     }
 
     public void GenerateAll()
     {
-        var animeList = new MongoDbHandler().GetAllAnime().Result;
-        GenerateBySource(animeList);
-        GenerateByStartDay(animeList);
-        GenerateByStartMonth(animeList);
-        GenerateByStartYear(animeList);
-        GenerateByEndDay(animeList);
-        GenerateByEndMonth(animeList);
-        GenerateByEndYear(animeList);
+        GenerateBySource();
+        GenerateByStartDay();
+        GenerateByStartMonth();
+        GenerateByStartYear();
+        GenerateByEndDay();
+        GenerateByEndMonth();
+        GenerateByEndYear();
     }
 
-    private void GenerateBySource(List<Anime> animeList)
+    private void GenerateBySource()
     {
-        var distinctSources = animeList
+        var distinctSources = _animeList
             .Where(a => a.Source != null)
             .Select(a => a.Source)
             .Distinct().ToList();
@@ -43,7 +45,7 @@ internal class TxtGenerator
 
         foreach (var source in distinctSources)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.Source == source));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.Source == source));
 
             CreateFile(simpleList, folder, source!);
         }
@@ -51,9 +53,9 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void GenerateByStartDay(List<Anime> animeList)
+    private void GenerateByStartDay()
     {
-        var distinctDays = animeList
+        var distinctDays = _animeList
             .Where(a => a.DeserializedStartDate.Day != null)
             .Select(a => a.DeserializedStartDate.Day)
             .Distinct()
@@ -64,7 +66,7 @@ internal class TxtGenerator
 
         foreach (var day in distinctDays)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Day == day));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.DeserializedStartDate.Day == day));
 
             CreateFile(simpleList, folder, day.ToString()!);
         }
@@ -72,9 +74,9 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void GenerateByStartMonth(List<Anime> animeList)
+    private void GenerateByStartMonth()
     {
-        var distinctMonths = animeList
+        var distinctMonths = _animeList
             .Where(a => a.DeserializedStartDate.Month != null)
             .Select(a => a.DeserializedStartDate.Month)
             .Distinct().ToList();
@@ -84,7 +86,7 @@ internal class TxtGenerator
 
         foreach (var month in distinctMonths)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Month == month));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.DeserializedStartDate.Month == month));
 
             CreateFile(simpleList, folder, month.ToString()!);
         }
@@ -92,9 +94,9 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void GenerateByStartYear(List<Anime> animeList)
+    private void GenerateByStartYear()
     {
-        var distinctYears = animeList
+        var distinctYears = _animeList
             .Where(a => a.DeserializedStartDate.Year != null)
             .Select(a => a.DeserializedStartDate.Year)
             .Distinct().ToList();
@@ -104,7 +106,7 @@ internal class TxtGenerator
 
         foreach (var year in distinctYears)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Year == year));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.DeserializedStartDate.Year == year));
 
             CreateFile(simpleList, folder, year.ToString()!);
         }
@@ -112,9 +114,9 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void GenerateByEndDay(List<Anime> animeList)
+    private void GenerateByEndDay()
     {
-        var distinctDays = animeList
+        var distinctDays = _animeList
             .Where(a => a.DeserializedEndDate.Day != null)
             .Select(a => a.DeserializedEndDate.Day)
             .Distinct()
@@ -125,7 +127,7 @@ internal class TxtGenerator
 
         foreach (var day in distinctDays)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedEndDate.Day == day));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.DeserializedEndDate.Day == day));
 
             CreateFile(simpleList, folder, day.ToString()!);
         }
@@ -133,9 +135,9 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void GenerateByEndMonth(List<Anime> animeList)
+    private void GenerateByEndMonth()
     {
-        var distinctMonths = animeList
+        var distinctMonths = _animeList
             .Where(a => a.DeserializedEndDate.Month != null)
             .Select(a => a.DeserializedEndDate.Month)
             .Distinct().ToList();
@@ -145,7 +147,7 @@ internal class TxtGenerator
 
         foreach (var month in distinctMonths)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedEndDate.Month == month));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.DeserializedEndDate.Month == month));
 
             CreateFile(simpleList, folder, month.ToString()!);
         }
@@ -153,9 +155,9 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
-    private void GenerateByEndYear(List<Anime> animeList)
+    private void GenerateByEndYear()
     {
-        var distinctYears = animeList
+        var distinctYears = _animeList
             .Where(a => a.DeserializedEndDate.Year != null)
             .Select(a => a.DeserializedEndDate.Year)
             .Distinct().ToList();
@@ -165,7 +167,7 @@ internal class TxtGenerator
 
         foreach (var year in distinctYears)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedEndDate.Year == year));
+            var simpleList = GetSimpleList(_animeList.Where(a => a.DeserializedEndDate.Year == year));
 
             CreateFile(simpleList, folder, year.ToString()!);
         }
@@ -200,10 +202,10 @@ internal class TxtGenerator
         Console.WriteLine($@"Created: {folder}\{fileName}");
     }
 
-    private List<SimpleAnime> GetSimpleList(IEnumerable<Anime> animeList)
+    private List<SimpleAnime> GetSimpleList(IEnumerable<Anime> _animeList)
     {
         var simpleList = new List<SimpleAnime>();
-        foreach (var anime in animeList)
+        foreach (var anime in _animeList)
         {
             simpleList.Add(new SimpleAnime(anime));
         }
