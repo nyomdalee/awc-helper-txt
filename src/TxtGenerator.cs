@@ -26,6 +26,9 @@ internal class TxtGenerator
         GenerateByStartDay(animeList);
         GenerateByStartMonth(animeList);
         GenerateByStartYear(animeList);
+        GenerateByEndDay(animeList);
+        GenerateByEndMonth(animeList);
+        GenerateByEndYear(animeList);
     }
 
     private void GenerateBySource(List<Anime> animeList)
@@ -102,6 +105,67 @@ internal class TxtGenerator
         foreach (var year in distinctYears)
         {
             var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedStartDate.Year == year));
+
+            CreateFile(simpleList, folder, year.ToString()!);
+        }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void GenerateByEndDay(List<Anime> animeList)
+    {
+        var distinctDays = animeList
+            .Where(a => a.DeserializedEndDate.Day != null)
+            .Select(a => a.DeserializedEndDate.Day)
+            .Distinct()
+            .ToList();
+
+        var folder = "Anime by End Day";
+        PrepareDirectory(folder);
+
+        foreach (var day in distinctDays)
+        {
+            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedEndDate.Day == day));
+
+            CreateFile(simpleList, folder, day.ToString()!);
+        }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void GenerateByEndMonth(List<Anime> animeList)
+    {
+        var distinctMonths = animeList
+            .Where(a => a.DeserializedEndDate.Month != null)
+            .Select(a => a.DeserializedEndDate.Month)
+            .Distinct().ToList();
+
+        var folder = "Anime by End Month";
+        PrepareDirectory(folder);
+
+        foreach (var month in distinctMonths)
+        {
+            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedEndDate.Month == month));
+
+            CreateFile(simpleList, folder, month.ToString()!);
+        }
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void GenerateByEndYear(List<Anime> animeList)
+    {
+        var distinctYears = animeList
+            .Where(a => a.DeserializedEndDate.Year != null)
+            .Select(a => a.DeserializedEndDate.Year)
+            .Distinct().ToList();
+
+        var folder = "Anime by End Year";
+        PrepareDirectory(folder);
+
+        foreach (var year in distinctYears)
+        {
+            var simpleList = GetSimpleList(animeList.Where(a => a.DeserializedEndDate.Year == year));
 
             CreateFile(simpleList, folder, year.ToString()!);
         }
