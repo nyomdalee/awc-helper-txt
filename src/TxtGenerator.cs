@@ -33,7 +33,7 @@ internal class TxtGenerator
             .Distinct().ToList();
 
         var folder = "Anime by Source";
-        DeleteExistingFiles(folder);
+        PrepareDirectory(folder);
 
         foreach (var source in distinctSources)
         {
@@ -46,11 +46,23 @@ internal class TxtGenerator
     }
 
     private void DeleteExistingFiles(string folder)
+    private void PrepareDirectory(string folder)
+    {
+        var directory = $@"{_baseDirectory}\{folder}\";
+        if (Directory.Exists(directory))
     {
         var dirInfo = new DirectoryInfo($@"{_baseDirectory}\{folder}\");
 
         foreach (var file in dirInfo.GetFiles())
             file.Delete();
+
+            Console.WriteLine($"Folder cleared: {folder}");
+        }
+        else
+        {
+            Directory.CreateDirectory(directory);
+            Console.WriteLine($"Folder created: {folder}");
+        }
     }
 
     private void CreateFile(List<SimpleAnime> simpleList, string folder, string fileName)
