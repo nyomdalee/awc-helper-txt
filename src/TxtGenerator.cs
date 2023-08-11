@@ -31,6 +31,7 @@ internal class TxtGenerator
         GenerateByEndDay();
         GenerateByEndMonth();
         GenerateByEndYear();
+        UpdateReadme();
     }
 
     private void GenerateBySource()
@@ -210,5 +211,15 @@ internal class TxtGenerator
             simpleList.Add(new SimpleAnime(anime));
         }
         return simpleList;
+    }
+
+    private void UpdateReadme()
+    {
+        var date = _animeList.Min(a => a.LastUpdated).ToString("MMMM dd, yyyy");
+
+        var path = $"{_baseDirectory}/README.md";
+        var readmeLines = File.ReadAllLines(path);
+        File.WriteAllLines(path, readmeLines.Take(readmeLines.Length - 1).ToArray());
+        File.AppendAllText(path, date);
     }
 }
