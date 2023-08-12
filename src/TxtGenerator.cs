@@ -24,6 +24,7 @@ internal class TxtGenerator
 
     public void GenerateAll()
     {
+        GenerateAllBroadcasts();
         GenerateBySource();
         GenerateByStartDay();
         GenerateByStartMonth();
@@ -32,6 +33,38 @@ internal class TxtGenerator
         GenerateByEndMonth();
         GenerateByEndYear();
         UpdateReadme();
+    }
+
+    private void GenerateAllBroadcasts()
+    {
+        var folder = "Anime by Broadcast";
+        PrepareDirectory(folder);
+
+        GenerateByBroadcastWindow(new TimeSpan(6, 0, 0), new TimeSpan(11, 59, 0), folder, "Morning (0600 - 1159 JST)");
+        GenerateByBroadcastWindow(new TimeSpan(17, 0, 0), new TimeSpan(22, 59, 0), folder, "Afternoon-Evening (1700 - 2259 JST)");
+        GenerateByBroadcastWindow(new TimeSpan(23, 0, 0), new TimeSpan(3, 59, 0), folder, "Late night (2300 - 0359 JST)");
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    private void GenerateByBroadcastWindow(TimeSpan timeStart, TimeSpan timeEnd, string folder, string broadcastWindowName)
+    {
+        IEnumerable<Anime> filteredAnime;
+        if (timeEnd > timeStart)
+        {
+            filteredAnime = _animeList
+                .Where(a => (a.Broadcast.StartTime != null))
+                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime) >= timeStart && TimeSpan.Parse(a.Broadcast.StartTime) <= timeEnd).ToList();
+        }
+        else
+        {
+            filteredAnime = _animeList
+                .Where(a => (a.Broadcast.StartTime != null))
+                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime) >= timeStart || TimeSpan.Parse(a.Broadcast.StartTime) <= timeEnd).ToList();
+        }
+
+        var simpleList = GetSimpleList(filteredAnime);
+        CreateFile(simpleList, folder, broadcastWindowName!);
     }
 
     private void GenerateBySource()
