@@ -16,7 +16,7 @@ internal class TxtGenerator
         int index = dir.IndexOf(baseName);
         _baseDirectory = dir.Substring(0, index + baseName.Length);
 
-        var hints = new Hints { MaxTableWidth = 250 };
+        var hints = new Hints { MaxTableWidth = 230 };
         _formatter = new TableFormatter(hints);
 
         _animeList = new MongoDbHandler().GetAllAnime().Result;
