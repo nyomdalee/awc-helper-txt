@@ -32,9 +32,9 @@ public class Anime
 
     public int? NumEpisodes { get; set; }
 
-    public StartSeason? StartSeason { get; set; } = new StartSeason();
+    public StartSeason StartSeason { get; set; } = new StartSeason();
 
-    public Broadcast? Broadcast { get; set; } = new Broadcast();
+    public Broadcast Broadcast { get; set; } = new Broadcast();
 
     public string? Source { get; set; }
 
@@ -42,7 +42,7 @@ public class Anime
 
     public string? Rating { get; set; }
 
-    public Statistics? Statistics { get; set; } = new Statistics();
+    public Statistics Statistics { get; set; } = new Statistics();
 
     [BsonDateTimeOptions(Kind = DateTimeKind.Local)]
     public DateTime LastUpdated { get; set; }

@@ -54,13 +54,13 @@ internal class TxtGenerator
         {
             filteredAnime = _animeList
                 .Where(a => (a.Broadcast.StartTime != null))
-                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime) >= timeStart && TimeSpan.Parse(a.Broadcast.StartTime) <= timeEnd).ToList();
+                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime!) >= timeStart && TimeSpan.Parse(a.Broadcast.StartTime!) <= timeEnd);
         }
         else
         {
             filteredAnime = _animeList
                 .Where(a => (a.Broadcast.StartTime != null))
-                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime) >= timeStart || TimeSpan.Parse(a.Broadcast.StartTime) <= timeEnd).ToList();
+                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime!) >= timeStart || TimeSpan.Parse(a.Broadcast.StartTime!) <= timeEnd);
         }
 
         var simpleList = GetSimpleList(filteredAnime);
@@ -72,7 +72,7 @@ internal class TxtGenerator
         var distinctSources = _animeList
             .Where(a => a.Source != null)
             .Select(a => a.Source)
-            .Distinct().ToList();
+            .Distinct();
 
         var folder = "Anime by Source";
         PrepareDirectory(folder);
@@ -92,8 +92,7 @@ internal class TxtGenerator
         var distinctDays = _animeList
             .Where(a => a.DeserializedStartDate.Day != null)
             .Select(a => a.DeserializedStartDate.Day)
-            .Distinct()
-            .ToList();
+            .Distinct();
 
         var folder = "Anime by Start Day";
         PrepareDirectory(folder);
@@ -113,7 +112,7 @@ internal class TxtGenerator
         var distinctMonths = _animeList
             .Where(a => a.DeserializedStartDate.Month != null)
             .Select(a => a.DeserializedStartDate.Month)
-            .Distinct().ToList();
+            .Distinct();
 
         var folder = "Anime by Start Month";
         PrepareDirectory(folder);
@@ -133,7 +132,7 @@ internal class TxtGenerator
         var distinctYears = _animeList
             .Where(a => a.DeserializedStartDate.Year != null)
             .Select(a => a.DeserializedStartDate.Year)
-            .Distinct().ToList();
+            .Distinct();
 
         var folder = "Anime by Start Year";
         PrepareDirectory(folder);
@@ -153,8 +152,7 @@ internal class TxtGenerator
         var distinctDays = _animeList
             .Where(a => a.DeserializedEndDate.Day != null)
             .Select(a => a.DeserializedEndDate.Day)
-            .Distinct()
-            .ToList();
+            .Distinct();
 
         var folder = "Anime by End Day";
         PrepareDirectory(folder);
@@ -174,7 +172,7 @@ internal class TxtGenerator
         var distinctMonths = _animeList
             .Where(a => a.DeserializedEndDate.Month != null)
             .Select(a => a.DeserializedEndDate.Month)
-            .Distinct().ToList();
+            .Distinct();
 
         var folder = "Anime by End Month";
         PrepareDirectory(folder);
@@ -194,7 +192,7 @@ internal class TxtGenerator
         var distinctYears = _animeList
             .Where(a => a.DeserializedEndDate.Year != null)
             .Select(a => a.DeserializedEndDate.Year)
-            .Distinct().ToList();
+            .Distinct();
 
         var folder = "Anime by End Year";
         PrepareDirectory(folder);
