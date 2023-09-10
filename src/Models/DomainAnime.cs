@@ -67,7 +67,7 @@ public class DomainAnime
     [BsonDateTimeOptions(Kind = DateTimeKind.Local)]
     public DateTime LastUpdated { get; }
 
-    public DomainAnime(int id, string? title, string? picture, DomainDate startDate, DomainDate endDate, string? synopsis, double? mean, int? rank, int? popularity, IEnumerable<DomainGenre> genres, IEnumerable<DomainGenre> explicitGenres, IEnumerable<DomainGenre> themes, IEnumerable<DomainGenre> demographics, string? mediaType, string? status, int? numEpisodes, DomainStartSeason? startSeason, DomainBroadcast? broadcast, string? source, int? averageEpisodeDuration, string? rating, DomainStatistics? statistics, int? favorites, IEnumerable<string>? producers, IEnumerable<string>? licensors, IEnumerable<string>? studios, bool? approved, DomainOpEd? theme, string? aniDb)
+    public DomainAnime(int id, string? title, string? picture, DomainDate startDate, DomainDate endDate, string? synopsis, double? mean, int? rank, int? popularity, IEnumerable<DomainGenre> genres, IEnumerable<DomainGenre> explicitGenres, IEnumerable<DomainGenre> themes, IEnumerable<DomainGenre> demographics, string? mediaType, string? status, int? numEpisodes, DomainStartSeason? startSeason, DomainBroadcast? broadcast, string? source, int? averageEpisodeDuration, string? rating, DomainStatistics? statistics, int? favorites, IEnumerable<string>? producers, IEnumerable<string>? licensors, IEnumerable<string>? studios, bool? approved, DomainOpEd? theme, string? aniDb, DateTime lastUpdated)
     {
         Id = id;
         Title = title;
@@ -99,7 +99,7 @@ public class DomainAnime
         //Relations = relations;
         Theme = theme;
         AniDb = aniDb;
-        LastUpdated = DateTime.UtcNow;
+        LastUpdated = lastUpdated;
     }
 
 
