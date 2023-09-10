@@ -1,25 +1,25 @@
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
 | Title                                 | Score | Year | Episodes | EpDuration | Genres                          | Link                                |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Osaru no Kantai                       | 4.57  | 1936 | 1        | 1 min      | Military, Music                 | https://myanimelist.net/anime/4396  |
+| Osaru no Kantai                       | 4.55  | 1936 | 1        | 1 min      | Military, Music                 | https://myanimelist.net/anime/4396  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Furudera no Obake-soudou              | 5.11  | 1936 | 1        | 5 min      | Action, Adventure               | https://myanimelist.net/anime/5838  |
+| Furudera no Obake-soudou              | 5.09  | 1936 | 1        | 5 min      | Action, Adventure               | https://myanimelist.net/anime/5838  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Suzume no Oyado                       | 5.23  | 1936 | 1        | 10 min     | Fantasy                         | https://myanimelist.net/anime/6827  |
+| Suzume no Oyado                       | 5.22  | 1936 | 1        | 10 min     | Fantasy                         | https://myanimelist.net/anime/6827  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
 | Ohi-sama to Kaeru                     | 4.37  | 1936 | 1        | 1 min      | Comedy                          | https://myanimelist.net/anime/6828  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
 | Izakaya no Ichiya                     | 5.12  | 1936 | 1        | 10 min     | Action                          | https://myanimelist.net/anime/6829  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Hinomaru Tarou: Musha Shugyou no Maki | 4.75  | 1936 | 1        | 5 min      | Action, Samurai                 | https://myanimelist.net/anime/6839  |
+| Hinomaru Tarou: Musha Shugyou no Maki | 4.74  | 1936 | 1        | 5 min      | Action, Samurai                 | https://myanimelist.net/anime/6839  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Maabou no Daikyousou                  | 4.63  | 1936 | 1        | 1 min      | Comedy, Sports                  | https://myanimelist.net/anime/6840  |
+| Maabou no Daikyousou                  | 4.61  | 1936 | 1        | 1 min      | Comedy, Sports                  | https://myanimelist.net/anime/6840  |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
 | Chinkoroheibei Tamatebako             | 5.14  | 1936 | 1        | 8 min      | Comedy, Fantasy, Kids           | https://myanimelist.net/anime/12803 |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Shinsetsu Kachikachi Yama             | 4.99  | 1936 | 1        | 6 min      | Action, Fantasy, Historical     | https://myanimelist.net/anime/31912 |
+| Shinsetsu Kachikachi Yama             | 4.97  | 1936 | 1        | 6 min      | Action, Fantasy, Historical     | https://myanimelist.net/anime/31912 |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Oira no Hijouji                       | 5.05  | 1936 | 1        | 11 min     | Historical, Military, Mythology | https://myanimelist.net/anime/35394 |
+| Oira no Hijouji                       | 5.04  | 1936 | 1        | 11 min     | Historical, Military, Mythology | https://myanimelist.net/anime/35394 |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+
-| Kagi wo Hitsu Kushita Yamabiko        | None  | 1936 | 1        | Unknown    | Adventure, Fantasy              | https://myanimelist.net/anime/51796 |
+| Kagi wo Hitsu Kushita Yamabiko        | None  | 1936 | 1        |  h  min    | Adventure, Fantasy              | https://myanimelist.net/anime/51796 |
 +---------------------------------------+-------+------+----------+------------+---------------------------------+-------------------------------------+

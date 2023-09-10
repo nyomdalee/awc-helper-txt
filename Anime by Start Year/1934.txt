@@ -9,25 +9,25 @@
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
 | Tengu Taiji                                | 5.06  | 1934 | 1        | 8 min      | Comedy              | https://myanimelist.net/anime/6837  |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Dekobou no Jidousha Ryokou                 | 4.09  | 1934 | 1        | 1 min      | Adventure, Racing   | https://myanimelist.net/anime/6838  |
+| Dekobou no Jidousha Ryokou                 | 4.08  | 1934 | 1        | 1 min      | Adventure, Racing   | https://myanimelist.net/anime/6838  |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Bouken Dankichi: Hyouryuu no Maki          | 4.34  | 1934 | 1        | 1 min      | Adventure           | https://myanimelist.net/anime/6849  |
+| Bouken Dankichi: Hyouryuu no Maki          | 4.33  | 1934 | 1        | 1 min      | Adventure           | https://myanimelist.net/anime/6849  |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Tsuki no Miya no Oujo-sama                 | 5.35  | 1934 | 1        | 11 min     | Kids                | https://myanimelist.net/anime/15139 |
+| Tsuki no Miya no Oujo-sama                 | 5.33  | 1934 | 1        | 11 min     | Kids                | https://myanimelist.net/anime/15139 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Ponsuke no Haru                            | 5.15  | 1934 | 1        | 7 min      | Comedy, Kids        | https://myanimelist.net/anime/23089 |
+| Ponsuke no Haru                            | 5.14  | 1934 | 1        | 7 min      | Comedy, Kids        | https://myanimelist.net/anime/23089 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
 | Genroku Koi Moyou: Sankichi to Osayo       | 4.81  | 1934 | 1        | 8 min      | Adventure, Romance  | https://myanimelist.net/anime/23265 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
 | Kachikachi Yama: Umi Yama-hen              | None  | 1934 | 1        | 14 min     | Fantasy             | https://myanimelist.net/anime/33133 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Adauchi Karasu                             | None  | 1934 | 1        | 12 min     | None                | https://myanimelist.net/anime/35212 |
+| Adauchi Karasu                             | None  | 1934 | 1        | 12 min     |                     | https://myanimelist.net/anime/35212 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Kamishibai Kintarou no Maki                | 5     | 1934 | 1        | 7 min      | Fantasy, Historical | https://myanimelist.net/anime/35400 |
+| Kamishibai Kintarou no Maki                | 4.99  | 1934 | 1        | 7 min      | Fantasy, Historical | https://myanimelist.net/anime/35400 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Gang to Odoriko                            | None  | 1934 | 1        | 6 min      | None                | https://myanimelist.net/anime/49257 |
+| Gang to Odoriko                            | None  | 1934 | 1        | 6 min      |                     | https://myanimelist.net/anime/49257 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
 | Mori no Yakyuudan                          | None  | 1934 | 1        | 8 min      | Sports              | https://myanimelist.net/anime/49258 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Garandou no Taiko                          | None  | 1934 | 1        | Unknown    | Action              | https://myanimelist.net/anime/51801 |
+| Garandou no Taiko                          | None  | 1934 | 1        |  h  min    | Action              | https://myanimelist.net/anime/51801 |
 +--------------------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
