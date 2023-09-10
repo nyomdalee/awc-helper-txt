@@ -1,4 +1,4 @@
-﻿namespace AwcHelper.Txt.Models;
+﻿namespace Models;
 internal class SimpleAnime
 {
     public string Title { get; }
@@ -9,7 +9,7 @@ internal class SimpleAnime
     public string Genres { get; }
     public string Link { get; }
 
-    public SimpleAnime(Anime anime)
+    public SimpleAnime(DomainAnime anime)
     {
         Title = anime.Title!;
 
@@ -18,10 +18,10 @@ internal class SimpleAnime
         else
             Score = anime.Mean.ToString()!;
 
-        if (anime.DeserializedStartDate.Year == null)
+        if (anime.StartDate.Year == null)
             Year = "Unknown";
         else
-            Year = anime.DeserializedStartDate.Year.ToString()!;
+            Year = anime.StartDate.Year.ToString()!;
 
         if (anime.NumEpisodes == 0 || anime.NumEpisodes == null)
             Episodes = "Unknown";
@@ -29,7 +29,7 @@ internal class SimpleAnime
             Episodes = anime.NumEpisodes.ToString()!;
 
         EpDuration = anime.EpisodeDurationToString();
-        Genres = anime.GenresToString();
+        Genres = anime.AllGenresThemesDemographicsToString();
         Link = $@"https://myanimelist.net/anime/{anime.Id}";
     }
 }

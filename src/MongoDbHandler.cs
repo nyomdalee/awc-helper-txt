@@ -1,4 +1,4 @@
-﻿using AwcHelper.Txt.Models;
+﻿using Models;
 using MongoDB.Driver;
 
 namespace AwcHelper.Txt;
@@ -18,10 +18,10 @@ public class MongoDbHandler
         return db.GetCollection<T>(collection);
     }
 
-    public async Task<List<Anime>> GetAllAnime()
+    public async Task<List<DomainAnime>> GetAllAnime()
     {
-        var animeCollection = ConnectToMongo<Anime>(_animeCollection);
-        var result = await animeCollection.FindAsync(_ => true);
+        var animeCollection = ConnectToMongo<DomainAnime>(_animeCollection);
+        var result = await animeCollection.FindAsync(a => a.Approved == true);
         return result.ToList();
     }
 }
