@@ -234,10 +234,10 @@ internal class TxtGenerator
         Console.WriteLine($@"Created: {folder}\{fileName}");
     }
 
-    private List<SimpleAnime> GetSimpleList(IEnumerable<DomainAnime> _animeList)
+    private List<SimpleAnime> GetSimpleList(IEnumerable<DomainAnime> animeList)
     {
         var simpleList = new List<SimpleAnime>();
-        foreach (var anime in _animeList)
+        foreach (var anime in animeList)
         {
             simpleList.Add(new SimpleAnime(anime));
         }
