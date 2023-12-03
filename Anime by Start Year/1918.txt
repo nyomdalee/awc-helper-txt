@@ -3,19 +3,19 @@
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
 | Urashima Tarou (supposed title)   | 4.7   | 1918 | 1        | 1 min      | Historical          | https://myanimelist.net/anime/7485  |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Momotarou                         | 5.55  | 1918 | 1        |  h  min    | Drama               | https://myanimelist.net/anime/10758 |
+| Momotarou                         | 5.55  | 1918 | 1        | Unknown    | Drama               | https://myanimelist.net/anime/10758 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Kintarou                          | 5.79  | 1918 | 1        |  h  min    | Drama               | https://myanimelist.net/anime/10759 |
+| Kintarou                          | 5.79  | 1918 | 1        | Unknown    | Drama               | https://myanimelist.net/anime/10759 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
 | Issunboushi                       | 5.61  | 1918 | 1        | 1 min      | Drama               | https://myanimelist.net/anime/10760 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Ari to Hato                       | None  | 1918 | 1        |  h  min    | Kids                | https://myanimelist.net/anime/21761 |
+| Ari to Hato                       | None  | 1918 | 1        | Unknown    | Kids                | https://myanimelist.net/anime/21761 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Kobutori                          | 5.73  | 1918 | 1        |  h  min    | Comedy, Mythology   | https://myanimelist.net/anime/22511 |
+| Kobutori                          | 5.73  | 1918 | 1        | Unknown    | Comedy, Mythology   | https://myanimelist.net/anime/22511 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Yukidaruma                        | None  | 1918 | 1        |  h  min    | Fantasy, Historical | https://myanimelist.net/anime/30957 |
+| Yukidaruma                        | None  | 1918 | 1        | Unknown    | Fantasy, Historical | https://myanimelist.net/anime/30957 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Kaeru no Yume                     | None  | 1918 | 1        |  h  min    |                     | https://myanimelist.net/anime/49243 |
+| Kaeru no Yume                     | None  | 1918 | 1        | Unknown    |                     | https://myanimelist.net/anime/49243 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+
-| Tarou no Banpei Senkoutei no Maki | None  | 1918 | 1        |  h  min    |                     | https://myanimelist.net/anime/49245 |
+| Tarou no Banpei Senkoutei no Maki | None  | 1918 | 1        | Unknown    |                     | https://myanimelist.net/anime/49245 |
 +-----------------------------------+-------+------+----------+------------+---------------------+-------------------------------------+

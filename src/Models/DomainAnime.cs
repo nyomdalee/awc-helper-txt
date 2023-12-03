@@ -117,7 +117,7 @@ public class DomainAnime
 
     public string EpisodeDurationToString()
     {
-        if (AverageEpisodeDuration == 0)
+        if (AverageEpisodeDuration == 0 || AverageEpisodeDuration == null)
             return "Unknown";
 
         if (AverageEpisodeDuration < 60)
