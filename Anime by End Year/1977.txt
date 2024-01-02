@@ -1,45 +1,45 @@
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
 | Title                              | Score | Year | Episodes | EpDuration | Genres                                  | Link                                |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Daikuu Maryuu Gaiking              | 6.87  | 1976 | 44       | 24 min     | Action, Adventure, Mecha, Sci-Fi        | https://myanimelist.net/anime/956   |
+| Daikuu Maryuu Gaiking              | 6.84  | 1976 | 44       | 24 min     | Action, Adventure, Mecha, Sci-Fi        | https://myanimelist.net/anime/956   |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Chou Denji Robo Combattler V       | 6.86  | 1976 | 54       | 25 min     | Adventure, Mecha, Sci-Fi                | https://myanimelist.net/anime/1068  |
+| Chou Denji Robo Combattler V       | 6.84  | 1976 | 54       | 25 min     | Adventure, Mecha, Sci-Fi                | https://myanimelist.net/anime/1068  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
 | UFO Robo Grendizer                 | 7.57  | 1975 | 74       | 25 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/1985  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
 | Pinocchio yori Piccolino no Bouken | 6.3   | 1976 | 52       | 24 min     | Adventure, Kids                         | https://myanimelist.net/anime/2567  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Araiguma Rascal                    | 6.78  | 1977 | 52       | 26 min     | Drama, Historical, Pets, Slice of Life  | https://myanimelist.net/anime/2576  |
+| Araiguma Rascal                    | 6.76  | 1977 | 52       | 26 min     | Drama, Historical, Pets, Slice of Life  | https://myanimelist.net/anime/2576  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Gasshin Sentai Mechander Robo      | 5.9   | 1977 | 35       | 23 min     | Mecha, Military, Mystery, Sci-Fi, Space | https://myanimelist.net/anime/3294  |
+| Gasshin Sentai Mechander Robo      | 5.84  | 1977 | 35       | 23 min     | Mecha, Military, Mystery, Sci-Fi, Space | https://myanimelist.net/anime/3294  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Little Lulu to Chicchai Nakama     | 6.47  | 1976 | 26       | 25 min     | Comedy, Kids, Slice of Life             | https://myanimelist.net/anime/3823  |
+| Little Lulu to Chicchai Nakama     | 6.44  | 1976 | 26       | 25 min     | Comedy, Kids, Slice of Life             | https://myanimelist.net/anime/3823  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
 | Magnerobo Ga-Keen                  | 6.23  | 1976 | 39       | 24 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/3932  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Paul no Miracle Daisakusen         | 6.46  | 1976 | 50       | 25 min     | Action, Adventure, Kids                 | https://myanimelist.net/anime/4013  |
+| Paul no Miracle Daisakusen         | 6.44  | 1976 | 50       | 25 min     | Action, Adventure, Kids                 | https://myanimelist.net/anime/4013  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Ashita e Attack!                   | 6.39  | 1977 | 23       | 24 min     | Drama, School, Sports, Team Sports      | https://myanimelist.net/anime/4339  |
+| Ashita e Attack!                   | 6.35  | 1977 | 23       | 24 min     | Drama, School, Sports, Team Sports      | https://myanimelist.net/anime/4339  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Seton Doubutsuki: Kuma no Ko Jacky | 6.74  | 1977 | 26       | 24 min     | Adventure, Drama, Historical            | https://myanimelist.net/anime/4514  |
+| Seton Doubutsuki: Kuma no Ko Jacky | 6.73  | 1977 | 26       | 24 min     | Adventure, Drama, Historical            | https://myanimelist.net/anime/4514  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Groizer X                          | 6.23  | 1976 | 36       | 25 min     | Mecha, Sci-Fi                           | https://myanimelist.net/anime/5131  |
+| Groizer X                          | 6.21  | 1976 | 36       | 25 min     | Mecha, Sci-Fi                           | https://myanimelist.net/anime/5131  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Blocker Gundan IV Machine Blaster  | 6.12  | 1976 | 38       | 23 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/5829  |
+| Blocker Gundan IV Machine Blaster  | 6.04  | 1976 | 38       | 23 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/5829  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Jetter Mars                        | 6.32  | 1977 | 27       | 23 min     | Action, Drama, Mecha, Sci-Fi            | https://myanimelist.net/anime/6087  |
+| Jetter Mars                        | 6.29  | 1977 | 27       | 23 min     | Action, Drama, Sci-Fi                   | https://myanimelist.net/anime/6087  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Chogattai Majutsu Robot Ginguiser  | 5.9   | 1977 | 26       | 24 min     | Action, Adventure, Mecha, Sci-Fi        | https://myanimelist.net/anime/8375  |
+| Chogattai Majutsu Robot Ginguiser  | 5.87  | 1977 | 26       | 24 min     | Action, Adventure, Mecha, Sci-Fi        | https://myanimelist.net/anime/8375  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Hyouga Senshi Gaislugger           | 5.96  | 1977 | 20       | 30 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/9781  |
+| Hyouga Senshi Gaislugger           | 5.9   | 1977 | 20       | 30 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/9781  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Kyouryuu Tankentai Born Free       | 6.19  | 1976 | 25       | 24 min     | Action, Sci-Fi                          | https://myanimelist.net/anime/9978  |
+| Kyouryuu Tankentai Born Free       | 6.16  | 1976 | 25       | 24 min     | Action, Sci-Fi                          | https://myanimelist.net/anime/9978  |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| UFO Senshi Dai Apolon 2            | 6.54  | 1976 | 21       | 24 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/10815 |
+| UFO Senshi Dai Apolon 2            | 6.5   | 1976 | 21       | 24 min     | Action, Mecha, Sci-Fi                   | https://myanimelist.net/anime/10815 |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Ganso Tensai Bakabon               | 6.47  | 1975 | 103      | 24 min     | Comedy, Gag Humor, Slice of Life        | https://myanimelist.net/anime/11268 |
+| Ganso Tensai Bakabon               | 6.39  | 1975 | 103      | 24 min     | Comedy, Gag Humor, Slice of Life        | https://myanimelist.net/anime/11268 |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
-| Barbapapa (1977)                   | 5.89  | 1977 | 48       | 5 min      | Comedy, Fantasy, Kids                   | https://myanimelist.net/anime/19959 |
+| Barbapapa (1977)                   | 5.81  | 1977 | 48       | 5 min      | Comedy, Fantasy, Kids                   | https://myanimelist.net/anime/19959 |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+
 | Robokko Beeton                     | None  | 1976 | 50       | 25 min     | Adventure, Comedy, Kids, Slice of Life  | https://myanimelist.net/anime/20147 |
 +------------------------------------+-------+------+----------+------------+-----------------------------------------+-------------------------------------+

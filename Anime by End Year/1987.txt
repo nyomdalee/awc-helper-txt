@@ -3,61 +3,61 @@
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Kidou Senshi Gundam ZZ                    | 6.69  | 1986 | 47       | 24 min     | Comedy, Drama, Mecha, Military, Sci-Fi, Space                      | https://myanimelist.net/anime/86    |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| High School! Kimengumi                    | 7.36  | 1985 | 86       | 25 min     | Comedy, Gag Humor, Parody, Romance, School, Shounen                | https://myanimelist.net/anime/714   |
+| High School! Kimengumi                    | 7.35  | 1985 | 86       | 25 min     | Comedy, Gag Humor, Parody, Romance, School, Shounen                | https://myanimelist.net/anime/714   |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Hokuto no Ken                             | 7.96  | 1984 | 109      | 25 min     | Action, Drama, Martial Arts, Sci-Fi, Shounen                       | https://myanimelist.net/anime/967   |
+| Hokuto no Ken                             | 7.96  | 1984 | 109      | 25 min     | Action, Drama, Gore, Martial Arts, Sci-Fi, Shounen, Super Power    | https://myanimelist.net/anime/967   |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Touch                                     | 8     | 1985 | 101      | 25 min     | Drama, Love Polygon, Romance, School, Shounen, Sports, Team Sports | https://myanimelist.net/anime/1065  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Twilight Q                                | 6.31  | 1987 | 2        | 30 min     | Mystery, Psychological, Sci-Fi                                     | https://myanimelist.net/anime/1981  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Maple Town Monogatari                     | 6.94  | 1986 | 52       | 24 min     | Fantasy, Slice of Life                                             | https://myanimelist.net/anime/2223  |
+| Maple Town Monogatari                     | 6.92  | 1986 | 52       | 24 min     | Anthropomorphic, Fantasy, Slice of Life                            | https://myanimelist.net/anime/2223  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Tatakae!! Iczer-1                         | 6.19  | 1985 | 3        | 33 min     | Action, Ecchi, Mecha, Sci-Fi                                       | https://myanimelist.net/anime/2291  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Ai no Wakakusa Monogatari                 | 7.38  | 1987 | 48       | 24 min     | Drama, Historical, Slice of Life                                   | https://myanimelist.net/anime/2548  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Akai Koudan Zillion                       | 6.61  | 1987 | 31       | 24 min     | Action, Adventure, Military, Sci-Fi                                | https://myanimelist.net/anime/2688  |
+| Akai Koudan Zillion                       | 6.58  | 1987 | 31       | 24 min     | Action, Adventure, Military, Sci-Fi                                | https://myanimelist.net/anime/2688  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Oz no Mahoutsukai (TV)                    | 6.7   | 1986 | 52       | 25 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/2826  |
+| Oz no Mahoutsukai (TV)                    | 6.71  | 1986 | 52       | 25 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/2826  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Ganbare! Kickers                          | 6.86  | 1986 | 23       | 23 min     | Kids, Sports, Team Sports                                          | https://myanimelist.net/anime/3053  |
+| Ganbare! Kickers                          | 6.85  | 1986 | 23       | 23 min     | Kids, Sports, Team Sports                                          | https://myanimelist.net/anime/3053  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Cream Lemon: Lemon Angel                  | 5.35  | 1987 | 37       | 3 min      | Ecchi, Idols (Female), Music                                       | https://myanimelist.net/anime/3205  |
+| Cream Lemon: Lemon Angel                  | 5.32  | 1987 | 37       | 3 min      | Ecchi, Idols (Female), Music                                       | https://myanimelist.net/anime/3205  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Uchuusen Sagittarius                      | 7.49  | 1986 | 77       | 24 min     | Adventure, Sci-Fi                                                  | https://myanimelist.net/anime/3317  |
+| Uchuusen Sagittarius                      | 7.48  | 1986 | 77       | 24 min     | Adventure, Sci-Fi                                                  | https://myanimelist.net/anime/3317  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Bosco Daibouken                           | 7.28  | 1986 | 26       | 25 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/3460  |
+| Bosco Daibouken                           | 7.24  | 1986 | 26       | 25 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/3460  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Machine Robo: Cronos no Dai Gyakushuu     | 6.34  | 1986 | 47       | 24 min     | Action, Martial Arts, Mecha, Sci-Fi, Space                         | https://myanimelist.net/anime/3676  |
+| Machine Robo: Cronos no Dai Gyakushuu     | 6.31  | 1986 | 47       | 24 min     | Action, Martial Arts, Mecha, Sci-Fi, Space                         | https://myanimelist.net/anime/3676  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Dream Hunter Rem                          | 6.32  | 1985 | 4        | 40 min     | Action, Ecchi, Fantasy, Mahou Shoujo, Mystery, Mythology           | https://myanimelist.net/anime/4003  |
+| Dream Hunter Rem                          | 6.31  | 1985 | 4        | 40 min     | Action, Ecchi, Fantasy, Mahou Shoujo, Mystery, Mythology           | https://myanimelist.net/anime/4003  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Sanrio Anime Sekai Meisaku Gekijou        | 6.25  | 1987 | 13       | 24 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/4024  |
+| Sanrio Anime Sekai Meisaku Gekijou        | 6.23  | 1987 | 13       | 24 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/4024  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Chiisana Penguin Lolo no Bouken           | 7.36  | 1986 | 3        | 30 min     | Adventure, Drama, Fantasy, Kids, Slice of Life                     | https://myanimelist.net/anime/4138  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Ninja Hattori-kun                         | 6.93  | 1981 | 694      | 10 min     | Comedy, Martial Arts, Shounen, Slice of Life                       | https://myanimelist.net/anime/4936  |
+| Ninja Hattori-kun                         | 6.94  | 1981 | 694      | 10 min     | Comedy, Martial Arts, Shounen, Slice of Life                       | https://myanimelist.net/anime/4936  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Shin Maple Town Monogatari: Palm Town-hen | 6.95  | 1987 | 50       | 24 min     | Fantasy, Slice of Life                                             | https://myanimelist.net/anime/5203  |
+| Shin Maple Town Monogatari: Palm Town-hen | 6.94  | 1987 | 50       | 24 min     | Anthropomorphic, Fantasy, Slice of Life                            | https://myanimelist.net/anime/5203  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Anmitsu Hime                              | 7.41  | 1986 | 51       | 24 min     | Comedy, Historical, Shoujo                                         | https://myanimelist.net/anime/6093  |
+| Anmitsu Hime                              | 7.39  | 1986 | 51       | 24 min     | Comedy, Historical, Shoujo                                         | https://myanimelist.net/anime/6093  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Dorimogu Daa!!                            | 6.39  | 1986 | 49       | 25 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/6771  |
+| Dorimogu Daa!!                            | 6.31  | 1986 | 49       | 25 min     | Adventure, Fantasy, Kids                                           | https://myanimelist.net/anime/6771  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Oh! Family                                | 6.44  | 1986 | 26       | 23 min     | Comedy, Drama, Romance, Shoujo, Slice of Life                      | https://myanimelist.net/anime/7575  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Obake no Q-tarou (1985)                   | 6.27  | 1985 | 510      | 15 min     | Comedy, Kids, School, Slice of Life, Supernatural                  | https://myanimelist.net/anime/7981  |
+| Obake no Q-tarou (1985)                   | 6.22  | 1985 | 510      | 15 min     | Comedy, Kids, School, Slice of Life, Supernatural                  | https://myanimelist.net/anime/7981  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Hulu Xiongdi                              | 6.43  | 1986 | 13       | 10 min     | Super Power                                                        | https://myanimelist.net/anime/9950  |
+| Hulu Xiongdi                              | 6.38  | 1986 | 13       | 10 min     | Super Power                                                        | https://myanimelist.net/anime/9950  |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Bug tte Honey                             | 7.05  | 1986 | 51       | 25 min     | Adventure, Comedy                                                  | https://myanimelist.net/anime/10210 |
+| Bug tte Honey                             | 6.98  | 1986 | 51       | 25 min     | Adventure, Comedy                                                  | https://myanimelist.net/anime/10210 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Awake                                     | 5.08  | 1984 | 2        | 3 min      | Action, Mecha, Parody, Sci-Fi                                      | https://myanimelist.net/anime/11087 |
+| Awake                                     | 5.04  | 1984 | 2        | 3 min      | Action, Mecha, Parody, Sci-Fi                                      | https://myanimelist.net/anime/11087 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Machine Robo: Butchigiri Battle Hackers   | 6.22  | 1987 | 31       | 25 min     | Action, Mecha, Sci-Fi                                              | https://myanimelist.net/anime/16131 |
+| Machine Robo: Butchigiri Battle Hackers   | 6.17  | 1987 | 31       | 25 min     | Action, Mecha, Sci-Fi                                              | https://myanimelist.net/anime/16131 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| High School Agent                         | 5.41  | 1987 | 2        | 28 min     | Action, Drama, Military                                            | https://myanimelist.net/anime/18557 |
+| High School Agent                         | 5.4   | 1987 | 2        | 28 min     | Action, Drama, Military                                            | https://myanimelist.net/anime/18557 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Dotanba no Manners                        | None  | 1984 | 283      | 5 min      | Comedy, Slice of Life                                              | https://myanimelist.net/anime/20077 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
@@ -65,7 +65,7 @@
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Slippy Dandy                              | None  | 1987 | 4        | 2 min      | Action, Kids, Mystery                                              | https://myanimelist.net/anime/28019 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
-| Victor Hyper Robot Compo CM's             | None  | 1986 | 2        | 30 sec     | Fantasy, Sci-Fi                                                    | https://myanimelist.net/anime/45627 |
+| Victor Hyper Robot Compo CM's             | 5.52  | 1986 | 2        | 30 sec     | Fantasy, Sci-Fi                                                    | https://myanimelist.net/anime/45627 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+
 | Donghwanala ABC                           | None  | 1987 | 12       | 17 min     | Fantasy, Kids                                                      | https://myanimelist.net/anime/48165 |
 +-------------------------------------------+-------+------+----------+------------+--------------------------------------------------------------------+-------------------------------------+

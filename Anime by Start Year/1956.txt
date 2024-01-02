@@ -1,17 +1,17 @@
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
 | Title                         | Score | Year | Episodes | EpDuration | Genres       | Link                                |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
-| Kuroi Kikori to Shiroi Kikori | 6.25  | 1956 | 1        | 16 min     | Fantasy      | https://myanimelist.net/anime/7532  |
+| Kuroi Kikori to Shiroi Kikori | 6.24  | 1956 | 1        | 16 min     | Fantasy      | https://myanimelist.net/anime/7532  |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
-| Yuureisen                     | 5.58  | 1956 | 1        | 11 min     | Supernatural | https://myanimelist.net/anime/11447 |
+| Yuureisen                     | 5.54  | 1956 | 1        | 11 min     | Supernatural | https://myanimelist.net/anime/11447 |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
-| Jiaoao de Jiangjun            | 5.45  | 1956 | 1        | 24 min     | Drama        | https://myanimelist.net/anime/29623 |
+| Jiaoao de Jiangjun            | 5.42  | 1956 | 1        | 24 min     | Drama        | https://myanimelist.net/anime/29623 |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
-| Beer Mukashi Mukashi          | 5.4   | 1956 | 1        | 12 min     | Historical   | https://myanimelist.net/anime/29897 |
+| Beer Mukashi Mukashi          | 5.37  | 1956 | 1        | 12 min     | Historical   | https://myanimelist.net/anime/29897 |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
-| Uriko-hime to Amanojaku       | 5.42  | 1956 | 1        | 17 min     | Mythology    | https://myanimelist.net/anime/29917 |
+| Uriko-hime to Amanojaku       | 5.28  | 1956 | 1        | 17 min     | Mythology    | https://myanimelist.net/anime/29917 |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
-| Go-hiki no Kozaru-tachi       | 5.34  | 1956 | 1        | 16 min     | Mythology    | https://myanimelist.net/anime/29918 |
+| Go-hiki no Kozaru-tachi       | 5.21  | 1956 | 1        | 16 min     | Mythology    | https://myanimelist.net/anime/29918 |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+
 | Chibikuro Sambo no Tora Taiji | None  | 1956 | 1        | 20 min     | Kids         | https://myanimelist.net/anime/29947 |
 +-------------------------------+-------+------+----------+------------+--------------+-------------------------------------+

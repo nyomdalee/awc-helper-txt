@@ -1,29 +1,29 @@
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
 | Title                                                                 | Score | Year    | Episodes | EpDuration | Genres                                        | Link                                |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Trouble Chocolate                                                     | 6.52  | 1999    | 20       | 23 min     | Comedy, Romance, Sci-Fi                       | https://myanimelist.net/anime/744   |
+| Trouble Chocolate                                                     | 6.51  | 1999    | 20       | 23 min     | Comedy, Romance, Sci-Fi                       | https://myanimelist.net/anime/744   |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Dennou Sentai Voogie's★Angel                                          | 5.58  | 1997    | 3        | 27 min     | Action, Drama, Mecha, Military, Sci-Fi        | https://myanimelist.net/anime/2453  |
+| Dennou Sentai Voogie's★Angel                                          | 5.56  | 1997    | 3        | 27 min     | Action, Drama, Mecha, Military, Sci-Fi        | https://myanimelist.net/anime/2453  |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Chance Triangle Session                                               | 6.45  | 2001    | 13       | 24 min     | Drama, Idols (Female), Music, Slice of Life   | https://myanimelist.net/anime/2495  |
+| Chance Triangle Session                                               | 6.43  | 2001    | 13       | 24 min     | Drama, Idols (Female), Music, Slice of Life   | https://myanimelist.net/anime/2495  |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou          | 5.95  | 1992    | 1        | 3 min      | Action, Drama, Mecha, Military, Sci-Fi, Space | https://myanimelist.net/anime/10581 |
+| Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou          | 5.93  | 1992    | 1        | 3 min      | Action, Drama, Mecha, Military, Sci-Fi, Space | https://myanimelist.net/anime/10581 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
 | Yanbou Ninbou Tonbou                                                  | None  | 1995    | 39       | 25 min     | Fantasy                                       | https://myanimelist.net/anime/12793 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| 77Danui Bimil                                                         | 4.71  | 1978    | 1        | 1 h 9 min  | Action, Adventure, Drama                      | https://myanimelist.net/anime/16812 |
+| 77Danui Bimil                                                         | 4.69  | 1978    | 1        | 1 h 9 min  | Action, Adventure, Drama                      | https://myanimelist.net/anime/16812 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Suzakinishi The Animation                                             | 5.39  | 2015    | 12       | 3 min      | Comedy, Slice of Life                         | https://myanimelist.net/anime/30826 |
+| Suzakinishi The Animation                                             | 5.37  | 2015    | 12       | 3 min      | Comedy, Slice of Life                         | https://myanimelist.net/anime/30826 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou       | 5.26  | 2015    | 5        | 3 min      | Comedy                                        | https://myanimelist.net/anime/31071 |
+| Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou       | 5.17  | 2015    | 5        | 3 min      | Comedy                                        | https://myanimelist.net/anime/31071 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou (ONA) | 5.32  | 2015    | 2        | 3 min      | Comedy, Racing                                | https://myanimelist.net/anime/32408 |
+| Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou (ONA) | 5.24  | 2015    | 2        | 3 min      | Comedy, Racing                                | https://myanimelist.net/anime/32408 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Nani no Yaku ni Mo Tatanai Karappona Hanashi                          | 5.06  | 2013    | 2        | 1 min      | Comedy                                        | https://myanimelist.net/anime/33861 |
+| Nani no Yaku ni Mo Tatanai Karappona Hanashi                          | 4.89  | 2013    | 2        | 1 min      | Comedy                                        | https://myanimelist.net/anime/33861 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
 | Ohanashi de Te Koi                                                    | None  | Unknown | 5        | 15 min     | Fantasy, Kids                                 | https://myanimelist.net/anime/35061 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
-| Seiji no Rinrika                                                      | 5.02  | 1926    | 1        | 32 min     | Historical                                    | https://myanimelist.net/anime/35366 |
+| Seiji no Rinrika                                                      | 4.96  | 1926    | 1        | 32 min     | Historical                                    | https://myanimelist.net/anime/35366 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+
 | Yanbou Ninbou Tonbou no Koutsuu Anzen                                 | None  | 1997    | 1        | 15 min     | Kids                                          | https://myanimelist.net/anime/39228 |
 +-----------------------------------------------------------------------+-------+---------+----------+------------+-----------------------------------------------+-------------------------------------+

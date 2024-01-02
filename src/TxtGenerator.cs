@@ -1,4 +1,5 @@
 ﻿using Models;
+using System.Text.RegularExpressions;
 using Tababular;
 
 namespace AwcHelper.Txt;
@@ -253,4 +254,17 @@ internal class TxtGenerator
         File.WriteAllLines(path, readmeLines.Take(readmeLines.Length - 1).ToArray());
         File.AppendAllText(path, date);
     }
+
+    public void GenerateTwentyThree()
+    {
+        var folder = "Anime by 23";
+        PrepareDirectory(folder);
+
+        var simpleList = GetSimpleList(_animeList.Where(a => Regex.IsMatch(a.Id.ToString(), @".*23.*")));
+
+        CreateFile(simpleList, folder, "23");
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
 }

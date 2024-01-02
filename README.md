@@ -6,4 +6,4 @@ This project aims to help with finding anime for the [Anime Watching Challenge](
 It is made in .NET 6, because why not. The lists are sourced from a local MongoDB which is maintained by another project and gets its data from the official MyAnimeList API.
 
 Lists are up to date to:
-August 29, 2023
+January 01, 2024
