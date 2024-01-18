@@ -33,6 +33,7 @@ internal class TxtGenerator
         GenerateByEndDay();
         GenerateByEndMonth();
         GenerateByEndYear();
+        GenerateByOpEd();
         UpdateReadme();
     }
 
@@ -207,6 +208,22 @@ internal class TxtGenerator
 
         Console.WriteLine($"Completed: {folder}");
     }
+
+
+    private void GenerateByOpEd()
+    {
+        var folder = @"OP_ED";
+        PrepareDirectory(folder);
+
+        var simpleList = GetSimpleList(_animeList.Where(a => a.NumEpisodes >= 20 && a.Theme.Openings.Count() == 1 && a.Theme.Endings.Count() == 1));
+        CreateFile(simpleList, folder, @"20episodesOnly1OPand1ED");
+
+        simpleList = GetSimpleList(_animeList.Where(a => a.Theme.Openings.Count() >= 5 || a.Theme.Endings.Count() >= 5));
+        CreateFile(simpleList, folder, @"5orMoreOPorED");
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
 
     private void PrepareDirectory(string folder)
     {
