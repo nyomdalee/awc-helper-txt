@@ -34,6 +34,7 @@ internal class TxtGenerator
         GenerateByEndMonth();
         GenerateByEndYear();
         GenerateByOpEd();
+        GenerateTenTitle();
         UpdateReadme();
     }
 
@@ -303,4 +304,20 @@ internal class TxtGenerator
         Console.WriteLine($"Completed: {folder}");
     }
 
+    public void GenerateTenTitle()
+    {
+        var folder = "Anime by Title";
+        PrepareDirectory(folder);
+
+        var textList = GetSimpleList(_animeList
+            .Where(a => a.Title.Contains("10", StringComparison.InvariantCultureIgnoreCase)));
+
+        var twoList = GetSimpleList(_animeList
+            .Where(a => a.Title.Contains("ten", StringComparison.InvariantCultureIgnoreCase)));
+
+        textList.AddRange(twoList);
+        CreateFile(textList, folder, "Title contains 'ten' or '10'");
+
+        Console.WriteLine($"Completed: {folder}");
+    }
 }
