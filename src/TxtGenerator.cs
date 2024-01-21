@@ -219,8 +219,27 @@ internal class TxtGenerator
         CreateFile(simpleList, folder, @"20episodesOnly1OPand1ED");
 
         simpleList = GetSimpleList(_animeList.Where(a => a.Theme.Openings.Count() >= 5 || a.Theme.Endings.Count() >= 5));
-        CreateFile(simpleList, folder, @"5orMoreOPorED");
+        CreateFile(simpleList, folder, @"5 or more OP or ED");
 
+        simpleList = GetSimpleList(_animeList.Where(IsTwoBySameArtist));
+        CreateFile(simpleList, folder, @"2 or more OP or ED by the same artist");
+
+        static bool IsTwoBySameArtist(DomainAnime anime)
+        {
+            int initialCount = anime.Theme.Openings.Count + anime.Theme.Endings.Count;
+
+            if (initialCount < 2)
+                return false;
+
+            List<string> cleaned = new();
+            foreach (var item in anime.Theme.Endings.Concat(anime.Theme.Openings))
+                cleaned.Add(item[(item.Contains("\" by ") ? item.IndexOf("\" by ") + 5 : 0)..(item.Contains("(eps") ? item.IndexOf("(eps") : item.Length)]);
+
+            if (initialCount > cleaned.Distinct().Count())
+                return true;
+
+            return false;
+        }
         Console.WriteLine($"Completed: {folder}");
     }
 
