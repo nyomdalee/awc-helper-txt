@@ -35,6 +35,7 @@ internal class TxtGenerator
         GenerateByEndYear();
         GenerateByOpEd();
         GenerateTenTitle();
+        GenerateTenId();
         UpdateReadme();
     }
 
@@ -217,7 +218,7 @@ internal class TxtGenerator
         PrepareDirectory(folder);
 
         var simpleList = GetSimpleList(_animeList.Where(a => a.NumEpisodes >= 20 && a.Theme.Openings.Count() == 1 && a.Theme.Endings.Count() == 1));
-        CreateFile(simpleList, folder, @"20episodesOnly1OPand1ED");
+        CreateFile(simpleList, folder, @"20 or more episodes with only 1 OP and ED");
 
         simpleList = GetSimpleList(_animeList.Where(a => a.Theme.Openings.Count() >= 5 || a.Theme.Endings.Count() >= 5));
         CreateFile(simpleList, folder, @"5 or more OP or ED");
@@ -243,7 +244,6 @@ internal class TxtGenerator
         }
         Console.WriteLine($"Completed: {folder}");
     }
-
 
     private void PrepareDirectory(string folder)
     {
@@ -317,6 +317,19 @@ internal class TxtGenerator
 
         textList.AddRange(twoList);
         CreateFile(textList, folder, "Title contains 'ten' or '10'");
+
+        Console.WriteLine($"Completed: {folder}");
+    }
+
+    public void GenerateTenId()
+    {
+        var folder = "Anime by ID";
+        PrepareDirectory(folder);
+
+        var oneList = GetSimpleList(_animeList
+            .Where(a => a.Id.ToString().Contains("10", StringComparison.InvariantCultureIgnoreCase)));
+
+        CreateFile(oneList, folder, "ID contains '10'");
 
         Console.WriteLine($"Completed: {folder}");
     }
