@@ -1,31 +1,31 @@
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
 | Title                             | Score | Year | Episodes | EpDuration | Genres                                                     | Link                                |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Kerokko Demetan                   | 6.07  | 1973 | 39       | 24 min     | Comedy, Fantasy, Kids                                      | https://myanimelist.net/anime/307   |
+| Kerokko Demetan                   | 6.11  | 1973 | 39       | 24 min     | Comedy, Fantasy, Kids                                      | https://myanimelist.net/anime/307   |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Doraemon                          | 7.37  | 1973 | 26       | 25 min     | Adventure, Anthropomorphic, Comedy, Fantasy, Kids, Shounen | https://myanimelist.net/anime/501   |
+| Doraemon                          | 7.38  | 1973 | 26       | 25 min     | Adventure, Anthropomorphic, Comedy, Fantasy, Kids, Shounen | https://myanimelist.net/anime/501   |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Babel Nisei                       | 6.29  | 1973 | 39       | 25 min     | Adventure, Sci-Fi, Shounen, Supernatural                   | https://myanimelist.net/anime/1666  |
+| Babel Nisei                       | 6.32  | 1973 | 39       | 25 min     | Adventure, Sci-Fi, Shounen, Supernatural                   | https://myanimelist.net/anime/1666  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
 | Devilman                          | 6.5   | 1972 | 39       | 25 min     | Action, Horror, Mythology, Supernatural                    | https://myanimelist.net/anime/2252  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Panda Kopanda                     | 6.73  | 1972 | 2        | 36 min     | Anthropomorphic, Comedy, Kids                              | https://myanimelist.net/anime/2611  |
+| Panda Kopanda                     | 6.74  | 1972 | 2        | 36 min     | Anthropomorphic, Comedy, Kids                              | https://myanimelist.net/anime/2611  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Microid S                         | 6.24  | 1973 | 26       | 25 min     | Action, Sci-Fi                                             | https://myanimelist.net/anime/3846  |
+| Microid S                         | 6.32  | 1973 | 26       | 25 min     | Action, Sci-Fi                                             | https://myanimelist.net/anime/3846  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Yama Nezumi Rocky Chuck           | 6.15  | 1973 | 52       | 25 min     | Adventure, Anthropomorphic, Fantasy, Kids                  | https://myanimelist.net/anime/4615  |
+| Yama Nezumi Rocky Chuck           | 6.23  | 1973 | 52       | 25 min     | Adventure, Anthropomorphic, Fantasy, Kids                  | https://myanimelist.net/anime/4615  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Astroganger                       | 6.28  | 1972 | 26       | 24 min     | Action, Mecha, Sci-Fi                                      | https://myanimelist.net/anime/5311  |
+| Astroganger                       | 6.3   | 1972 | 26       | 24 min     | Action, Mecha, Sci-Fi                                      | https://myanimelist.net/anime/5311  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Wansa-kun                         | 6.3   | 1973 | 26       | 25 min     | Comedy                                                     | https://myanimelist.net/anime/6868  |
+| Wansa-kun                         | 6.4   | 1973 | 26       | 25 min     | Comedy                                                     | https://myanimelist.net/anime/6868  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
 | Ryuuichi Manga Gekijou Onbu Obake | None  | 1972 | 52       | 25 min     | Supernatural                                               | https://myanimelist.net/anime/8685  |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Jungle Kurobee                    | 5.98  | 1973 | 31       | 25 min     | Comedy                                                     | https://myanimelist.net/anime/10889 |
+| Jungle Kurobee                    | 6.12  | 1973 | 31       | 25 min     | Comedy                                                     | https://myanimelist.net/anime/10889 |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Akadou Suzunosuke                 | 6.33  | 1972 | 52       | 24 min     | Adventure, Historical                                      | https://myanimelist.net/anime/11275 |
+| Akadou Suzunosuke                 | 6.46  | 1972 | 52       | 24 min     | Adventure, Historical                                      | https://myanimelist.net/anime/11275 |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
-| Kaiketsu Tamagon                  | None  | 1972 | 195      | 5 min      | Adventure, Comedy, Kids                                    | https://myanimelist.net/anime/19087 |
+| Kaiketsu Tamagon                  | 6.07  | 1972 | 195      | 5 min      | Adventure, Comedy, Kids                                    | https://myanimelist.net/anime/19087 |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+
 | Hazedon                           | None  | 1972 | 26       | 25 min     | Adventure, Comedy, Kids                                    | https://myanimelist.net/anime/23015 |
 +-----------------------------------+-------+------+----------+------------+------------------------------------------------------------+-------------------------------------+

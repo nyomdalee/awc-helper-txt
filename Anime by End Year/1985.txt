@@ -1,75 +1,75 @@
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
 | Title                                 | Score | Year | Episodes | EpDuration | Genres                                                         | Link                                |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Dirty Pair                            | 7.21  | 1985 | 24       | 24 min     | Adventure, Comedy, Detective, Sci-Fi                           | https://myanimelist.net/anime/424   |
+| Dirty Pair                            | 7.22  | 1985 | 24       | 24 min     | Adventure, Comedy, Sci-Fi                                      | https://myanimelist.net/anime/424   |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Lupin III: Part III                   | 7.29  | 1984 | 50       | 24 min     | Action, Adult Cast, Adventure, Comedy, Seinen                  | https://myanimelist.net/anime/1426  |
+| Lupin III: Part III                   | 7.31  | 1984 | 50       | 24 min     | Action, Adult Cast, Adventure, Comedy, Seinen                  | https://myanimelist.net/anime/1426  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Meitantei Holmes                      | 7.37  | 1984 | 26       | 25 min     | Action, Adventure, Anthropomorphic, Comedy, Detective, Mystery | https://myanimelist.net/anime/1972  |
+| Meitantei Holmes                      | 7.38  | 1984 | 26       | 25 min     | Action, Adventure, Anthropomorphic, Comedy, Detective, Mystery | https://myanimelist.net/anime/1972  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Mahou no Yousei Persia                | 7.35  | 1984 | 48       | 24 min     | Comedy, Mahou Shoujo                                           | https://myanimelist.net/anime/2039  |
+| Mahou no Yousei Persia                | 7.53  | 1984 | 48       | 24 min     | Comedy, Mahou Shoujo                                           | https://myanimelist.net/anime/2039  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Cat's Eye                             | 7.2   | 1983 | 73       | 25 min     | Action, Adventure, Comedy, Mystery, Romance, Shounen           | https://myanimelist.net/anime/2043  |
+| Cat's Eye                             | 7.21  | 1983 | 73       | 25 min     | Action, Adventure, Comedy, Mystery, Romance, Shounen           | https://myanimelist.net/anime/2043  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Mori no Tonto-tachi                   | 6.17  | 1984 | 23       | 25 min     | Fantasy, Kids                                                  | https://myanimelist.net/anime/2226  |
+| Mori no Tonto-tachi                   | 6.21  | 1984 | 23       | 25 min     | Fantasy, Kids                                                  | https://myanimelist.net/anime/2226  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Choujuu Kishin Dancougar              | 6.7   | 1985 | 38       | 23 min     | Action, Mecha, Sci-Fi                                          | https://myanimelist.net/anime/2255  |
+| Choujuu Kishin Dancougar              | 6.72  | 1985 | 38       | 23 min     | Action, Mecha, Sci-Fi, Space                                   | https://myanimelist.net/anime/2255  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Sei Juushi Bismarck                   | 7.25  | 1984 | 51       | 24 min     | Action, Adventure, Mecha, Sci-Fi, Space                        | https://myanimelist.net/anime/2361  |
+| Sei Juushi Bismarck                   | 7.27  | 1984 | 51       | 24 min     | Action, Adventure, Mecha, Sci-Fi, Space                        | https://myanimelist.net/anime/2361  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Princess Sara                         | 7.67  | 1985 | 46       | 25 min     | Drama, Historical                                              | https://myanimelist.net/anime/2547  |
+| Princess Sara                         | 7.68  | 1985 | 46       | 25 min     | Drama, Historical                                              | https://myanimelist.net/anime/2547  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Kojika Monogatari                     | 6.48  | 1983 | 52       | 22 min     | Drama                                                          | https://myanimelist.net/anime/2568  |
+| Kojika Monogatari                     | 6.53  | 1983 | 52       | 22 min     | Drama                                                          | https://myanimelist.net/anime/2568  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| TaoTao Ehonkan Sekai Doubutsu Banashi | 6.72  | 1983 | 52       | 30 min     | Adventure, Comedy, Fantasy, Kids                               | https://myanimelist.net/anime/2578  |
+| TaoTao Ehonkan Sekai Doubutsu Banashi | 6.72  | 1983 | 52       | 25 min     | Adventure, Comedy, Fantasy, Kids                               | https://myanimelist.net/anime/2578  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Juusenki L-Gaim                       | 6.83  | 1984 | 54       | 24 min     | Action, Adventure, Drama, Mecha, Sci-Fi, Space                 | https://myanimelist.net/anime/2598  |
+| Juusenki L-Gaim                       | 6.85  | 1984 | 54       | 24 min     | Action, Adventure, Drama, Mecha, Sci-Fi, Space                 | https://myanimelist.net/anime/2598  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Galactic Patrol Lensman               | 6.26  | 1984 | 25       | 25 min     | Action, Adventure, Sci-Fi                                      | https://myanimelist.net/anime/2769  |
+| Galactic Patrol Lensman               | 6.3   | 1984 | 25       | 25 min     | Action, Adventure, Sci-Fi                                      | https://myanimelist.net/anime/2769  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Gu-Gu Ganmo                           | 6.73  | 1984 | 50       | 25 min     | Comedy, School, Shounen, Slice of Life                         | https://myanimelist.net/anime/3020  |
+| Gu-Gu Ganmo                           | 7.08  | 1984 | 50       | 25 min     | Comedy, School, Shounen, Slice of Life                         | https://myanimelist.net/anime/3020  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Yume Senshi Wingman                   | 7.08  | 1984 | 47       | 24 min     | Action, Comedy, Romance, School, Shounen, Super Power          | https://myanimelist.net/anime/3021  |
+| Yume Senshi Wingman                   | 7.11  | 1984 | 47       | 24 min     | Action, Comedy, Romance, School, Shounen, Super Power          | https://myanimelist.net/anime/3021  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Attacker You!                         | 6.76  | 1984 | 58       | 23 min     | Romance, Shoujo, Sports, Team Sports                           | https://myanimelist.net/anime/3081  |
+| Attacker You!                         | 6.79  | 1984 | 58       | 23 min     | Romance, Shoujo, Sports, Team Sports                           | https://myanimelist.net/anime/3081  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Ashita Tenki ni Naare                 | 6.45  | 1984 | 47       | 22 min     | Shounen, Sports                                                | https://myanimelist.net/anime/3131  |
+| Ashita Tenki ni Naare                 | 6.56  | 1984 | 47       | 22 min     | Shounen, Sports                                                | https://myanimelist.net/anime/3131  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Meme Iroiro Yume no Tabi              | 6.81  | 1983 | 127      | 25 min     | Adventure, Educational, Kids, Sci-Fi                           | https://myanimelist.net/anime/3436  |
+| Meme Iroiro Yume no Tabi              | 6.88  | 1983 | 127      | 25 min     | Adventure, Educational, Kids, Sci-Fi                           | https://myanimelist.net/anime/3436  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Uchiyama Aki                          | 5.33  | 1984 | 3        | 22 min     | Hentai                                                         | https://myanimelist.net/anime/3644  |
+| Uchiyama Aki                          | 5.34  | 1984 | 3        | 22 min     | Hentai                                                         | https://myanimelist.net/anime/3644  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Koala Boy Kokki                       | 6.22  | 1984 | 26       | 25 min     | Comedy                                                         | https://myanimelist.net/anime/3723  |
+| Koala Boy Kokki                       | 6.27  | 1984 | 26       | 25 min     | Comedy                                                         | https://myanimelist.net/anime/3723  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Tongari Boushi no Memole              | 7.12  | 1984 | 50       | 24 min     | Fantasy                                                        | https://myanimelist.net/anime/3754  |
+| Tongari Boushi no Memole              | 7.2   | 1984 | 50       | 24 min     | Fantasy                                                        | https://myanimelist.net/anime/3754  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Honoo no Alpenrose: Judy & Randy      | 6.73  | 1985 | 20       | 22 min     | Drama, Historical, Romance, Shoujo                             | https://myanimelist.net/anime/3807  |
+| Honoo no Alpenrose: Judy & Randy      | 6.75  | 1985 | 20       | 22 min     | Drama, Historical, Romance, Shoujo                             | https://myanimelist.net/anime/3807  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Futari Daka                           | 6.06  | 1984 | 36       | 25 min     | Racing, Shounen                                                | https://myanimelist.net/anime/3808  |
+| Futari Daka                           | 6.15  | 1984 | 36       | 25 min     | Racing, Shounen                                                | https://myanimelist.net/anime/3808  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Lolita Anime                          | 5.27  | 1984 | 6        | 31 min     | Hentai                                                         | https://myanimelist.net/anime/4813  |
+| Lolita Anime                          | 5.28  | 1984 | 6        | 31 min     | Hentai                                                         | https://myanimelist.net/anime/4813  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Kikou Kai Galient                     | 6.49  | 1984 | 25       | 24 min     | Action, Fantasy, Mecha, Sci-Fi                                 | https://myanimelist.net/anime/5153  |
+| Kikou Kai Galient                     | 6.52  | 1984 | 25       | 24 min     | Action, Fantasy, Mecha, Sci-Fi                                 | https://myanimelist.net/anime/5153  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Video Senshi Lezarion                 | 6.72  | 1984 | 45       | 24 min     | Action, Mecha, Sci-Fi                                          | https://myanimelist.net/anime/6672  |
+| Video Senshi Lezarion                 | 6.76  | 1984 | 45       | 24 min     | Action, Mecha, Sci-Fi                                          | https://myanimelist.net/anime/6672  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Yoroshiku Mechadock                   | 6.78  | 1984 | 30       | 23 min     | Action, Comedy, Detective, Mystery, Racing, Shounen            | https://myanimelist.net/anime/7160  |
+| Yoroshiku Mechadock                   | 6.77  | 1984 | 30       | 23 min     | Action, Comedy, Detective, Mystery, Racing, Shounen            | https://myanimelist.net/anime/7160  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| SF Lolita Fantasy Ome-1               | 4.72  | 1985 | 2        | 30 min     | Hentai, Parody, Sci-Fi                                         | https://myanimelist.net/anime/7864  |
+| SF Lolita Fantasy Ome-1               | 4.73  | 1985 | 2        | 30 min     | Hentai, Parody, Sci-Fi                                         | https://myanimelist.net/anime/7864  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
 | Aoi Taiken                            | 4.65  | 1984 | 2        | 22 min     | Hentai                                                         | https://myanimelist.net/anime/8574  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Chouriki Robo Galatt                  | 6.54  | 1984 | 25       | 25 min     | Action, Adventure, Comedy, Mecha, Sci-Fi                       | https://myanimelist.net/anime/8853  |
+| Chouriki Robo Galatt                  | 6.63  | 1984 | 25       | 25 min     | Action, Adventure, Comedy, Mecha, Sci-Fi                       | https://myanimelist.net/anime/8853  |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Perman (1983)                         | 6.62  | 1983 | 526      | 12 min     | Comedy, Kids, School, Super Power                              | https://myanimelist.net/anime/11595 |
+| Perman (1983)                         | 6.67  | 1983 | 526      | 12 min     | Comedy, Kids, School, Super Power                              | https://myanimelist.net/anime/11595 |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Lovely Series                         | 4.63  | 1985 | 2        | 23 min     | Hentai                                                         | https://myanimelist.net/anime/14207 |
+| Lovely Series                         | 4.6   | 1985 | 2        | 23 min     | Hentai                                                         | https://myanimelist.net/anime/14207 |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
 | Konpora Kid                           | None  | 1985 | 26       | 25 min     | Comedy, Kids, Sci-Fi                                           | https://myanimelist.net/anime/17599 |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Super Erotic Anime                    | 4.83  | 1985 | 2        | 27 min     | Hentai                                                         | https://myanimelist.net/anime/26031 |
+| Super Erotic Anime                    | 4.92  | 1985 | 2        | 27 min     | Hentai                                                         | https://myanimelist.net/anime/26031 |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
 | Oyo Neko Bunyan                       | None  | 1984 | 31       | 28 min     | Comedy, Kids                                                   | https://myanimelist.net/anime/28089 |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+
-| Choujikuu Seiki Orguss Memorial       | 5.59  | 1985 | 2        | 52 min     | Action, Adventure, Mecha, Romance, Sci-Fi                      | https://myanimelist.net/anime/32218 |
+| Choujikuu Seiki Orguss Memorial       | 5.64  | 1985 | 2        | 52 min     | Action, Adventure, Mecha, Romance, Sci-Fi                      | https://myanimelist.net/anime/32218 |
 +---------------------------------------+-------+------+----------+------------+----------------------------------------------------------------+-------------------------------------+

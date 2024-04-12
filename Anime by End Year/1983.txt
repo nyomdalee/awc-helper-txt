@@ -1,73 +1,73 @@
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
 | Title                                    | Score | Year | Episodes | EpDuration | Genres                                                 | Link                                |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Mahou no Princess Minky Momo             | 7.15  | 1982 | 63       | 23 min     | Mahou Shoujo                                           | https://myanimelist.net/anime/518   |
+| Mahou no Princess Minky Momo             | 7.26  | 1982 | 63       | 23 min     | Fantasy, Mahou Shoujo                                  | https://myanimelist.net/anime/518   |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Macross                                  | 7.9   | 1982 | 36       | 25 min     | Action, Mecha, Military, Music, Romance, Sci-Fi, Space | https://myanimelist.net/anime/1088  |
+| Macross                                  | 7.89  | 1982 | 36       | 25 min     | Action, Mecha, Military, Music, Romance, Sci-Fi, Space | https://myanimelist.net/anime/1088  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
 | Taiyou no Ko Esteban                     | 7.75  | 1982 | 39       | 27 min     | Adventure, Historical, Sci-Fi                          | https://myanimelist.net/anime/1279  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Waga Seishun no Arcadia: Mugen Kidou SSX | 7.38  | 1982 | 22       | 25 min     | Action, Adventure, Drama, Sci-Fi, Space                | https://myanimelist.net/anime/2203  |
+| Waga Seishun no Arcadia: Mugen Kidou SSX | 7.39  | 1982 | 22       | 25 min     | Action, Adventure, Drama, Sci-Fi, Space                | https://myanimelist.net/anime/2203  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Sentou Mecha Xabungle                    | 7.14  | 1982 | 50       | 24 min     | Action, Mecha, Military, Sci-Fi                        | https://myanimelist.net/anime/2254  |
+| Sentou Mecha Xabungle                    | 7.15  | 1982 | 50       | 24 min     | Action, Mecha, Military, Sci-Fi                        | https://myanimelist.net/anime/2254  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Taiyou no Kiba Dagram                    | 7.44  | 1981 | 75       | 23 min     | Action, Drama, Mecha, Military, Sci-Fi                 | https://myanimelist.net/anime/2257  |
+| Taiyou no Kiba Dagram                    | 7.45  | 1981 | 75       | 23 min     | Action, Drama, Mecha, Military, Sci-Fi                 | https://myanimelist.net/anime/2257  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Space Cobra                              | 7.67  | 1982 | 31       | 24 min     | Action, Adult Cast, Adventure, Sci-Fi, Shounen, Space  | https://myanimelist.net/anime/2451  |
+| Space Cobra                              | 7.69  | 1982 | 31       | 24 min     | Action, Adult Cast, Adventure, Sci-Fi, Shounen, Space  | https://myanimelist.net/anime/2451  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Alps Monogatari: Watashi no Annette      | 6.74  | 1983 | 48       | 25 min     | Drama, Historical, Slice of Life                       | https://myanimelist.net/anime/2546  |
+| Alps Monogatari: Watashi no Annette      | 6.76  | 1983 | 48       | 25 min     | Drama, Historical, Slice of Life                       | https://myanimelist.net/anime/2546  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
 | Daicon Opening Animations                | 7.71  | 1981 | 2        | 5 min      | Action, Adventure, Mecha, Music, Otaku Culture, Sci-Fi | https://myanimelist.net/anime/2724  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Patalliro!                               | 7.25  | 1982 | 49       | 24 min     | Adventure, Boys Love, Comedy, Shoujo                   | https://myanimelist.net/anime/2835  |
+| Patalliro!                               | 7.28  | 1982 | 49       | 24 min     | Adventure, Boys Love, Comedy, Shoujo                   | https://myanimelist.net/anime/2835  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Mirai Keisatsu Urashiman                 | 7.18  | 1983 | 50       | 23 min     | Action, Comedy, Detective, Sci-Fi                      | https://myanimelist.net/anime/2933  |
+| Mirai Keisatsu Urashiman                 | 7.23  | 1983 | 50       | 23 min     | Action, Comedy, Detective, Sci-Fi                      | https://myanimelist.net/anime/2933  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Tondera House no Daibouken               | 6.26  | 1982 | 52       | 24 min     | Adventure, Historical, Sci-Fi, Time Travel             | https://myanimelist.net/anime/3075  |
+| Tondera House no Daibouken               | 6.27  | 1982 | 52       | 24 min     | Adventure, Historical, Sci-Fi, Time Travel             | https://myanimelist.net/anime/3075  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Tokimeki Tonight                         | 7.13  | 1982 | 34       | 24 min     | Comedy, Fantasy, Romance, Shoujo, Vampire              | https://myanimelist.net/anime/3125  |
+| Tokimeki Tonight                         | 7.17  | 1982 | 34       | 24 min     | Comedy, Fantasy, Romance, Shoujo, Vampire              | https://myanimelist.net/anime/3125  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Ochamegami Monogatari: Korokoro Pollon   | 7.14  | 1982 | 46       | 22 min     | Comedy, Parody                                         | https://myanimelist.net/anime/3136  |
+| Ochamegami Monogatari: Korokoro Pollon   | 7.27  | 1982 | 46       | 22 min     | Comedy, Parody                                         | https://myanimelist.net/anime/3136  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Manga Aesop Monogatari (TV)              | 6.02  | 1983 | 52       | 15 min     | Comedy, Fantasy, Kids                                  | https://myanimelist.net/anime/3180  |
+| Manga Aesop Monogatari (TV)              | 6.07  | 1983 | 52       | 15 min     | Comedy, Fantasy, Kids                                  | https://myanimelist.net/anime/3180  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Pure-tou no Nakama-tachi                 | 6.58  | 1983 | 26       | 30 min     | Fantasy, Kids                                          | https://myanimelist.net/anime/3201  |
+| Pure-tou no Nakama-tachi                 | 6.68  | 1983 | 26       | 30 min     | Fantasy, Kids                                          | https://myanimelist.net/anime/3201  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Maicching Machiko-sensei                 | 6.19  | 1981 | 95       | 25 min     | Comedy, Ecchi, School                                  | https://myanimelist.net/anime/3391  |
+| Maicching Machiko-sensei                 | 6.23  | 1981 | 95       | 25 min     | Comedy, Ecchi, School                                  | https://myanimelist.net/anime/3391  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Kikou Kantai Dairugger XV                | 6.36  | 1982 | 52       | 25 min     | Action, Adventure, Mecha, Sci-Fi, Space                | https://myanimelist.net/anime/3609  |
+| Kikou Kantai Dairugger XV                | 6.39  | 1982 | 52       | 25 min     | Action, Adventure, Mecha, Sci-Fi, Space                | https://myanimelist.net/anime/3609  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Nanako SOS                               | 6.72  | 1983 | 39       | 23 min     | Comedy, Parody, Romance, Super Power                   | https://myanimelist.net/anime/3619  |
+| Nanako SOS                               | 6.92  | 1983 | 39       | 23 min     | Comedy, Parody, Romance, Super Power                   | https://myanimelist.net/anime/3619  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Personal Computer Travel Tanteidan       | 6     | 1983 | 26       | 24 min     | Adventure, Historical, Kids, Sci-Fi                    | https://myanimelist.net/anime/3936  |
+| Personal Computer Travel Tanteidan       | 6.02  | 1983 | 26       | 24 min     | Adventure, Historical, Kids, Sci-Fi                    | https://myanimelist.net/anime/3936  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Jarinko Chie (TV)                        | 6.95  | 1981 | 64       | 24 min     | Comedy, Drama, Seinen                                  | https://myanimelist.net/anime/3947  |
+| Jarinko Chie (TV)                        | 6.96  | 1981 | 64       | 24 min     | Comedy, Drama, Seinen                                  | https://myanimelist.net/anime/3947  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Ginga Reppuu Baxingar                    | 6.52  | 1982 | 39       | 25 min     | Action, Adventure, Mecha                               | https://myanimelist.net/anime/4242  |
+| Ginga Reppuu Baxingar                    | 6.58  | 1982 | 39       | 25 min     | Action, Adventure, Mecha                               | https://myanimelist.net/anime/4242  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Time Bokan Series: Itadakiman            | 5.8   | 1983 | 20       | 24 min     | Mecha                                                  | https://myanimelist.net/anime/5344  |
+| Time Bokan Series: Itadakiman            | 5.89  | 1983 | 20       | 24 min     | Mecha                                                  | https://myanimelist.net/anime/5344  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Psychoarmor Govarian                     | 6.41  | 1983 | 26       | 24 min     | Action, Mecha, Sci-Fi, Super Power                     | https://myanimelist.net/anime/6428  |
+| Psychoarmor Govarian                     | 6.43  | 1983 | 26       | 24 min     | Action, Mecha, Sci-Fi, Super Power                     | https://myanimelist.net/anime/6428  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Asari-chan                               | 6.21  | 1982 | 54       | 24 min     | Comedy, Shoujo, Slice of Life                          | https://myanimelist.net/anime/6629  |
+| Asari-chan                               | 6.39  | 1982 | 54       | 24 min     | Comedy, Shoujo, Slice of Life                          | https://myanimelist.net/anime/6629  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Tonde Mon Pe                             | None  | 1982 | 42       | 23 min     | Childcare, Kids, Supernatural                          | https://myanimelist.net/anime/6730  |
+| Tonde Mon Pe                             | 6.52  | 1982 | 42       | 23 min     | Childcare, Kids, Supernatural                          | https://myanimelist.net/anime/6730  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Sekai Meisaku Douwa                      | 6.08  | 1975 | 20       | 10 min     | Fantasy                                                | https://myanimelist.net/anime/7398  |
+| Sekai Meisaku Douwa                      | 6.12  | 1975 | 20       | 10 min     | Fantasy                                                | https://myanimelist.net/anime/7398  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Cybot Robocchi                           | 6.27  | 1982 | 39       | 24 min     | Comedy, Sci-Fi                                         | https://myanimelist.net/anime/7956  |
+| Cybot Robocchi                           | 6.28  | 1982 | 39       | 24 min     | Comedy, Sci-Fi                                         | https://myanimelist.net/anime/7956  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Time Bokan Series: Gyakuten Ippatsuman   | 5.83  | 1982 | 58       | 24 min     | Action, Comedy, Mecha, Sci-Fi                          | https://myanimelist.net/anime/8011  |
+| Time Bokan Series: Gyakuten Ippatsuman   | 5.92  | 1982 | 58       | 24 min     | Action, Comedy, Mecha, Sci-Fi                          | https://myanimelist.net/anime/8011  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Ai no Senshi Rainbowman                  | 6.23  | 1982 | 22       | 25 min     | Action, Adventure, Mecha, Sci-Fi                       | https://myanimelist.net/anime/8285  |
+| Ai no Senshi Rainbowman                  | 6.31  | 1982 | 22       | 25 min     | Action, Adventure, Mecha, Sci-Fi                       | https://myanimelist.net/anime/8285  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Shin Mitsubachi Maya no Bouken           | 6.44  | 1982 | 52       | 25 min     | Adventure, Comedy                                      | https://myanimelist.net/anime/8373  |
+| Shin Mitsubachi Maya no Bouken           | 6.5   | 1982 | 52       | 25 min     | Adventure, Comedy                                      | https://myanimelist.net/anime/8373  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Captain (TV)                             | 6.48  | 1983 | 26       | 24 min     | Shounen, Sports, Team Sports                           | https://myanimelist.net/anime/9905  |
+| Captain (TV)                             | 6.63  | 1983 | 26       | 24 min     | Shounen, Sports, Team Sports                           | https://myanimelist.net/anime/9905  |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Ginga Patrol PJ                          | 6.68  | 1982 | 26       | 25 min     | Drama, Military, Sci-Fi, Space                         | https://myanimelist.net/anime/11307 |
+| Ginga Patrol PJ                          | 6.72  | 1982 | 26       | 25 min     | Drama, Military, Sci-Fi, Space                         | https://myanimelist.net/anime/11307 |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Bemubemu Hunter Kotengu Tenmaru          | 6.3   | 1983 | 19       | 25 min     | Adventure, Fantasy                                     | https://myanimelist.net/anime/17687 |
+| Bemubemu Hunter Kotengu Tenmaru          | 6.35  | 1983 | 19       | 25 min     | Adventure, Fantasy                                     | https://myanimelist.net/anime/17687 |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
 | Hitotsuboshi-ke no Ultra Baasan          | None  | 1982 | 13       | 25 min     | Comedy, Slice of Life                                  | https://myanimelist.net/anime/21549 |
 +------------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+

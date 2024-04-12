@@ -1,19 +1,19 @@
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
 | Title                          | Score | Year | Episodes | EpDuration | Genres                              | Link                                |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
-| Tetsujin 28-gou                | 6.5   | 1963 | 96       | 25 min     | Adventure, Mecha, Sci-Fi, Shounen   | https://myanimelist.net/anime/2686  |
+| Tetsujin 28-gou                | 6.59  | 1963 | 96       | 25 min     | Adventure, Mecha, Sci-Fi, Shounen   | https://myanimelist.net/anime/2686  |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
-| Yokoo's 3 Animation Films      | 4.36  | 1964 | 3        | 5 min      | Avant Garde, Romance                | https://myanimelist.net/anime/8663  |
+| Yokoo's 3 Animation Films      | 4.39  | 1964 | 3        | 5 min      | Avant Garde, Romance                | https://myanimelist.net/anime/8663  |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
 | Dolphin Ouji                   | None  | 1965 | 3        | 23 min     | Action, Adventure, Kids, Sci-Fi     | https://myanimelist.net/anime/8879  |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
-| Big X                          | 6.41  | 1964 | 59       | 25 min     | Action, Historical, Sci-Fi, Shounen | https://myanimelist.net/anime/9613  |
+| Big X                          | 6.46  | 1964 | 59       | 25 min     | Action, Historical, Sci-Fi, Shounen | https://myanimelist.net/anime/9613  |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
 | Uchuu Patrol Hopper            | None  | 1965 | 44       | 25 min     | Sci-Fi, Space                       | https://myanimelist.net/anime/12897 |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
-| Shounen Ninja Kaze no Fujimaru | 5.8   | 1964 | 65       | 24 min     | Action, Adventure, Samurai, Shounen | https://myanimelist.net/anime/13307 |
+| Shounen Ninja Kaze no Fujimaru | 5.93  | 1964 | 65       | 24 min     | Action, Adventure, Samurai, Shounen | https://myanimelist.net/anime/13307 |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
-| Ookami Shounen Ken             | 5.79  | 1963 | 86       | 24 min     | Adventure, Kids                     | https://myanimelist.net/anime/17521 |
+| Ookami Shounen Ken             | 6.12  | 1963 | 86       | 24 min     | Adventure, Kids                     | https://myanimelist.net/anime/17521 |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+
 | Kaitou Pride                   | None  | 1965 | 105      | 8 min      | Adventure, Comedy, Kids             | https://myanimelist.net/anime/19987 |
 +--------------------------------+-------+------+----------+------------+-------------------------------------+-------------------------------------+

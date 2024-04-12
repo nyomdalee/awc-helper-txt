@@ -3,11 +3,11 @@
 +----------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
 | Kangaroo no Tanjoubi | 5.3   | 1941 | 1        | 9 min      | Adventure, Anthropomorphic | https://myanimelist.net/anime/6843  |
 +----------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Tie Shan Gongzhu     | 5.32  | 1941 | 1        | 1 h 13 min | Action, Adventure, Fantasy | https://myanimelist.net/anime/9521  |
+| Tie Shan Gongzhu     | 5.33  | 1941 | 1        | 1 h 13 min | Action, Adventure, Fantasy | https://myanimelist.net/anime/9521  |
 +----------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Ari-chan             | 5.24  | 1941 | 1        | 11 min     | Comedy, Music              | https://myanimelist.net/anime/28245 |
+| Ari-chan             | 5.28  | 1941 | 1        | 11 min     | Comedy, Music              | https://myanimelist.net/anime/28245 |
 +----------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Doubutsu Tonarigumi  | 5.1   | 1941 | 1        | 10 min     | Comedy, Historical, Kids   | https://myanimelist.net/anime/28827 |
+| Doubutsu Tonarigumi  | 5.14  | 1941 | 1        | 10 min     | Comedy, Historical, Kids   | https://myanimelist.net/anime/28827 |
 +----------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Namake Gitsune       | 5.12  | 1941 | 1        | 11 min     |                            | https://myanimelist.net/anime/34993 |
+| Namake Gitsune       | 5.11  | 1941 | 1        | 11 min     |                            | https://myanimelist.net/anime/34993 |
 +----------------------+-------+------+----------+------------+----------------------------+-------------------------------------+

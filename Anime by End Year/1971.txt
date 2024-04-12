@@ -1,29 +1,29 @@
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
 | Title                              | Score | Year | Episodes | EpDuration | Genres                                | Link                                |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Attack No.1                        | 6.95  | 1969 | 104      | 24 min     | Drama, Shoujo, Sports, Team Sports    | https://myanimelist.net/anime/1550  |
+| Attack No.1                        | 7.03  | 1969 | 104      | 24 min     | Drama, Shoujo, Sports, Team Sports    | https://myanimelist.net/anime/1550  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Akakichi no Eleven                 | 6.59  | 1970 | 52       | 25 min     | Sports, Team Sports                   | https://myanimelist.net/anime/2316  |
+| Akakichi no Eleven                 | 6.61  | 1970 | 52       | 25 min     | Sports, Team Sports                   | https://myanimelist.net/anime/2316  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Ashita no Joe                      | 8.3   | 1970 | 79       | 25 min     | Combat Sports, Drama, Shounen, Sports | https://myanimelist.net/anime/2402  |
+| Ashita no Joe                      | 8.31  | 1970 | 79       | 25 min     | Combat Sports, Drama, Shounen, Sports | https://myanimelist.net/anime/2402  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Tiger Mask                         | 7.31  | 1969 | 105      | 23 min     | Combat Sports, Drama, Shounen, Sports | https://myanimelist.net/anime/3009  |
+| Tiger Mask                         | 7.34  | 1969 | 105      | 23 min     | Combat Sports, Drama, Shounen, Sports | https://myanimelist.net/anime/3009  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
 | Sasurai no Taiyou                  | 6.41  | 1971 | 26       | 24 min     | Drama, Music, Shoujo                  | https://myanimelist.net/anime/3819  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Konchuu Monogatari Minashigo Hutch | 6.93  | 1970 | 91       | 24 min     | Adventure, Comedy, Drama              | https://myanimelist.net/anime/3858  |
+| Konchuu Monogatari Minashigo Hutch | 7.12  | 1970 | 91       | 24 min     | Adventure, Comedy, Drama              | https://myanimelist.net/anime/3858  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
 | Kick no Oni                        | 6.22  | 1970 | 26       | 25 min     | Combat Sports, Shounen, Sports        | https://myanimelist.net/anime/3870  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Mahou no Mako-chan                 | 6.39  | 1970 | 48       | 24 min     | Fantasy, Romance                      | https://myanimelist.net/anime/4113  |
+| Mahou no Mako-chan                 | 6.41  | 1970 | 48       | 24 min     | Fantasy, Romance                      | https://myanimelist.net/anime/4113  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Kyojin no Hoshi                    | 7.21  | 1968 | 182      | 25 min     | Drama, Shounen, Sports, Team Sports   | https://myanimelist.net/anime/5834  |
+| Kyojin no Hoshi                    | 7.3   | 1968 | 182      | 25 min     | Drama, Shounen, Sports, Team Sports   | https://myanimelist.net/anime/5834  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Andersen Monogatari (TV)           | 6.22  | 1971 | 52       | 24 min     | Drama, Fantasy, Kids                  | https://myanimelist.net/anime/7779  |
+| Andersen Monogatari (TV)           | 6.27  | 1971 | 52       | 24 min     | Drama, Fantasy, Kids                  | https://myanimelist.net/anime/7779  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
 | Animentary: Ketsudan               | 6.19  | 1971 | 25       | 25 min     | Historical, Military                  | https://myanimelist.net/anime/8436  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Kaitei Shounen Marine              | 6.14  | 1969 | 65       | 25 min     | Action, Adventure, Kids, Sci-Fi       | https://myanimelist.net/anime/8899  |
+| Kaitei Shounen Marine              | 6.19  | 1969 | 65       | 25 min     | Action, Adventure, Kids, Sci-Fi       | https://myanimelist.net/anime/8899  |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
 | Chingou Muchabee                   | None  | 1971 | 51       | 14 min     | Adventure, Comedy                     | https://myanimelist.net/anime/17457 |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
@@ -33,7 +33,7 @@
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
 | Manga Jinbutsushi                  | None  | 1970 | 365      | 5 min      | Historical                            | https://myanimelist.net/anime/23001 |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Otoko Doahou! Koushien             | None  | 1970 | 156      | 10 min     | Action, Sports, Team Sports           | https://myanimelist.net/anime/23011 |
+| Otoko Doahou! Koushien             | None  | 1970 | 156      | 10 min     | Sports, Team Sports                   | https://myanimelist.net/anime/23011 |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+
-| Norakuro                           | 6.04  | 1970 | 26       | 24 min     | Comedy                                | https://myanimelist.net/anime/23013 |
+| Norakuro                           | 6.17  | 1970 | 26       | 24 min     | Comedy                                | https://myanimelist.net/anime/23013 |
 +------------------------------------+-------+------+----------+------------+---------------------------------------+-------------------------------------+

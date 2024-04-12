@@ -1,39 +1,39 @@
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
 | Title                                  | Score | Year | Episodes | EpDuration | Genres                                                 | Link                                |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Haha wo Tazunete Sanzenri              | 7.45  | 1976 | 52       | 26 min     | Adventure, Drama, Historical, Slice of Life            | https://myanimelist.net/anime/1663  |
+| Haha wo Tazunete Sanzenri              | 7.46  | 1976 | 52       | 26 min     | Adventure, Drama, Historical, Slice of Life            | https://myanimelist.net/anime/1663  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Yuusha Raideen                         | 6.61  | 1975 | 50       | 24 min     | Action, Adventure, Mecha, Sci-Fi                       | https://myanimelist.net/anime/2128  |
+| Yuusha Raideen                         | 6.64  | 1975 | 50       | 24 min     | Action, Adventure, Mecha, Sci-Fi                       | https://myanimelist.net/anime/2128  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Huckleberry no Bouken                  | 6.2   | 1976 | 26       | 25 min     | Adventure, Drama, Historical                           | https://myanimelist.net/anime/2545  |
+| Huckleberry no Bouken                  | 6.25  | 1976 | 26       | 25 min     | Adventure, Drama, Historical                           | https://myanimelist.net/anime/2545  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Mitsubachi Maya no Bouken              | 6.55  | 1975 | 52       | 25 min     | Adventure, Comedy, Kids                                | https://myanimelist.net/anime/2571  |
+| Mitsubachi Maya no Bouken              | 6.57  | 1975 | 52       | 25 min     | Adventure, Comedy, Kids                                | https://myanimelist.net/anime/2571  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Arabian Nights: Sindbad no Bouken (TV) | 7.21  | 1975 | 52       | 24 min     | Adventure, Fantasy, Romance                            | https://myanimelist.net/anime/2825  |
+| Arabian Nights: Sindbad no Bouken (TV) | 7.22  | 1975 | 52       | 24 min     | Adventure, Fantasy, Historical, Romance                | https://myanimelist.net/anime/2825  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| UFO Senshi Dai Apolon                  | 6.14  | 1976 | 26       | 24 min     | Action, Mecha, Sci-Fi                                  | https://myanimelist.net/anime/3361  |
+| UFO Senshi Dai Apolon                  | 6.18  | 1976 | 26       | 24 min     | Action, Mecha, Sci-Fi                                  | https://myanimelist.net/anime/3361  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Sougen no Shoujo Laura                 | 6.23  | 1975 | 26       | 24 min     | Adventure, Historical                                  | https://myanimelist.net/anime/3822  |
+| Sougen no Shoujo Laura                 | 6.31  | 1975 | 26       | 24 min     | Adventure, Historical                                  | https://myanimelist.net/anime/3822  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Time Bokan                             | 6.44  | 1975 | 61       | 24 min     | Adventure, Comedy, Mecha                               | https://myanimelist.net/anime/3915  |
+| Time Bokan                             | 6.48  | 1975 | 61       | 24 min     | Adventure, Comedy, Mecha                               | https://myanimelist.net/anime/3915  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Koutetsu Jeeg                          | 7.06  | 1975 | 46       | 22 min     | Action, Fantasy, Mecha, Mythology, Sci-Fi              | https://myanimelist.net/anime/4198  |
+| Koutetsu Jeeg                          | 7.1   | 1975 | 46       | 22 min     | Action, Fantasy, Mecha, Mythology, Sci-Fi              | https://myanimelist.net/anime/4198  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Getter Robo G                          | 6.57  | 1975 | 39       | 24 min     | Action, Mecha, Sci-Fi, Shounen                         | https://myanimelist.net/anime/4486  |
+| Getter Robo G                          | 6.6   | 1975 | 39       | 24 min     | Action, Mecha, Sci-Fi, Shounen                         | https://myanimelist.net/anime/4486  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Andes Shounen Pepero no Bouken         | 6.6   | 1975 | 26       | 24 min     | Adventure                                              | https://myanimelist.net/anime/5104  |
+| Andes Shounen Pepero no Bouken         | 6.68  | 1975 | 26       | 24 min     | Adventure                                              | https://myanimelist.net/anime/5104  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Tentoumushi no Uta                     | 6.26  | 1974 | 104      | 25 min     | Adventure, Slice of Life                               | https://myanimelist.net/anime/6397  |
+| Tentoumushi no Uta                     | 6.34  | 1974 | 104      | 25 min     | Adventure, Slice of Life                               | https://myanimelist.net/anime/6397  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Gowapper 5 Gordam                      | 6.35  | 1976 | 36       | 24 min     | Action, Adventure, Mecha, Sci-Fi                       | https://myanimelist.net/anime/7551  |
+| Gowapper 5 Gordam                      | 6.42  | 1976 | 36       | 24 min     | Action, Adventure, Mecha, Sci-Fi                       | https://myanimelist.net/anime/7551  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Wanpaku Oomukashi Kum Kum              | 6.08  | 1975 | 26       | 25 min     | Adventure, Comedy, Historical, Kids                    | https://myanimelist.net/anime/8240  |
+| Wanpaku Oomukashi Kum Kum              | 6.17  | 1975 | 26       | 25 min     | Adventure, Comedy, Historical, Kids                    | https://myanimelist.net/anime/8240  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Hajime Ningen Gyatoruz                 | 6.34  | 1974 | 77       | 24 min     | Comedy, Historical                                     | https://myanimelist.net/anime/8763  |
+| Hajime Ningen Gyatoruz                 | 6.67  | 1974 | 77       | 24 min     | Comedy, Historical                                     | https://myanimelist.net/anime/8763  |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Machine Hayabusa                       | 6.24  | 1976 | 21       | 23 min     | Action, Racing                                         | https://myanimelist.net/anime/10562 |
+| Machine Hayabusa                       | 6.26  | 1976 | 21       | 23 min     | Action, Racing                                         | https://myanimelist.net/anime/10562 |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
-| Youkaiden Nekome Kozou                 | 5.83  | 1976 | 25       | 25 min     | Adventure, Horror, Psychological, Seinen, Supernatural | https://myanimelist.net/anime/23351 |
+| Youkaiden Nekome Kozou                 | 5.89  | 1976 | 25       | 25 min     | Adventure, Horror, Psychological, Seinen, Supernatural | https://myanimelist.net/anime/23351 |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
 | Manga Furusato Mukashibanashi          | None  | 1976 | 26       | 25 min     | Adventure, Fantasy, Historical, Kids, Samurai          | https://myanimelist.net/anime/39119 |
 +----------------------------------------+-------+------+----------+------------+--------------------------------------------------------+-------------------------------------+
