@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace AwcHelper.Txt.Models;
+namespace MALSuite.Txt.Models;
 
 public class DomainAnime
 {

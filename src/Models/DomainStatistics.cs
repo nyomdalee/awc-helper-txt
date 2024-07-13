@@ -1,4 +1,4 @@
-﻿namespace AwcHelper.Txt.Models;
+﻿namespace MALSuite.Txt.Models;
 
 public class DomainStatistics
 {

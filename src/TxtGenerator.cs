@@ -1,8 +1,8 @@
-﻿using Models;
+﻿using MALSuite.Txt.Models;
 using System.Text.RegularExpressions;
 using Tababular;
 
-namespace AwcHelper.Txt;
+namespace MALSuite.Txt;
 
 internal class TxtGenerator
 {

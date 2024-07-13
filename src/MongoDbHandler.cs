@@ -1,7 +1,7 @@
-﻿using Models;
+﻿using MALSuite.Txt.Models;
 using MongoDB.Driver;
 
-namespace AwcHelper.Txt;
+namespace MALSuite.Txt;
 
 public class MongoDbHandler
 {

@@ -1,4 +1,4 @@
-﻿namespace AwcHelper.Txt;
+﻿namespace MALSuite.Txt;
 
 public class Program
 {
