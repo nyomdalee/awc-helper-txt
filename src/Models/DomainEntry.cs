@@ -1,4 +1,4 @@
-﻿namespace Models;
+﻿namespace AwcHelper.Txt.Models;
 public class DomainEntry
 {
     public int? Id { get; }

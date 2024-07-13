@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Models;
+namespace AwcHelper.Txt.Models;
 
 public class DomainBroadcast
 {

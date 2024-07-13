@@ -1,4 +1,4 @@
-﻿namespace Models;
+﻿namespace AwcHelper.Txt.Models;
 internal class SimpleAnime
 {
     public string Title { get; }

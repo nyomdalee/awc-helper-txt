@@ -1,4 +1,4 @@
-﻿namespace Models;
+﻿namespace AwcHelper.Txt.Models;
 public class DomainOpEd
 {
     public List<string> Openings { get; }
