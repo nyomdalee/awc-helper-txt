@@ -13,7 +13,7 @@ internal class TxtGenerator
     public TxtGenerator()
     {
         string dir = Directory.GetCurrentDirectory();
-        var baseName = "awc-helper-txt";
+        var baseName = "MALSuite.Txt";
         int index = dir.IndexOf(baseName);
         _baseDirectory = dir.Substring(0, index + baseName.Length);
 
