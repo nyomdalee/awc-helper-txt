@@ -19,10 +19,14 @@ public class DomainBroadcast
     public override string? ToString()
     {
         if (DayOfTheWeek == null)
+        {
             return null;
+        }
 
         if (StartTime == null)
+        {
             return $"{DayOfTheWeek}s";
+        }
 
         return $"{DayOfTheWeek}s at {StartTime} (JST)";
     }

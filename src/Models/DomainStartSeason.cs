@@ -19,7 +19,9 @@ public class DomainStartSeason
     public override string? ToString()
     {
         if (Year == null)
+        {
             return null;
+        }
 
         return $"{Season} {Year}";
     }

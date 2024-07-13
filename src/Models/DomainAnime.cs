@@ -58,8 +58,6 @@ public class DomainAnime
 
     public bool? Approved { get; }
 
-    //public IEnumerable<DomainRelation> Relations { get; }
-
     public DomainOpEd? Theme { get; }
 
     public string? AniDb { get; }
@@ -96,21 +94,23 @@ public class DomainAnime
         Licensors = licensors;
         Studios = studios;
         Approved = approved;
-        //Relations = relations;
         Theme = theme;
         AniDb = aniDb;
         LastUpdated = lastUpdated;
     }
 
-
     public string? GenresAndExplicitGenresToString()
     {
         List<string> combinedGenres = new();
         if (Genres.Any())
+        {
             combinedGenres.AddRange(Genres.Select(g => g.Name));
+        }
 
         if (ExplicitGenres.Any())
+        {
             combinedGenres.AddRange(ExplicitGenres.Select(g => g.Name));
+        }
 
         return string.Join(", ", combinedGenres);
     }
@@ -118,33 +118,47 @@ public class DomainAnime
     public string EpisodeDurationToString()
     {
         if (AverageEpisodeDuration == 0 || AverageEpisodeDuration == null)
+        {
             return "Unknown";
+        }
 
         if (AverageEpisodeDuration < 60)
+        {
             return $"{AverageEpisodeDuration} sec";
+        }
 
         if (AverageEpisodeDuration / 60 < 60)
+        {
             return $"{AverageEpisodeDuration / 60} min";
+        }
 
         return $"{AverageEpisodeDuration / 3600} h {(AverageEpisodeDuration % 3600) / 60} min";
     }
 
-    //TODO: improve this later
+    // TODO: improve this later
     public string? AllGenresThemesDemographicsToString()
     {
         List<string> combinedGenres = new();
 
         if (Genres.Any())
+        {
             combinedGenres.AddRange(Genres.Select(g => g.Name));
+        }
 
         if (ExplicitGenres.Any())
+        {
             combinedGenres.AddRange(ExplicitGenres.Select(g => g.Name));
+        }
 
         if (Themes.Any())
+        {
             combinedGenres.AddRange(Themes.Select(g => g.Name));
+        }
 
         if (Demographics.Any())
+        {
             combinedGenres.AddRange(Demographics.Select(g => g.Name));
+        }
 
         combinedGenres.Sort();
 

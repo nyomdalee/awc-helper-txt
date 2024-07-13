@@ -1,4 +1,5 @@
 ﻿namespace MALSuite.Txt.Models;
+
 public class DomainRelation
 {
     public string RelationType { get; }

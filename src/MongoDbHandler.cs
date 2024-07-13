@@ -5,22 +5,24 @@ namespace MALSuite.Txt;
 
 public class MongoDbHandler
 {
-    string _connectionString = "mongodb://localhost:27017";
-    string _databaseName = "MAL";
-    string _animeCollection = "anime";
+    private readonly string connectionString = "mongodb://localhost:27017";
+    private readonly string databaseName = "MAL";
+    private readonly string animeCollection = "anime";
 
-    public MongoDbHandler() { }
+    public MongoDbHandler()
+    {
+    }
 
     private IMongoCollection<T> ConnectToMongo<T>(in string collection)
     {
-        var client = new MongoClient(_connectionString);
-        var db = client.GetDatabase(_databaseName);
+        var client = new MongoClient(connectionString);
+        var db = client.GetDatabase(databaseName);
         return db.GetCollection<T>(collection);
     }
 
     public async Task<List<DomainAnime>> GetAllAnime()
     {
-        var animeCollection = ConnectToMongo<DomainAnime>(_animeCollection);
+        var animeCollection = ConnectToMongo<DomainAnime>(this.animeCollection);
         var result = await animeCollection.FindAsync(a => a.Approved == true);
         return result.ToList();
     }
