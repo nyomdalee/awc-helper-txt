@@ -2,6 +2,7 @@
 using MALSuite.Database.Repositories;
 using MALSuite.Database.Repositories.Interfaces;
 using MALSuite.Txt.Models;
+using System.Reflection;
 using System.Text.RegularExpressions;
 using Tababular;
 
@@ -11,24 +12,23 @@ internal class TxtGenerator
 {
     private readonly string baseDirectory;
     private readonly TableFormatter formatter;
-    private readonly List<Anime> animeList;
     private readonly IAnimeRepository animeRepository = new AnimeRepository();
+    private List<Anime> animeList = [];
 
     public TxtGenerator()
     {
-        string dir = Directory.GetCurrentDirectory();
-        var baseName = "MALSuite.Txt";
-        int index = dir.IndexOf(baseName);
-        baseDirectory = dir.Substring(0, index + baseName.Length);
+        Assembly assembly = Assembly.GetExecutingAssembly();
+        string baseName = assembly.GetName().Name ?? throw new NullReferenceException();
+        var dir = assembly.Location;
+        baseDirectory = dir[..(dir.IndexOf(baseName) + baseName.Length)];
 
-        var hints = new Hints { MaxTableWidth = 230 };
-        formatter = new TableFormatter(hints);
-
-        animeList = animeRepository.GetAllAsync().Result;
+        formatter = new TableFormatter(new Hints { MaxTableWidth = 230 });
     }
 
-    public void GenerateAll()
+    public async Task GenerateAllAsync()
     {
+        animeList = await animeRepository.GetAllAsync();
+
         GenerateAllBroadcasts();
         GenerateBySource();
         GenerateByStartDay();
