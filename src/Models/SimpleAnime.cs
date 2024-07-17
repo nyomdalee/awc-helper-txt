@@ -1,4 +1,6 @@
-﻿namespace MALSuite.Txt.Models;
+﻿using MALSuite.Core.Entities;
+
+namespace MALSuite.Txt.Models;
 
 internal class SimpleAnime
 {
@@ -16,7 +18,7 @@ internal class SimpleAnime
 
     public string Link { get; }
 
-    public SimpleAnime(DomainAnime anime)
+    public SimpleAnime(Anime anime)
     {
         Title = anime.Title!;
 

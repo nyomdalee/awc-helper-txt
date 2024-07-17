@@ -1,4 +1,7 @@
-﻿using MALSuite.Txt.Models;
+﻿using MALSuite.Core.Entities;
+using MALSuite.Database.Repositories;
+using MALSuite.Database.Repositories.Interfaces;
+using MALSuite.Txt.Models;
 using System.Text.RegularExpressions;
 using Tababular;
 
@@ -8,7 +11,8 @@ internal class TxtGenerator
 {
     private readonly string baseDirectory;
     private readonly TableFormatter formatter;
-    private readonly List<DomainAnime> animeList;
+    private readonly List<Anime> animeList;
+    private readonly IAnimeRepository animeRepository = new AnimeRepository();
 
     public TxtGenerator()
     {
@@ -20,7 +24,7 @@ internal class TxtGenerator
         var hints = new Hints { MaxTableWidth = 230 };
         formatter = new TableFormatter(hints);
 
-        animeList = new MongoDbHandler().GetAllAnime().Result;
+        animeList = animeRepository.GetAllAsync().Result;
     }
 
     public void GenerateAll()
@@ -53,7 +57,7 @@ internal class TxtGenerator
 
     private void GenerateByBroadcastWindow(TimeSpan timeStart, TimeSpan timeEnd, string folder, string broadcastWindowName)
     {
-        IEnumerable<DomainAnime> filteredAnime;
+        IEnumerable<Anime> filteredAnime;
         if (timeEnd > timeStart)
         {
             filteredAnime = animeList
@@ -225,7 +229,7 @@ internal class TxtGenerator
         simpleList = GetSimpleList(animeList.Where(IsTwoBySameArtist));
         CreateFile(simpleList, folder, @"2 or more OP or ED by the same artist");
 
-        static bool IsTwoBySameArtist(DomainAnime anime)
+        static bool IsTwoBySameArtist(Anime anime)
         {
             int initialCount = anime.Theme.Openings.Count + anime.Theme.Endings.Count;
 
@@ -280,7 +284,7 @@ internal class TxtGenerator
         Console.WriteLine($@"Created: {folder}\{fileName}");
     }
 
-    private List<SimpleAnime> GetSimpleList(IEnumerable<DomainAnime> animeList)
+    private List<SimpleAnime> GetSimpleList(IEnumerable<Anime> animeList)
     {
         var simpleList = new List<SimpleAnime>();
         foreach (var anime in animeList)
