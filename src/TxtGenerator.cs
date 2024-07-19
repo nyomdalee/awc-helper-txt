@@ -3,7 +3,6 @@ using MALSuite.Database.Repositories;
 using MALSuite.Database.Repositories.Interfaces;
 using MALSuite.Txt.Models;
 using System.Reflection;
-using System.Text.RegularExpressions;
 using Tababular;
 
 namespace MALSuite.Txt;
@@ -43,6 +42,8 @@ internal class TxtGenerator
         UpdateReadme();
     }
 
+    private void WriteFolderComplete(string folder) => Console.WriteLine($"Completed: {folder}");
+
     private void GenerateAllBroadcasts()
     {
         var folder = "Anime by Broadcast";
@@ -52,27 +53,20 @@ internal class TxtGenerator
         GenerateByBroadcastWindow(new TimeSpan(17, 0, 0), new TimeSpan(22, 59, 0), folder, "Afternoon-Evening (1700 - 2259 JST)");
         GenerateByBroadcastWindow(new TimeSpan(23, 0, 0), new TimeSpan(3, 59, 0), folder, "Late night (2300 - 0359 JST)");
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByBroadcastWindow(TimeSpan timeStart, TimeSpan timeEnd, string folder, string broadcastWindowName)
     {
-        IEnumerable<Anime> filteredAnime;
-        if (timeEnd > timeStart)
-        {
-            filteredAnime = animeList
+        IEnumerable<Anime> filteredAnime = timeEnd > timeStart
+            ? animeList
                 .Where(a => (a.Broadcast?.StartTime != null))
-                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime!) >= timeStart && TimeSpan.Parse(a.Broadcast.StartTime!) <= timeEnd);
-        }
-        else
-        {
-            filteredAnime = animeList
+                .Where(a => TimeSpan.Parse(a.Broadcast.StartTime!) >= timeStart && TimeSpan.Parse(a.Broadcast.StartTime!) <= timeEnd)
+            : animeList
                 .Where(a => (a.Broadcast?.StartTime != null))
                 .Where(a => TimeSpan.Parse(a.Broadcast.StartTime!) >= timeStart || TimeSpan.Parse(a.Broadcast.StartTime!) <= timeEnd);
-        }
 
-        var simpleList = GetSimpleList(filteredAnime);
-        CreateFile(simpleList, folder, broadcastWindowName!);
+        CreateFile(GetSimpleList(filteredAnime), folder, broadcastWindowName!);
     }
 
     private void GenerateBySource()
@@ -87,12 +81,10 @@ internal class TxtGenerator
 
         foreach (var source in distinctSources)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.Source == source));
-
-            CreateFile(simpleList, folder, source!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.Source == source)), folder, source!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByStartDay()
@@ -107,12 +99,10 @@ internal class TxtGenerator
 
         foreach (var day in distinctDays)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.StartDate.Day == day));
-
-            CreateFile(simpleList, folder, day.ToString()!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.StartDate.Day == day)), folder, day.ToString()!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByStartMonth()
@@ -127,12 +117,10 @@ internal class TxtGenerator
 
         foreach (var month in distinctMonths)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.StartDate.Month == month));
-
-            CreateFile(simpleList, folder, month.ToString()!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.StartDate.Month == month)), folder, month.ToString()!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByStartYear()
@@ -147,12 +135,10 @@ internal class TxtGenerator
 
         foreach (var year in distinctYears)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.StartDate.Year == year));
-
-            CreateFile(simpleList, folder, year.ToString()!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.StartDate.Year == year)), folder, year.ToString()!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByEndDay()
@@ -167,12 +153,10 @@ internal class TxtGenerator
 
         foreach (var day in distinctDays)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.EndDate.Day == day));
-
-            CreateFile(simpleList, folder, day.ToString()!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.EndDate.Day == day)), folder, day.ToString()!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByEndMonth()
@@ -187,12 +171,10 @@ internal class TxtGenerator
 
         foreach (var month in distinctMonths)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.EndDate.Month == month));
-
-            CreateFile(simpleList, folder, month.ToString()!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.EndDate.Month == month)), folder, month.ToString()!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByEndYear()
@@ -207,12 +189,10 @@ internal class TxtGenerator
 
         foreach (var year in distinctYears)
         {
-            var simpleList = GetSimpleList(animeList.Where(a => a.EndDate.Year == year));
-
-            CreateFile(simpleList, folder, year.ToString()!);
+            CreateFile(GetSimpleList(animeList.Where(a => a.EndDate.Year == year)), folder, year.ToString()!);
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void GenerateByOpEd()
@@ -252,7 +232,7 @@ internal class TxtGenerator
             return false;
         }
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     private void PrepareDirectory(string folder)
@@ -305,18 +285,6 @@ internal class TxtGenerator
         File.AppendAllText(path, date);
     }
 
-    public void GenerateTwentyThree()
-    {
-        var folder = "Anime by 23";
-        PrepareDirectory(folder);
-
-        var simpleList = GetSimpleList(animeList.Where(a => Regex.IsMatch(a.Id.ToString(), @".*23.*")));
-
-        CreateFile(simpleList, folder, "23");
-
-        Console.WriteLine($"Completed: {folder}");
-    }
-
     public void GenerateTenTitle()
     {
         var folder = "Anime by Title";
@@ -331,7 +299,7 @@ internal class TxtGenerator
         textList.AddRange(twoList);
         CreateFile(textList, folder, "Title contains 'ten' or '10'");
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 
     public void GenerateTenId()
@@ -344,6 +312,6 @@ internal class TxtGenerator
 
         CreateFile(oneList, folder, "ID contains '10'");
 
-        Console.WriteLine($"Completed: {folder}");
+        WriteFolderComplete(folder);
     }
 }
