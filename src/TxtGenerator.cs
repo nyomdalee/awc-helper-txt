@@ -1,4 +1,5 @@
 ﻿using MALSuite.Core.Entities;
+using MALSuite.Core.Specifications;
 using MALSuite.Database.Repositories;
 using MALSuite.Database.Repositories.Interfaces;
 using MALSuite.Txt.Models;
@@ -30,7 +31,7 @@ internal class TxtGenerator
 
         GenerateAllBroadcasts();
         GenerateBySource();
-        GenerateByStartDay();
+        await GenerateByStartDay();
         GenerateByStartMonth();
         GenerateByStartYear();
         GenerateByEndDay();
@@ -87,7 +88,7 @@ internal class TxtGenerator
         WriteFolderComplete(folder);
     }
 
-    private void GenerateByStartDay()
+    private async Task GenerateByStartDay()
     {
         var distinctDays = animeList
             .Where(a => a.StartDate.Day != null)
@@ -99,7 +100,11 @@ internal class TxtGenerator
 
         foreach (var day in distinctDays)
         {
-            CreateFile(GetSimpleList(animeList.Where(a => a.StartDate.Day == day)), folder, day.ToString()!);
+            var spec = new AnimeSpecification() { Day = day };
+            var filtered = await animeRepository.GetBySpecification(spec);
+            var simpleList = GetSimpleList(filtered);
+
+            CreateFile(simpleList, folder, day.ToString()!);
         }
 
         WriteFolderComplete(folder);
