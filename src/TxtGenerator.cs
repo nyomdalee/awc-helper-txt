@@ -1,4 +1,5 @@
 ﻿using MALSuite.Core.Entities;
+using MALSuite.Core.Extensions;
 using MALSuite.Core.Specifications;
 using MALSuite.Database.Repositories;
 using MALSuite.Database.Repositories.Interfaces;
@@ -14,6 +15,7 @@ internal class TxtGenerator
     private readonly TableFormatter formatter;
     private readonly IAnimeRepository animeRepository = new AnimeRepository();
     private List<Anime> animeList = [];
+    private IQueryable<Anime> animeQueryable = Enumerable.Empty<Anime>().AsQueryable();
 
     public TxtGenerator()
     {
@@ -27,11 +29,13 @@ internal class TxtGenerator
 
     public async Task GenerateAllAsync()
     {
+        // TOOD: preorder by id
         animeList = await animeRepository.GetAllAsync();
+        animeQueryable = animeList.AsQueryable();
 
         GenerateAllBroadcasts();
         GenerateBySource();
-        await GenerateByStartDay();
+        GenerateByStartDay();
         GenerateByStartMonth();
         GenerateByStartYear();
         GenerateByEndDay();
@@ -42,8 +46,6 @@ internal class TxtGenerator
         GenerateTenId();
         UpdateReadme();
     }
-
-    private void WriteFolderComplete(string folder) => Console.WriteLine($"Completed: {folder}");
 
     private void GenerateAllBroadcasts()
     {
@@ -70,135 +72,47 @@ internal class TxtGenerator
         CreateFile(GetSimpleList(filteredAnime), folder, broadcastWindowName!);
     }
 
-    private void GenerateBySource()
-    {
-        var distinctSources = animeList
-            .Where(a => a.Source != null)
-            .Select(a => a.Source)
-            .Distinct();
+    private void GenerateBySource() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by Source",
+            x => x.Source,
+            source => new AnimeSpecification { Source = source });
 
-        var folder = "Anime by Source";
-        PrepareDirectory(folder);
+    private void GenerateByStartDay() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by Start Day",
+            x => x.StartDate.Day,
+            startDay => new AnimeSpecification { StartDay = startDay });
 
-        foreach (var source in distinctSources)
-        {
-            CreateFile(GetSimpleList(animeList.Where(a => a.Source == source)), folder, source!);
-        }
+    private void GenerateByStartMonth() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by Start Month",
+            x => x.StartDate.Month,
+            startMonth => new AnimeSpecification { StartMonth = startMonth });
 
-        WriteFolderComplete(folder);
-    }
+    private void GenerateByStartYear() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by Start Year",
+            x => x.StartDate.Year,
+            startYear => new AnimeSpecification { StartYear = startYear });
 
-    private async Task GenerateByStartDay()
-    {
-        var distinctDays = animeList
-            .Where(a => a.StartDate.Day != null)
-            .Select(a => a.StartDate.Day)
-            .Distinct();
+    private void GenerateByEndDay() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by End Day",
+            x => x.EndDate.Day,
+            endDay => new AnimeSpecification { EndDay = endDay });
 
-        var folder = "Anime by Start Day";
-        PrepareDirectory(folder);
+    private void GenerateByEndMonth() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by End Month",
+            x => x.EndDate.Month,
+            endMonth => new AnimeSpecification { EndMonth = endMonth });
 
-        foreach (var day in distinctDays)
-        {
-            var spec = new AnimeSpecification() { Day = day };
-            var filtered = await animeRepository.GetBySpecification(spec);
-            var simpleList = GetSimpleList(filtered);
-
-            CreateFile(simpleList, folder, day.ToString()!);
-        }
-
-        WriteFolderComplete(folder);
-    }
-
-    private void GenerateByStartMonth()
-    {
-        var distinctMonths = animeList
-            .Where(a => a.StartDate.Month != null)
-            .Select(a => a.StartDate.Month)
-            .Distinct();
-
-        var folder = "Anime by Start Month";
-        PrepareDirectory(folder);
-
-        foreach (var month in distinctMonths)
-        {
-            CreateFile(GetSimpleList(animeList.Where(a => a.StartDate.Month == month)), folder, month.ToString()!);
-        }
-
-        WriteFolderComplete(folder);
-    }
-
-    private void GenerateByStartYear()
-    {
-        var distinctYears = animeList
-            .Where(a => a.StartDate.Year != null)
-            .Select(a => a.StartDate.Year)
-            .Distinct();
-
-        var folder = "Anime by Start Year";
-        PrepareDirectory(folder);
-
-        foreach (var year in distinctYears)
-        {
-            CreateFile(GetSimpleList(animeList.Where(a => a.StartDate.Year == year)), folder, year.ToString()!);
-        }
-
-        WriteFolderComplete(folder);
-    }
-
-    private void GenerateByEndDay()
-    {
-        var distinctDays = animeList
-            .Where(a => a.EndDate.Day != null)
-            .Select(a => a.EndDate.Day)
-            .Distinct();
-
-        var folder = "Anime by End Day";
-        PrepareDirectory(folder);
-
-        foreach (var day in distinctDays)
-        {
-            CreateFile(GetSimpleList(animeList.Where(a => a.EndDate.Day == day)), folder, day.ToString()!);
-        }
-
-        WriteFolderComplete(folder);
-    }
-
-    private void GenerateByEndMonth()
-    {
-        var distinctMonths = animeList
-            .Where(a => a.EndDate.Month != null)
-            .Select(a => a.EndDate.Month)
-            .Distinct();
-
-        var folder = "Anime by End Month";
-        PrepareDirectory(folder);
-
-        foreach (var month in distinctMonths)
-        {
-            CreateFile(GetSimpleList(animeList.Where(a => a.EndDate.Month == month)), folder, month.ToString()!);
-        }
-
-        WriteFolderComplete(folder);
-    }
-
-    private void GenerateByEndYear()
-    {
-        var distinctYears = animeList
-            .Where(a => a.EndDate.Year != null)
-            .Select(a => a.EndDate.Year)
-            .Distinct();
-
-        var folder = "Anime by End Year";
-        PrepareDirectory(folder);
-
-        foreach (var year in distinctYears)
-        {
-            CreateFile(GetSimpleList(animeList.Where(a => a.EndDate.Year == year)), folder, year.ToString()!);
-        }
-
-        WriteFolderComplete(folder);
-    }
+    private void GenerateByEndYear() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by End Year",
+            x => x.EndDate.Year,
+            endYear => new AnimeSpecification { EndYear = endYear });
 
     private void GenerateByOpEd()
     {
@@ -240,6 +154,68 @@ internal class TxtGenerator
         WriteFolderComplete(folder);
     }
 
+    public void GenerateTenTitle()
+    {
+        var folder = "Anime by Title";
+        PrepareDirectory(folder);
+
+        var textList = GetSimpleList(animeList
+            .Where(a => a.Title.Contains("10", StringComparison.InvariantCultureIgnoreCase)));
+
+        var twoList = GetSimpleList(animeList
+            .Where(a => a.Title.Contains("ten", StringComparison.InvariantCultureIgnoreCase)));
+
+        textList.AddRange(twoList);
+        CreateFile(textList, folder, "Title contains 'ten' or '10'");
+
+        WriteFolderComplete(folder);
+    }
+
+    public void GenerateTenId()
+    {
+        var folder = "Anime by ID";
+        PrepareDirectory(folder);
+
+        var oneList = GetSimpleList(animeList
+            .Where(a => a.Id.ToString().Contains("10", StringComparison.InvariantCultureIgnoreCase)));
+
+        CreateFile(oneList, folder, "ID contains '10'");
+
+        WriteFolderComplete(folder);
+    }
+
+    private void GenerateByDistinctPropertyValues<TProperty>(
+        string folderName,
+        Func<Anime, TProperty> propertySelector,
+        Func<TProperty, AnimeSpecification> createSpecification)
+    {
+        var distinctValues = animeList.GetDistinctPropertyValues(propertySelector);
+
+        PrepareDirectory(folderName);
+
+        foreach (var value in distinctValues)
+        {
+            var spec = createSpecification(value);
+            var filtered = animeQueryable.Filter(spec);
+            var simpleList = GetSimpleList(filtered);
+
+            CreateFile(simpleList, folderName, value.ToString()!);
+        }
+
+        WriteFolderComplete(folderName);
+    }
+
+    private List<SimpleAnime> GetSimpleList(IEnumerable<Anime> animeList)
+    {
+        var simpleList = new List<SimpleAnime>();
+        foreach (var anime in animeList)
+        {
+            simpleList.Add(new SimpleAnime(anime));
+        }
+
+        return simpleList;
+    }
+
     private void PrepareDirectory(string folder)
     {
         var directory = $@"{baseDirectory}\{folder}\";
@@ -269,16 +245,7 @@ internal class TxtGenerator
         Console.WriteLine($@"Created: {folder}\{fileName}");
     }
 
-    private List<SimpleAnime> GetSimpleList(IEnumerable<Anime> animeList)
-    {
-        var simpleList = new List<SimpleAnime>();
-        foreach (var anime in animeList)
-        {
-            simpleList.Add(new SimpleAnime(anime));
-        }
-
-        return simpleList;
-    }
+    private void WriteFolderComplete(string folder) => Console.WriteLine($"Completed: {folder}");
 
     private void UpdateReadme()
     {
@@ -288,35 +255,5 @@ internal class TxtGenerator
         var readmeLines = File.ReadAllLines(path);
         File.WriteAllLines(path, readmeLines.Take(readmeLines.Length - 1).ToArray());
         File.AppendAllText(path, date);
-    }
-
-    public void GenerateTenTitle()
-    {
-        var folder = "Anime by Title";
-        PrepareDirectory(folder);
-
-        var textList = GetSimpleList(animeList
-            .Where(a => a.Title.Contains("10", StringComparison.InvariantCultureIgnoreCase)));
-
-        var twoList = GetSimpleList(animeList
-            .Where(a => a.Title.Contains("ten", StringComparison.InvariantCultureIgnoreCase)));
-
-        textList.AddRange(twoList);
-        CreateFile(textList, folder, "Title contains 'ten' or '10'");
-
-        WriteFolderComplete(folder);
-    }
-
-    public void GenerateTenId()
-    {
-        var folder = "Anime by ID";
-        PrepareDirectory(folder);
-
-        var oneList = GetSimpleList(animeList
-            .Where(a => a.Id.ToString().Contains("10", StringComparison.InvariantCultureIgnoreCase)));
-
-        CreateFile(oneList, folder, "ID contains '10'");
-
-        WriteFolderComplete(folder);
     }
 }
