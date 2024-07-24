@@ -1,4 +1,5 @@
 ﻿using MALSuite.Core.Entities;
+using MALSuite.Core.Extensions;
 using MALSuite.Txt.Models;
 
 namespace MALSuite.Txt.Extensions;
