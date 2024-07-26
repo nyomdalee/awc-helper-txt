@@ -52,37 +52,37 @@ internal class TxtGenerator
     private void GenerateByStartDay() =>
         GenerateByDistinctPropertyValues(
             "Anime by Start Day",
-            x => x.StartDate.Day,
+            x => x.StartDate?.Day,
             startDay => new() { StartDay = startDay });
 
     private void GenerateByStartMonth() =>
         GenerateByDistinctPropertyValues(
             "Anime by Start Month",
-            x => x.StartDate.Month,
+            x => x.StartDate?.Month,
             startMonth => new() { StartMonth = startMonth });
 
     private void GenerateByStartYear() =>
         GenerateByDistinctPropertyValues(
             "Anime by Start Year",
-            x => x.StartDate.Year,
+            x => x.StartDate?.Year,
             startYear => new() { StartYear = startYear });
 
     private void GenerateByEndDay() =>
         GenerateByDistinctPropertyValues(
             "Anime by End Day",
-            x => x.EndDate.Day,
+            x => x.EndDate?.Day,
             endDay => new() { EndDay = endDay });
 
     private void GenerateByEndMonth() =>
         GenerateByDistinctPropertyValues(
             "Anime by End Month",
-            x => x.EndDate.Month,
+            x => x.EndDate?.Month,
             endMonth => new() { EndMonth = endMonth });
 
     private void GenerateByEndYear() =>
         GenerateByDistinctPropertyValues(
             "Anime by End Year",
-            x => x.EndDate.Year,
+            x => x.EndDate?.Year,
             endYear => new() { EndYear = endYear });
 
     private void GenerateByBroadcastWindow() =>
