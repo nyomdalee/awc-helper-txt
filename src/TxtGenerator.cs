@@ -114,14 +114,15 @@ internal class TxtGenerator
         GenerateBySpecs(
             "Anime by Title",
             [
-                (new() { TitleContains = new List<string> { "10", "ten" } }, "Title contains 'ten' or '10'")
+                (new() { TitleContains = ["10", "ten"] }, "Title contains 'ten' or '10'")
             ]);
 
     private void GenerateTenId() =>
         GenerateBySpecs(
             "Anime by ID",
             [
-                (new() { IdContains = new List<string> { "10" } }, "ID contains '10'")
+                (new() { IdContains = ["10"] }, "ID contains '10'"),
+                (new() { IdContains = ["25"] }, "ID contains '25'")
             ]);
 
     private void GenerateByDistinctPropertyValues<TProperty>(
