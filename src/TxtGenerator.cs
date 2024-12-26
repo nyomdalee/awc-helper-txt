@@ -37,6 +37,7 @@ internal class TxtGenerator
         GenerateByEndMonth();
         GenerateByEndYear();
         GenerateByBroadcastWindow();
+        GenerateByBroadcastDay();
         GenerateByOpEd();
         GenerateTenTitle();
         GenerateTenId();
@@ -87,12 +88,18 @@ internal class TxtGenerator
 
     private void GenerateByBroadcastWindow() =>
         GenerateBySpecs(
-            "Anime by Broadcast",
+            @"Anime by Broadcast\Time",
             [
                 (new() { BroadcastWindow = new(new TimeSpan(6, 0, 0), new TimeSpan(11, 59, 0)) }, "Morning (0600 - 1159 JST)"),
                 (new() { BroadcastWindow = new(new TimeSpan(17, 0, 0), new TimeSpan(22, 59, 0)) }, "Afternoon-Evening (1700 - 2259 JST)"),
                 (new() { BroadcastWindow = new(new TimeSpan(23, 0, 0), new TimeSpan(3, 59, 0)) }, "Late night (2300 - 0359 JST)"),
             ]);
+
+    private void GenerateByBroadcastDay() =>
+        GenerateByDistinctPropertyValues(
+            @"Anime by Broadcast\Day of week",
+            x => x.Broadcast?.DayOfTheWeek,
+            broadCastDay => new() { BroadcastDayOfWeek = broadCastDay });
 
     private void GenerateByOpEd() =>
         GenerateBySpecs(
