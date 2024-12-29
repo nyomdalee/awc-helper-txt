@@ -9,12 +9,24 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Tababular" Version="4.1.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="4.12.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.1.0" />
+    <PackageReference Include="Tababular" Version="4.3.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\MALSuite.Core\MALSuite.Core.csproj" />
     <ProjectReference Include="..\..\MALSuite.Database\MALSuite.Database.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="Microsoft.CodeAnalysis.Compilers" Version="4.12.0" />
+    <PackageReference Update="Microsoft.CodeAnalysis.CSharp" Version="4.12.0" />
+    <PackageReference Update="Microsoft.CodeAnalysis.CSharp.Workspaces" Version="4.12.0" />
+    <PackageReference Update="Roslynator.Analyzers" Version="4.12.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
