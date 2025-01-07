@@ -41,6 +41,7 @@ internal class TxtGenerator
         GenerateByOpEd();
         GenerateTenTitle();
         GenerateTenId();
+        GenerateTvTypeWith25EpisodeDuration();
         UpdateReadme();
     }
 
@@ -123,6 +124,13 @@ internal class TxtGenerator
             [
                 (new() { IdContains = ["10"] }, "ID contains '10'"),
                 (new() { IdContains = ["25"] }, "ID contains '25'")
+            ]);
+
+    private void GenerateTvTypeWith25EpisodeDuration() =>
+        GenerateBySpecs(
+            "Anime by Episode Duration",
+            [
+                (new() { MediaType = "TV", EpisodeDuration = new(25 * 60, ValueComparerEnum.GreaterThanOrEqual) }, "TV type with episode duration of 25min or more")
             ]);
 
     private void GenerateByDistinctPropertyValues<TProperty>(
