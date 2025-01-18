@@ -27,7 +27,7 @@ internal class TxtGenerator
 
     public async Task GenerateAllAsync()
     {
-        animeQueryable = (await new AnimeRepository().GetAllAsync()).OrderBy(x => x.Id).AsQueryable();
+        animeQueryable = (await new AnimeRepository().GetAllAsync()).OrderBy(x => x.Id).Where(x => x.Approved == true).AsQueryable();
 
         GenerateBySource();
         GenerateByStartDay();
