@@ -3,47 +3,47 @@
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Shizuku                           | 5.59  | 1965 | 1        | 4 min      | Comedy                               | https://myanimelist.net/anime/1989  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Tetsujin 28-gou                   | 6.37  | 1963 | 96       | 25 min     | Adventure, Mecha, Sci-Fi, Shounen    | https://myanimelist.net/anime/2686  |
+| Tetsujin 28-gou                   | 6.38  | 1963 | 96       | 25 min     | Adventure, Mecha, Sci-Fi, Shounen    | https://myanimelist.net/anime/2686  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Gulliver no Uchuu Ryokou          | 5.76  | 1965 | 1        | 1 h 20 min | Adventure, Sci-Fi                    | https://myanimelist.net/anime/2833  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Mado                              | 4.68  | 1965 | 1        | 5 min      | Comedy                               | https://myanimelist.net/anime/7026  |
+| Mado                              | 4.66  | 1965 | 1        | 5 min      | Comedy                               | https://myanimelist.net/anime/7026  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Tonari no Yarou                   | 4.66  | 1965 | 1        | 9 min      | Comedy                               | https://myanimelist.net/anime/7029  |
+| Tonari no Yarou                   | 4.63  | 1965 | 1        | 9 min      | Comedy                               | https://myanimelist.net/anime/7029  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Yokoo's 3 Animation Films         | 4.51  | 1964 | 3        | 5 min      | Avant Garde, Romance                 | https://myanimelist.net/anime/8663  |
+| Yokoo's 3 Animation Films         | 4.48  | 1964 | 3        | 5 min      | Avant Garde, Romance                 | https://myanimelist.net/anime/8663  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Dolphin Ouji                      | None  | 1965 | 3        | 23 min     | Action, Adventure, Kids, Sci-Fi      | https://myanimelist.net/anime/8879  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Big X                             | 6.11  | 1964 | 59       | 25 min     | Action, Historical, Sci-Fi, Shounen  | https://myanimelist.net/anime/9613  |
+| Big X                             | 6.07  | 1964 | 59       | 25 min     | Action, Historical, Sci-Fi, Shounen  | https://myanimelist.net/anime/9613  |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Tobacco to Hai                    | 5.4   | 1965 | 1        | 4 min      | Adventure                            | https://myanimelist.net/anime/12295 |
+| Tobacco to Hai                    | 5.41  | 1965 | 1        | 4 min      | Adventure                            | https://myanimelist.net/anime/12295 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Uchuu Patrol Hopper               | 5.9   | 1965 | 44       | 25 min     | Sci-Fi, Space                        | https://myanimelist.net/anime/12897 |
+| Uchuu Patrol Hopper               | 5.84  | 1965 | 44       | 25 min     | Sci-Fi, Space                        | https://myanimelist.net/anime/12897 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Fushigi na Kusuri                 | 5.34  | 1965 | 1        | 15 min     | Award Winning, Comedy, Slice of Life | https://myanimelist.net/anime/13083 |
+| Fushigi na Kusuri                 | 5.31  | 1965 | 1        | 15 min     | Award Winning, Comedy, Slice of Life | https://myanimelist.net/anime/13083 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Shounen Ninja Kaze no Fujimaru    | 5.88  | 1964 | 65       | 24 min     | Action, Adventure, Samurai, Shounen  | https://myanimelist.net/anime/13307 |
+| Shounen Ninja Kaze no Fujimaru    | 5.86  | 1964 | 65       | 24 min     | Action, Adventure, Samurai, Shounen  | https://myanimelist.net/anime/13307 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Shin Takarajima                   | 5.83  | 1965 | 1        | 52 min     | Adventure, Kids                      | https://myanimelist.net/anime/15823 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Ookami Shounen Ken                | 5.99  | 1963 | 86       | 24 min     | Adventure, Kids                      | https://myanimelist.net/anime/17521 |
+| Ookami Shounen Ken                | 5.93  | 1963 | 86       | 24 min     | Adventure, Kids                      | https://myanimelist.net/anime/17521 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Kaitou Pride                      | None  | 1965 | 105      | 8 min      | Adventure, Comedy, Kids              | https://myanimelist.net/anime/19987 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Samurai                           | 4.65  | 1965 | 1        | 7 min      | Drama, Romance                       | https://myanimelist.net/anime/29637 |
+| Samurai                           | 4.67  | 1965 | 1        | 7 min      | Drama, Romance                       | https://myanimelist.net/anime/29637 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Goman-hiki                        | None  | 1962 | 100      | 3 min      | Kids                                 | https://myanimelist.net/anime/29924 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Tsuru no Ongaeshi                 | 5.34  | 1965 | 1        | 17 min     | Kids                                 | https://myanimelist.net/anime/29929 |
+| Tsuru no Ongaeshi                 | 5.33  | 1965 | 1        | 17 min     | Kids                                 | https://myanimelist.net/anime/29929 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Kamen no Marionette-tachi         | None  | 1965 | 1        | 8 min      | Avant Garde                          | https://myanimelist.net/anime/29985 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Wonder 3 Pilot                    | 5.77  | 1965 | 1        | 15 min     | Action, Adventure, Comedy, Sci-Fi    | https://myanimelist.net/anime/30767 |
+| Wonder 3 Pilot                    | 5.72  | 1965 | 1        | 15 min     | Action, Adventure, Comedy, Sci-Fi    | https://myanimelist.net/anime/30767 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Tanoshii ne                       | 5.18  | 1965 | 1        | 2 min      | Kids, Music                          | https://myanimelist.net/anime/36356 |
+| Tanoshii ne                       | 5.17  | 1965 | 1        | 2 min      | Kids, Music                          | https://myanimelist.net/anime/36356 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
-| Hasami Togi                       | 5.07  | 1965 | 1        | 2 min      | Kids, Music                          | https://myanimelist.net/anime/36360 |
+| Hasami Togi                       | 5.06  | 1965 | 1        | 2 min      | Kids, Music                          | https://myanimelist.net/anime/36360 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+
 | Cao Yuan Ying Xiong Xiao Jie Mei  | None  | 1965 | 1        | 40 min     | Kids                                 | https://myanimelist.net/anime/43362 |
 +-----------------------------------+-------+------+----------+------------+--------------------------------------+-------------------------------------+

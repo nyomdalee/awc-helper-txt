@@ -1,7 +1,7 @@
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Title                                                    | Score | Year | Episodes | EpDuration | Genres                                                   | Link                                |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Kidou Senshi Gundam I                                    | 7.24  | 1981 | 1        | 2 h 19 min | Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space | https://myanimelist.net/anime/1090  |
+| Kidou Senshi Gundam I                                    | 7.25  | 1981 | 1        | 2 h 19 min | Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space | https://myanimelist.net/anime/1090  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Kidou Senshi Gundam II: Ai Senshi-hen                    | 7.33  | 1981 | 1        | 2 h 13 min | Action, Drama, Mecha, Military, Sci-Fi, Space            | https://myanimelist.net/anime/1091  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
@@ -9,83 +9,83 @@
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki      | 7.25  | 1981 | 1        | 2 h 10 min | Adventure, Drama, Sci-Fi, Space                          | https://myanimelist.net/anime/1302  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Hyakujuu-Ou GoLion                                       | 6.82  | 1981 | 52       | 23 min     | Adventure, Mecha, Sci-Fi                                 | https://myanimelist.net/anime/1448  |
+| Hyakujuu-Ou GoLion                                       | 6.83  | 1981 | 52       | 23 min     | Adventure, Mecha, Sci-Fi                                 | https://myanimelist.net/anime/1448  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Shin Taketori Monogatari: 1000-nen Joou                  | 7.12  | 1981 | 42       | 24 min     | Drama, Mystery, Sci-Fi                                   | https://myanimelist.net/anime/1548  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Sirius no Densetsu                                       | 6.7   | 1981 | 1        | 1 h 47 min | Drama, Fantasy, Romance                                  | https://myanimelist.net/anime/2029  |
+| Sirius no Densetsu                                       | 6.69  | 1981 | 1        | 1 h 47 min | Drama, Fantasy, Romance                                  | https://myanimelist.net/anime/2029  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Dr. Slump: Arale-chan                                    | 7.19  | 1981 | 243      | 25 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/2222  |
+| Dr. Slump: Arale-chan                                    | 7.2   | 1981 | 243      | 25 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/2222  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Taiyou no Kiba Dagram                                    | 7.38  | 1981 | 75       | 23 min     | Action, Drama, Mecha, Military, Sci-Fi                   | https://myanimelist.net/anime/2257  |
+| Taiyou no Kiba Dougram                                   | 7.4   | 1981 | 75       | 23 min     | Action, Drama, Mecha, Military, Sci-Fi                   | https://myanimelist.net/anime/2257  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Uchuu Densetsu Ulysses 31                                | 7.09  | 1981 | 26       | 25 min     | Action, Adventure, Sci-Fi, Space                         | https://myanimelist.net/anime/2331  |
+| Uchuu Densetsu Ulysses 31                                | 7.1   | 1981 | 26       | 25 min     | Action, Adventure, Sci-Fi, Space                         | https://myanimelist.net/anime/2331  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Unico                                                    | 7.12  | 1981 | 1        | 1 h 30 min | Adventure, Fantasy, Kids                                 | https://myanimelist.net/anime/2427  |
+| Unico                                                    | 7.13  | 1981 | 1        | 1 h 30 min | Adventure, Fantasy, Kids                                 | https://myanimelist.net/anime/2427  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Sengoku Majin Goushougun                                 | 6.54  | 1981 | 26       | 24 min     | Action, Mecha, Parody, Sci-Fi                            | https://myanimelist.net/anime/2510  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone    | 7.32  | 1981 | 50       | 24 min     | Adventure, Drama, Historical, Slice of Life              | https://myanimelist.net/anime/2544  |
+| Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone    | 7.34  | 1981 | 50       | 24 min     | Adventure, Drama, Historical, Slice of Life              | https://myanimelist.net/anime/2544  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Natsu e no Tobira                                        | 5.9   | 1981 | 1        | 59 min     | Boys Love, Drama, Romance, Shoujo                        | https://myanimelist.net/anime/2621  |
+| Natsu e no Tobira                                        | 5.91  | 1981 | 1        | 59 min     | Boys Love, Drama, Shoujo                                 | https://myanimelist.net/anime/2621  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Doraemon: Kaette Kita Doraemon                           | 7.09  | 1981 | 1        | 21 min     | Comedy, Fantasy, Kids, Sci-Fi, Shounen                   | https://myanimelist.net/anime/2634  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Doraemon Movie: Boku, Momotarou no Nanna no Sa           | 6.48  | 1981 | 1        | 47 min     | Adventure, Fantasy, Kids, Sci-Fi, Shounen                | https://myanimelist.net/anime/2650  |
+| Doraemon Movie: Boku, Momotarou no Nanna no Sa           | 6.51  | 1981 | 1        | 47 min     | Adventure, Fantasy, Kids, Sci-Fi, Shounen                | https://myanimelist.net/anime/2650  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Doraemon Movie 02: Nobita no Uchuu Kaitakushi            | 6.96  | 1981 | 1        | 1 h 36 min | Adventure, Comedy, Fantasy, Kids, Shounen                | https://myanimelist.net/anime/2662  |
+| Doraemon Movie 02: Nobita no Uchuu Kaitakushi            | 6.97  | 1981 | 1        | 1 h 36 min | Adventure, Comedy, Fantasy, Kids, Shounen                | https://myanimelist.net/anime/2662  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Daicon Opening Animations                                | 7.7   | 1981 | 2        | 5 min      | Action, Adventure, Mecha, Music, Otaku Culture, Sci-Fi   | https://myanimelist.net/anime/2724  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Dash! Kappei                                             | 7.16  | 1981 | 65       | 25 min     | Comedy, Ecchi, Shounen, Sports                           | https://myanimelist.net/anime/2748  |
+| Dash! Kappei                                             | 7.15  | 1981 | 65       | 25 min     | Comedy, Ecchi, Shounen, Sports                           | https://myanimelist.net/anime/2748  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Hello! Sandybell                                         | 7.07  | 1981 | 47       | 25 min     | Adventure, Romance                                       | https://myanimelist.net/anime/2799  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Anime Oyako Gekijou                                      | 6.18  | 1981 | 26       | 24 min     | Adventure, Fantasy, Historical, Kids, Sci-Fi             | https://myanimelist.net/anime/2882  |
+| Anime Oyako Gekijou                                      | 6.19  | 1981 | 26       | 24 min     | Adventure, Fantasy, Historical, Kids, Sci-Fi             | https://myanimelist.net/anime/2882  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Ohayou! Spank                                            | 6.7   | 1981 | 63       | 24 min     | Comedy, Slice of Life                                    | https://myanimelist.net/anime/2912  |
+| Ohayou! Spank                                            | 6.71  | 1981 | 63       | 24 min     | Comedy, Slice of Life                                    | https://myanimelist.net/anime/2912  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Ashita no Joe 2 (Movie)                                  | 7.26  | 1981 | 1        | 1 h 52 min | Combat Sports, Drama, Shounen, Sports                    | https://myanimelist.net/anime/2922  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Sekai Meisaku Douwa: Hakuchou no Mizuumi                 | 6.91  | 1981 | 1        | 1 h 15 min | Drama, Fantasy, Romance                                  | https://myanimelist.net/anime/3186  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Maicching Machiko-sensei                                 | 6.2   | 1981 | 95       | 24 min     | Comedy, Ecchi, School                                    | https://myanimelist.net/anime/3391  |
+| Maicching Machiko-sensei                                 | 6.17  | 1981 | 95       | 24 min     | Comedy, Ecchi, School                                    | https://myanimelist.net/anime/3391  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Rokushin Gattai GodMars                                  | 6.42  | 1981 | 64       | 24 min     | Action, Mecha, Sci-Fi, Space                             | https://myanimelist.net/anime/3399  |
+| Rokushin Gattai GodMars                                  | 6.35  | 1981 | 64       | 24 min     | Action, Mecha, Sci-Fi, Space                             | https://myanimelist.net/anime/3399  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Wanwan Sanjuushi                                         | 6.79  | 1981 | 26       | 24 min     | Adventure, Anthropomorphic, Historical                   | https://myanimelist.net/anime/3761  |
+| Wanwan Sanjuushi                                         | 6.78  | 1981 | 26       | 24 min     | Adventure, Anthropomorphic, Historical                   | https://myanimelist.net/anime/3761  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Ai no Gakkou Cuore Monogatari                            | 6.59  | 1981 | 26       | 25 min     | Drama, Historical, School, Slice of Life                 | https://myanimelist.net/anime/3835  |
+| Ai no Gakkou Cuore Monogatari                            | 6.61  | 1981 | 26       | 25 min     | Drama, Historical, School, Slice of Life                 | https://myanimelist.net/anime/3835  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Meiken Jolie                                             | 6.77  | 1981 | 52       | 22 min     | Adventure, Historical, Pets                              | https://myanimelist.net/anime/3836  |
+| Meiken Jolie                                             | 6.78  | 1981 | 52       | 25 min     | Adventure, Historical, Pets                              | https://myanimelist.net/anime/3836  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Honey Honey no Suteki na Bouken                          | 6.31  | 1981 | 29       | 24 min     | Adventure, Historical, Shoujo                            | https://myanimelist.net/anime/3873  |
+| Honey Honey no Suteki na Bouken                          | 6.3   | 1981 | 29       | 24 min     | Adventure, Historical, Shoujo                            | https://myanimelist.net/anime/3873  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Jarinko Chie                                             | 7.03  | 1981 | 1        | 1 h 49 min | Comedy, Drama, Seinen                                    | https://myanimelist.net/anime/3946  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Jarinko Chie (TV)                                        | 6.65  | 1981 | 64       | 24 min     | Comedy, Drama, Seinen                                    | https://myanimelist.net/anime/3947  |
+| Jarinko Chie (TV)                                        | 6.67  | 1981 | 64       | 24 min     | Comedy, Drama, Seinen                                    | https://myanimelist.net/anime/3947  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Arano no Sakebi Koe: Hoero, Buck                         | 6.47  | 1981 | 1        | 1 h 6 min  | Adventure, Drama                                         | https://myanimelist.net/anime/4074  |
+| Arano no Sakebi Koe: Hoero, Buck                         | 6.46  | 1981 | 1        | 1 h 6 min  | Adventure, Drama                                         | https://myanimelist.net/anime/4074  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Wakakusa no Yon Shimai                                   | 6.41  | 1981 | 26       | 23 min     | Drama, Historical, Slice of Life                         | https://myanimelist.net/anime/4132  |
+| Wakakusa no Yon Shimai                                   | 6.44  | 1981 | 26       | 23 min     | Drama, Historical, Slice of Life                         | https://myanimelist.net/anime/4132  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Time Bokan Series: Yattodetaman                          | 6.4   | 1981 | 52       | 20 min     | Action, Adventure, Comedy, Fantasy, Mecha                | https://myanimelist.net/anime/4154  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Ginga Senpuu Braiger                                     | 6.76  | 1981 | 39       | 23 min     | Action, Adventure, Mecha, Sci-Fi, Space                  | https://myanimelist.net/anime/4240  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Uchuu Senshi Baldios (Movie)                             | 6.33  | 1981 | 1        | 1 h 58 min | Action, Mecha, Sci-Fi, Space                             | https://myanimelist.net/anime/4371  |
+| Uchuu Senshi Baldios (Movie)                             | 6.3   | 1981 | 1        | 1 h 58 min | Action, Mecha, Sci-Fi, Space                             | https://myanimelist.net/anime/4371  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Sugata Sanshirou                                         | 6.1   | 1981 | 1        | 1 h 12 min | Martial Arts, Sports                                     | https://myanimelist.net/anime/4440  |
+| Sugata Sanshirou                                         | 6.11  | 1981 | 1        | 1 h 12 min | Martial Arts, Sports                                     | https://myanimelist.net/anime/4440  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Saikyou Robot Daiouja                                    | 6.37  | 1981 | 50       | 24 min     | Action, Mecha, Sci-Fi                                    | https://myanimelist.net/anime/4574  |
+| Saikyou Robot Daiouja                                    | 6.36  | 1981 | 50       | 24 min     | Action, Mecha, Sci-Fi                                    | https://myanimelist.net/anime/4574  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Ninja Hattori-kun                                        | 6.96  | 1981 | 694      | 10 min     | Comedy, Martial Arts, Shounen, Slice of Life             | https://myanimelist.net/anime/4936  |
+| Ninja Hattori-kun                                        | 6.98  | 1981 | 694      | 10 min     | Comedy, Martial Arts, Shounen, Slice of Life             | https://myanimelist.net/anime/4936  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Kaitei Daisensou: Ai no 20,000 Miles                     | 5.29  | 1981 | 1        | 1 h 13 min | Action, Adventure                                        | https://myanimelist.net/anime/5581  |
+| Kaitei Daisensou: Ai no 20,000 Miles                     | 5.23  | 1981 | 1        | 1 h 13 min | Action, Adventure                                        | https://myanimelist.net/anime/5581  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Fuusen no Doratarou                                      | None  | 1981 | 13       | 25 min     | Kids                                                     | https://myanimelist.net/anime/5594  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Space Cobra Pilot                                        | 6.38  | 1981 | 1        | 23 min     | Action, Adult Cast, Adventure, Sci-Fi, Shounen, Space    | https://myanimelist.net/anime/5742  |
+| Space Cobra Pilot                                        | 6.39  | 1981 | 1        | 23 min     | Action, Adult Cast, Adventure, Sci-Fi, Shounen, Space    | https://myanimelist.net/anime/5742  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Tiger Mask Nisei                                         | 7.31  | 1981 | 33       | 24 min     | Combat Sports, Drama, Sports                             | https://myanimelist.net/anime/5832  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
@@ -95,39 +95,39 @@
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Mechakko Dotakon                                         | 5.85  | 1981 | 28       | 25 min     | Comedy, Sci-Fi                                           | https://myanimelist.net/anime/6727  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Helen Keller Monogatari: Ai to Hikari no Tenshi          | 6.34  | 1981 | 1        | 1 h 12 min | Drama, Historical                                        | https://myanimelist.net/anime/6728  |
+| Helen Keller Monogatari: Ai to Hikari no Tenshi          | 6.33  | 1981 | 1        | 1 h 12 min | Drama, Historical                                        | https://myanimelist.net/anime/6728  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Kyoufu Densetsu Kaiki! Frankenstein                      | 5.64  | 1981 | 1        | 1 h 29 min | Drama, Horror, Sci-Fi                                    | https://myanimelist.net/anime/6978  |
+| Kyoufu Densetsu Kaiki! Frankenstein                      | 5.66  | 1981 | 1        | 1 h 29 min | Drama, Horror, Sci-Fi                                    | https://myanimelist.net/anime/6978  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Ougon Senshi Gold Lightan                                | 6.09  | 1981 | 52       | 25 min     | Action, Adventure, Mecha, Sci-Fi                         | https://myanimelist.net/anime/7106  |
+| Ougon Senshi Gold Lightan                                | 6.1   | 1981 | 52       | 25 min     | Action, Adventure, Mecha, Sci-Fi                         | https://myanimelist.net/anime/7106  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Grick no Bouken                                          | 6.05  | 1981 | 1        | 1 h 24 min | Adventure, Drama, Fantasy, Kids                          | https://myanimelist.net/anime/7252  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Rennyo to Sono Haha                                      | None  | 1981 | 1        | 1 h 33 min | Historical                                               | https://myanimelist.net/anime/7473  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima      | 6.27  | 1981 | 1        | 25 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/7666  |
+| Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima      | 6.28  | 1981 | 1        | 25 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/7666  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Hashire Melos (1981)                                     | 5.36  | 1981 | 1        | 1 h 7 min  | Adult Cast, Drama, Historical                            | https://myanimelist.net/anime/8554  |
+| Hashire Melos (1981)                                     | 5.35  | 1981 | 1        | 1 h 7 min  | Adult Cast, Drama, Historical                            | https://myanimelist.net/anime/8554  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Yuki                                                     | 6.03  | 1981 | 1        | 1 h 26 min | Adventure, Fantasy, Mythology                            | https://myanimelist.net/anime/8598  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Omoide no Album                                          | 4.9   | 1981 | 1        | 2 min      | Kids, Music, School, Slice of Life                       | https://myanimelist.net/anime/8729  |
+| Omoide no Album                                          | 4.88  | 1981 | 1        | 2 min      | Kids, Music, School, Slice of Life                       | https://myanimelist.net/anime/8729  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Renshenguo                                               | 6.24  | 1981 | 1        | 44 min     | Kids                                                     | https://myanimelist.net/anime/9416  |
+| Renshenguo                                               | 6.23  | 1981 | 1        | 44 min     | Kids                                                     | https://myanimelist.net/anime/9416  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Jiu Se Lu                                                | 5.96  | 1981 | 1        | 25 min     | Supernatural                                             | https://myanimelist.net/anime/9951  |
+| Jiu Se Lu                                                | 5.95  | 1981 | 1        | 25 min     | Supernatural                                             | https://myanimelist.net/anime/9951  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Bremen 4: Jigoku no Naka no Tenshi-tachi                 | 5.95  | 1981 | 1        | 1 h 30 min | Adventure, Anthropomorphic, Kids                         | https://myanimelist.net/anime/9991  |
+| Bremen 4: Jigoku no Naka no Tenshi-tachi                 | 5.92  | 1981 | 1        | 1 h 30 min | Adventure, Anthropomorphic, Kids                         | https://myanimelist.net/anime/9991  |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Lupin tai Holmes                                         | 5.82  | 1981 | 1        | 1 h 5 min  | Mystery                                                  | https://myanimelist.net/anime/10755 |
+| Lupin tai Holmes                                         | 5.85  | 1981 | 1        | 1 h 5 min  | Mystery                                                  | https://myanimelist.net/anime/10755 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Donbee Monogatari                                        | None  | 1981 | 1        | 1 h 11 min | Kids                                                     | https://myanimelist.net/anime/11625 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Manga Mitokoumon                                         | 6.61  | 1981 | 46       | 24 min     | Historical                                               | https://myanimelist.net/anime/11829 |
+| Manga Mitokoumon                                         | 6.64  | 1981 | 46       | 24 min     | Historical                                               | https://myanimelist.net/anime/11829 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Robot King                                               | 5.22  | 1981 | 1        | 1 h 5 min  | Action, Mecha                                            | https://myanimelist.net/anime/16620 |
+| Robot King                                               | 5.19  | 1981 | 1        | 1 h 5 min  | Action, Mecha                                            | https://myanimelist.net/anime/16620 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Ojamanga Yamada-kun (Movie)                              | 6.07  | 1981 | 1        | 27 min     | Comedy, Slice of Life                                    | https://myanimelist.net/anime/16730 |
+| Ojamanga Yamada-kun (Movie)                              | 6.05  | 1981 | 1        | 25 min     | Comedy, Slice of Life                                    | https://myanimelist.net/anime/16730 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Gongnyong Baengmannyeon Ttori                            | None  | 1981 | 1        | 1 h 15 min | Action, Adventure                                        | https://myanimelist.net/anime/16780 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
@@ -139,19 +139,19 @@
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Furiten-kun                                              | 6.01  | 1981 | 1        | 1 h 15 min | Comedy, Seinen, Slice of Life                            | https://myanimelist.net/anime/20093 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Bokura Mangaka: Tokiwasou Monogatari                     | 5.83  | 1981 | 1        | 1 h 12 min | Comedy                                                   | https://myanimelist.net/anime/20109 |
+| Bokura Mangaka: Tokiwasou Monogatari                     | 5.87  | 1981 | 1        | 1 h 12 min | Comedy                                                   | https://myanimelist.net/anime/20109 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Manga Hana no Kakarichou                                 | None  | 1981 | 1        | 1 h 0 min  | Comedy, Seinen, Slice of Life                            | https://myanimelist.net/anime/20241 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Ikkyuu-san: Haru Da! Yancha Hime                         | 6.11  | 1981 | 1        | 15 min     | Comedy, Historical, Kids                                 | https://myanimelist.net/anime/21475 |
+| Ikkyuu-san: Haru Da! Yancha Hime                         | 6.15  | 1981 | 1        | 15 min     | Comedy, Historical, Kids                                 | https://myanimelist.net/anime/21475 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Shin Dokonjou Gaeru                                      | 6.07  | 1981 | 30       | 25 min     | Comedy, Shounen, Slice of Life                           | https://myanimelist.net/anime/21487 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Computer Obaachan                                        | 5     | 1981 | 1        | 2 min      | Adventure, Comedy, Kids, Music, Sci-Fi, Space            | https://myanimelist.net/anime/22427 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Kaibutsu-kun: Kaibutsu Land e no Shoutai                 | 5.93  | 1981 | 1        | 1 h 15 min | Comedy, Horror, Kids, Shounen                            | https://myanimelist.net/anime/22977 |
+| Kaibutsu-kun: Kaibutsu Land e no Shoutai                 | 5.94  | 1981 | 1        | 1 h 15 min | Comedy, Horror, Kids, Shounen                            | https://myanimelist.net/anime/22977 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Kagirinaki Rakuen                                        | 6.39  | 1981 | 1        | 42 min     | Slice of Life                                            | https://myanimelist.net/anime/23569 |
+| Kagirinaki Rakuen                                        | 6.54  | 1981 | 1        | 42 min     | Slice of Life                                            | https://myanimelist.net/anime/23569 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Akuma to Himegimi                                        | None  | 1981 | 1        | 31 min     | Comedy, Shoujo                                           | https://myanimelist.net/anime/23779 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
@@ -161,19 +161,19 @@
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Kaba Enchou no Doubutsuen Nikki                          | None  | 1981 | 1        | 1 h 15 min | Comedy, Drama, Kids                                      | https://myanimelist.net/anime/25057 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Dr. Slump: Arale-chan Specials                           | 5.89  | 1981 | 2        | 24 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/28369 |
+| Dr. Slump: Arale-chan Specials                           | 5.88  | 1981 | 2        | 24 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/28369 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Shiroi Zou (1981)                                        | 5.67  | 1981 | 1        | 22 min     | Action, Historical                                       | https://myanimelist.net/anime/30070 |
+| Shiroi Zou (1981)                                        | 5.66  | 1981 | 1        | 22 min     | Action, Historical                                       | https://myanimelist.net/anime/30070 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Frypan Jiisan                                            | 5.49  | 1981 | 1        | 21 min     | Adventure, Kids                                          | https://myanimelist.net/anime/30071 |
+| Frypan Jiisan                                            | 5.47  | 1981 | 1        | 21 min     | Adventure, Kids                                          | https://myanimelist.net/anime/30071 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Qi Cai Lao Fu Zi                                         | 5.83  | 1981 | 1        | 1 h 16 min | Action, Comedy, Seinen                                   | https://myanimelist.net/anime/30095 |
+| Qi Cai Lao Fu Zi                                         | 5.81  | 1981 | 1        | 1 h 16 min | Action, Comedy, Seinen                                   | https://myanimelist.net/anime/30095 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Joki Joki Tailor                                         | 5.04  | 1981 | 1        | 3 min      | Kids, Music                                              | https://myanimelist.net/anime/30157 |
+| Joki Joki Tailor                                         | 5.06  | 1981 | 1        | 3 min      | Kids, Music                                              | https://myanimelist.net/anime/30157 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Dr. Slump: Arale-chan Ayaya!? Penguin Mura de TV Jack    | 5.84  | 1981 | 1        | 46 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/30453 |
+| Dr. Slump: Arale-chan Ayaya!? Penguin Mura de TV Jack    | 5.83  | 1981 | 1        | 46 min     | Comedy, Gag Humor, Sci-Fi, Shounen                       | https://myanimelist.net/anime/30453 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Spacy                                                    | 5.38  | 1981 | 1        | 9 min      | Avant Garde                                              | https://myanimelist.net/anime/31257 |
+| Spacy                                                    | 5.41  | 1981 | 1        | 9 min      | Avant Garde                                              | https://myanimelist.net/anime/31257 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Ryuu no Me no Namida                                     | None  | 1981 | 1        | 20 min     | Fantasy, Kids                                            | https://myanimelist.net/anime/34225 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
@@ -183,7 +183,7 @@
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Wanwan Kajida Wan                                        | None  | 1981 | 1        | 18 min     | Educational, Kids, Sci-Fi                                | https://myanimelist.net/anime/39152 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
-| Koutsuu Anzen da yo Doraemon                             | 6.15  | 1981 | 2        | 13 min     | Educational, Kids, Sci-Fi                                | https://myanimelist.net/anime/39369 |
+| Koutsuu Anzen da yo Doraemon                             | 6.13  | 1981 | 2        | 13 min     | Educational, Kids, Sci-Fi                                | https://myanimelist.net/anime/39369 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
 | Tobidasu na! Panda-chan                                  | None  | 1981 | 1        | 14 min     | Kids                                                     | https://myanimelist.net/anime/39503 |
 +----------------------------------------------------------+-------+------+----------+------------+----------------------------------------------------------+-------------------------------------+
