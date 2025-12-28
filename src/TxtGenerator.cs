@@ -31,6 +31,7 @@ internal class TxtGenerator
 
         GenerateBySource();
         GenerateByStartDay();
+        GenerateByStartDayOfWeek();
         GenerateByStartMonth();
         GenerateByStartYear();
         GenerateByEndDay();
@@ -56,6 +57,12 @@ internal class TxtGenerator
             "Anime by Start Day",
             x => x.StartDate?.Day,
             startDay => new() { StartDay = startDay });
+
+    private void GenerateByStartDayOfWeek() =>
+        GenerateByDistinctPropertyValues(
+            "Anime by Start Day of Week",
+            x => x.StartDayOfWeek,
+            startDayOfWeek => new() { StartDayOfWeek = startDayOfWeek });
 
     private void GenerateByStartMonth() =>
         GenerateByDistinctPropertyValues(
