@@ -130,7 +130,8 @@ internal class TxtGenerator
             "Anime by ID",
             [
                 (new() { IdContains = ["10"] }, "ID contains '10'"),
-                (new() { IdContains = ["25"] }, "ID contains '25'")
+                (new() { IdContains = ["25"] }, "ID contains '25'"),
+                (new() { IdContains = ["26"] }, "ID contains '26'"),
             ]);
 
     private void GenerateTvTypeWith25EpisodeDuration() =>
