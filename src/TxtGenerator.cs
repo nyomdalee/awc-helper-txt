@@ -113,9 +113,9 @@ internal class TxtGenerator
     GenerateBySpecs(
         "Anime by OP and ED",
         [
-            (new() { Is20PlusEpsWithOnly1OpEd = true }, "20 or more episodes with only 1 OP and ED"),
-                (new() { Has5OrMoreOpOrEd = true }, "5 or more OP or ED"),
-                (new() { Has2OrMoreOpOrEdBySameArtist = true }, "2 or more OP or ED by the same artist"),
+            (new() { Exactly1OpAndEd = true }, "Exactly 1 OP and ED"),
+            (new() { Has5OrMoreOpOrEd = true }, "5 or more OP or ED"),
+            (new() { Has2OrMoreOpOrEdBySameArtist = true }, "2 or more OP or ED by the same artist"),
         ]);
 
     private void GenerateTenTitle() =>
