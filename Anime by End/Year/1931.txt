@@ -1,43 +1,43 @@
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Title                                      | Score | Year | Episodes | EpDuration | Genres                         | Link                                |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Sora no Momotarou                          | 5.09  | 1931 | 1        | 12 min     | Adventure, Comedy, Military    | https://myanimelist.net/anime/4390  |
+| Sora no Momotarou                          | 5.11  | 1931 | 1        | 12 min     | Adventure, Comedy, Military    | https://myanimelist.net/anime/4390  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Kokka Kimigayo                             | 4.78  | 1931 | 1        | 3 min      | Historical, Music              | https://myanimelist.net/anime/4393  |
+| Kokka Kimigayo                             | 4.8   | 1931 | 1        | 3 min      | Historical, Music              | https://myanimelist.net/anime/4393  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Kuro Nyago                                 | 5.25  | 1931 | 1        | 3 min      | Fantasy                        | https://myanimelist.net/anime/4398  |
+| Kuro Nyago                                 | 5.26  | 1931 | 1        | 3 min      | Fantasy                        | https://myanimelist.net/anime/4398  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Nezumi no Rusuban                          | 4.44  | 1931 | 1        | 1 min      | Action                         | https://myanimelist.net/anime/5811  |
+| Nezumi no Rusuban                          | 4.47  | 1931 | 1        | 1 min      | Action                         | https://myanimelist.net/anime/5811  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Doubutsu Sumo Taikai                       | 4.68  | 1931 | 1        | 52 sec     | Combat Sports, Sports          | https://myanimelist.net/anime/5812  |
+| Doubutsu Sumo Taikai                       | 4.69  | 1931 | 1        | 52 sec     | Combat Sports, Sports          | https://myanimelist.net/anime/5812  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Urashima Tarou (1931)                      | 4.55  | 1931 | 1        | 1 min      | Action                         | https://myanimelist.net/anime/5813  |
+| Urashima Tarou (1931)                      | 4.56  | 1931 | 1        | 1 min      | Action                         | https://myanimelist.net/anime/5813  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Haru no Uta                                | 4.56  | 1931 | 1        | 3 min      | Music                          | https://myanimelist.net/anime/5868  |
+| Haru no Uta                                | 4.59  | 1931 | 1        | 3 min      | Music                          | https://myanimelist.net/anime/5868  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Chou no Sainan                             | 5.31  | 1931 | 1        | 8 min      | Action                         | https://myanimelist.net/anime/5869  |
+| Chou no Sainan                             | 5.32  | 1931 | 1        | 8 min      | Action                         | https://myanimelist.net/anime/5869  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Chameko no Ichinichi                       | 4.85  | 1931 | 1        | 6 min      | Comedy                         | https://myanimelist.net/anime/6431  |
+| Chameko no Ichinichi                       | 4.86  | 1931 | 1        | 6 min      | Comedy                         | https://myanimelist.net/anime/6431  |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Kokoro no Chikara                          | 5.05  | 1931 | 1        | 11 min     | Adventure, Historical, Romance | https://myanimelist.net/anime/28047 |
+| Kokoro no Chikara                          | 5.07  | 1931 | 1        | 11 min     | Adventure, Historical, Romance | https://myanimelist.net/anime/28047 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Nonsense Monogatari Dai Ippen: Sarugashima | 5.05  | 1931 | 1        | 24 min     | Adventure                      | https://myanimelist.net/anime/28695 |
+| Nonsense Monogatari Dai Ippen: Sarugashima | 5.08  | 1931 | 1        | 24 min     | Adventure                      | https://myanimelist.net/anime/28695 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| San-biki no Koguma-san                     | 4.83  | 1931 | 1        | 9 min      | Kids                           | https://myanimelist.net/anime/29559 |
+| San-biki no Koguma-san                     | 4.85  | 1931 | 1        | 9 min      | Kids                           | https://myanimelist.net/anime/29559 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Ookami wa Ookami da                        | 5.1   | 1931 | 1        | 11 min     | Fantasy                        | https://myanimelist.net/anime/34957 |
+| Ookami wa Ookami da                        | 5.13  | 1931 | 1        | 11 min     | Fantasy                        | https://myanimelist.net/anime/34957 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Ameya Tanuki                               | 4.42  | 1931 | 1        | 4 min      | Comedy                         | https://myanimelist.net/anime/35388 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Misemono Kenbutsu                          | 4.66  | 1931 | 1        | 2 min      | Kids                           | https://myanimelist.net/anime/35395 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Manga Revue Haru                           | 5     | 1931 | 1        | 9 min      | Kids                           | https://myanimelist.net/anime/35403 |
+| Manga Revue Haru                           | 5.02  | 1931 | 1        | 9 min      | Kids                           | https://myanimelist.net/anime/35403 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Denshin Denrei Denwa                       | 5.04  | 1931 | 1        | 10 min     | Educational, Kids              | https://myanimelist.net/anime/35409 |
+| Denshin Denrei Denwa                       | 5.06  | 1931 | 1        | 10 min     | Educational, Kids              | https://myanimelist.net/anime/35409 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Tanukichi no Ohanashi                      | None  | 1931 | 1        | 11 min     | Fantasy, Historical            | https://myanimelist.net/anime/35490 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Goichi Jiisan                              | 5.24  | 1931 | 1        | 11 min     | Fantasy                        | https://myanimelist.net/anime/35749 |
+| Goichi Jiisan                              | 5.26  | 1931 | 1        | 11 min     | Fantasy                        | https://myanimelist.net/anime/35749 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Zhi Ren Dao Luan Ji                        | None  | 1931 | 1        | Unknown    | Comedy                         | https://myanimelist.net/anime/43333 |
 +--------------------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+

@@ -1,17 +1,17 @@
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Title                          | Score | Year | Episodes | EpDuration | Genres                         | Link                                |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Saiyuuki: Son Gokuu Monogatari | 5.34  | 1926 | 1        | 8 min      | Adventure                      | https://myanimelist.net/anime/7496  |
+| Saiyuuki: Son Gokuu Monogatari | 5.35  | 1926 | 1        | 8 min      | Adventure                      | https://myanimelist.net/anime/7496  |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Baguda-jou no Touzoku          | 4.95  | 1926 | 1        | 15 min     | Adventure, Historical, Romance | https://myanimelist.net/anime/28041 |
+| Baguda-jou no Touzoku          | 4.97  | 1926 | 1        | 15 min     | Adventure, Historical, Romance | https://myanimelist.net/anime/28041 |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Kemurigusa Monogatari          | 5.04  | 1926 | 1        | 3 min      | Comedy                         | https://myanimelist.net/anime/28691 |
+| Kemurigusa Monogatari          | 5.05  | 1926 | 1        | 3 min      | Comedy                         | https://myanimelist.net/anime/28691 |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Shin Kachikachi Yama           | None  | 1926 | 1        | Unknown    | Fantasy                        | https://myanimelist.net/anime/33132 |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Byoudoku no Denpa              | 5.04  | 1926 | 1        | 14 min     | Educational, Kids              | https://myanimelist.net/anime/34992 |
+| Byoudoku no Denpa              | 5.05  | 1926 | 1        | 14 min     | Educational, Kids              | https://myanimelist.net/anime/34992 |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
-| Seiji no Rinrika               | 4.91  | 1926 | 1        | 32 min     | Historical                     | https://myanimelist.net/anime/35366 |
+| Seiji no Rinrika               | 4.92  | 1926 | 1        | 32 min     | Historical                     | https://myanimelist.net/anime/35366 |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+
 | Yamazaki Kaidou                | None  | 1926 | 1        | Unknown    | Comedy, Historical             | https://myanimelist.net/anime/60972 |
 +--------------------------------+-------+------+----------+------------+--------------------------------+-------------------------------------+

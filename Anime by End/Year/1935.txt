@@ -1,37 +1,37 @@
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
 | Title                                             | Score | Year | Episodes | EpDuration | Genres                      | Link                                |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Hinomaru Hatanosuke: Inazuma-gumi Tobatsu no Maki | 4.61  | 1935 | 1        | 1 min      | Action, Historical, Samurai | https://myanimelist.net/anime/6830  |
+| Hinomaru Hatanosuke: Inazuma-gumi Tobatsu no Maki | 4.63  | 1935 | 1        | 1 min      | Action, Historical, Samurai | https://myanimelist.net/anime/6830  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Hinomaru Hatanosuke: Bakemonoyashiki no Maki      | 4.69  | 1935 | 1        | 1 min      | Supernatural                | https://myanimelist.net/anime/6831  |
+| Hinomaru Hatanosuke: Bakemonoyashiki no Maki      | 4.7   | 1935 | 1        | 1 min      | Supernatural                | https://myanimelist.net/anime/6831  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Shoujouji no Tanuki-bayashi Ban Danemon           | 5.13  | 1935 | 1        | 9 min      | Supernatural                | https://myanimelist.net/anime/6832  |
+| Shoujouji no Tanuki-bayashi Ban Danemon           | 5.15  | 1935 | 1        | 9 min      | Supernatural                | https://myanimelist.net/anime/6832  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Ninjutsu Hinotama Kozou: Edo no Maki              | 3.95  | 1935 | 1        | 1 min      | Action                      | https://myanimelist.net/anime/6833  |
+| Ninjutsu Hinotama Kozou: Edo no Maki              | 3.96  | 1935 | 1        | 1 min      | Action                      | https://myanimelist.net/anime/6833  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Taa-chan no Kaitei Ryokou                         | 4.32  | 1935 | 1        | 1 min      | Adventure                   | https://myanimelist.net/anime/6834  |
+| Taa-chan no Kaitei Ryokou                         | 4.33  | 1935 | 1        | 1 min      | Adventure                   | https://myanimelist.net/anime/6834  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Umi no Mizu wa Naze Karai                         | 5.65  | 1935 | 1        | 10 min     | Historical                  | https://myanimelist.net/anime/6835  |
+| Umi no Mizu wa Naze Karai                         | 5.67  | 1935 | 1        | 10 min     | Historical                  | https://myanimelist.net/anime/6835  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Issunboushi: Chibisuke Monogatari                 | 4.96  | 1935 | 1        | 9 min      | Action, Samurai             | https://myanimelist.net/anime/6836  |
+| Issunboushi: Chibisuke Monogatari                 | 4.98  | 1935 | 1        | 9 min      | Action, Samurai             | https://myanimelist.net/anime/6836  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Kaitei no Boukun                                  | 4.4   | 1935 | 1        | 1 min      | Adventure                   | https://myanimelist.net/anime/6851  |
+| Kaitei no Boukun                                  | 4.42  | 1935 | 1        | 1 min      | Adventure                   | https://myanimelist.net/anime/6851  |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Chagama Ondo                                      | 4.9   | 1935 | 1        | 6 min      | Comedy, Supernatural        | https://myanimelist.net/anime/17076 |
+| Chagama Ondo                                      | 4.92  | 1935 | 1        | 6 min      | Comedy, Supernatural        | https://myanimelist.net/anime/17076 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
 | Yowamushi Chinsengumi                             | None  | 1935 | 1        | 5 min      | Comedy, Kids                | https://myanimelist.net/anime/24981 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Norakuro Nitouhei                                 | 5.33  | 1935 | 1        | 11 min     | Kids                        | https://myanimelist.net/anime/30018 |
+| Norakuro Nitouhei                                 | 5.34  | 1935 | 1        | 11 min     | Kids                        | https://myanimelist.net/anime/30018 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Norakuro Ittouhei                                 | 5.2   | 1935 | 1        | 10 min     | Kids                        | https://myanimelist.net/anime/30019 |
+| Norakuro Ittouhei                                 | 5.21  | 1935 | 1        | 10 min     | Kids                        | https://myanimelist.net/anime/30019 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
 | Inaba no Kuni no Usagi-san                        | 4.94  | 1935 | 1        | 9 min      | Adventure                   | https://myanimelist.net/anime/35389 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| An Expression                                     | 3.84  | 1935 | 1        | 3 min      | Avant Garde                 | https://myanimelist.net/anime/35402 |
+| An Expression                                     | 3.85  | 1935 | 1        | 3 min      | Avant Garde                 | https://myanimelist.net/anime/35402 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
 | Propagate                                         | 4.4   | 1935 | 1        | 4 min      | Avant Garde                 | https://myanimelist.net/anime/35406 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
-| Rhythm                                            | 4.35  | 1935 | 1        | 2 min      | Avant Garde                 | https://myanimelist.net/anime/35407 |
+| Rhythm                                            | 4.34  | 1935 | 1        | 2 min      | Avant Garde                 | https://myanimelist.net/anime/35407 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+
 | Ari to Kaeru                                      | None  | 1935 | 1        | 9 min      | Historical                  | https://myanimelist.net/anime/36701 |
 +---------------------------------------------------+-------+------+----------+------------+-----------------------------+-------------------------------------+

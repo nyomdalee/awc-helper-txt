@@ -1,25 +1,25 @@
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
 | Title                     | Score | Year | Episodes | EpDuration | Genres                        | Link                                |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Saiyuuki                  | 6.2   | 1960 | 1        | 1 h 28 min | Adventure, Fantasy, Mythology | https://myanimelist.net/anime/4481  |
+| Saiyuuki                  | 6.21  | 1960 | 1        | 1 h 28 min | Adventure, Fantasy, Mythology | https://myanimelist.net/anime/4481  |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Fashion                   | 4.05  | 1960 | 1        | 4 min      | Avant Garde, Comedy           | https://myanimelist.net/anime/7020  |
+| Fashion                   | 4.06  | 1960 | 1        | 4 min      | Avant Garde, Comedy           | https://myanimelist.net/anime/7020  |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Ni-hiki no Sanma          | 4.85  | 1960 | 1        | 22 min     | Award Winning, Comedy         | https://myanimelist.net/anime/7021  |
+| Ni-hiki no Sanma          | 4.86  | 1960 | 1        | 22 min     | Award Winning, Comedy         | https://myanimelist.net/anime/7021  |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
 | 3-tsu no Hanashi          | 4.69  | 1960 | 1        | 29 min     | Fantasy, Kids                 | https://myanimelist.net/anime/8774  |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Xiao Kedou Zhao Mama      | 5.51  | 1960 | 1        | 15 min     | Kids                          | https://myanimelist.net/anime/25173 |
+| Xiao Kedou Zhao Mama      | 5.53  | 1960 | 1        | 15 min     | Kids                          | https://myanimelist.net/anime/25173 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Kagami                    | 5.1   | 1960 | 1        | 12 min     | Romance                       | https://myanimelist.net/anime/29870 |
+| Kagami                    | 5.11  | 1960 | 1        | 12 min     | Romance                       | https://myanimelist.net/anime/29870 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Kasa Jizou                | 5.59  | 1960 | 1        | 9 min      | Fantasy, Historical           | https://myanimelist.net/anime/32623 |
+| Kasa Jizou                | 5.62  | 1960 | 1        | 9 min      | Fantasy, Historical           | https://myanimelist.net/anime/32623 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Kitakaze to Taiyou        | 5.05  | 1960 | 1        | 7 min      | Kids                          | https://myanimelist.net/anime/32693 |
+| Kitakaze to Taiyou        | 5.04  | 1960 | 1        | 7 min      | Kids                          | https://myanimelist.net/anime/32693 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Kutsuya to Kobito         | 5.92  | 1960 | 1        | 14 min     | Fantasy, Kids                 | https://myanimelist.net/anime/33115 |
+| Kutsuya to Kobito         | 5.95  | 1960 | 1        | 14 min     | Fantasy, Kids                 | https://myanimelist.net/anime/33115 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
-| Mori no Ongakutai         | 5.27  | 1960 | 1        | 13 min     | Fantasy, Kids                 | https://myanimelist.net/anime/33116 |
+| Mori no Ongakutai         | 5.26  | 1960 | 1        | 13 min     | Fantasy, Kids                 | https://myanimelist.net/anime/33116 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+
 | Gezi                      | None  | 1960 | 1        | 21 min     | Kids                          | https://myanimelist.net/anime/43271 |
 +---------------------------+-------+------+----------+------------+-------------------------------+-------------------------------------+

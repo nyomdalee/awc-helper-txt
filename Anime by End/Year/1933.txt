@@ -1,33 +1,33 @@
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
 | Title                                        | Score | Year | Episodes | EpDuration | Genres                           | Link                                |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Ugokie Kori no Tatehiki                      | 5.59  | 1933 | 1        | 11 min     | Comedy, Supernatural             | https://myanimelist.net/anime/3929  |
+| Ugokie Kori no Tatehiki                      | 5.6   | 1933 | 1        | 11 min     | Comedy, Supernatural             | https://myanimelist.net/anime/3929  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Norakuro Nitouhei: Enshuu no Maki            | 5.02  | 1933 | 1        | 5 min      | Adventure                        | https://myanimelist.net/anime/4395  |
+| Norakuro Nitouhei: Enshuu no Maki            | 5.04  | 1933 | 1        | 5 min      | Adventure                        | https://myanimelist.net/anime/4395  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Hibari no Yadogae                            | 4.72  | 1933 | 1        | 4 min      | Action                           | https://myanimelist.net/anime/5870  |
+| Hibari no Yadogae                            | 4.74  | 1933 | 1        | 4 min      | Action                           | https://myanimelist.net/anime/5870  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Norakuro Nitouhei: Kyouren no Maki           | 4.95  | 1933 | 1        | 5 min      | Action, Adventure                | https://myanimelist.net/anime/5871  |
+| Norakuro Nitouhei: Kyouren no Maki           | 4.98  | 1933 | 1        | 5 min      | Action, Adventure                | https://myanimelist.net/anime/5871  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Sankou to Tako: Hyakumanryou Chinsoudou      | 5.07  | 1933 | 1        | 15 min     | Action                           | https://myanimelist.net/anime/5874  |
+| Sankou to Tako: Hyakumanryou Chinsoudou      | 5.08  | 1933 | 1        | 15 min     | Action                           | https://myanimelist.net/anime/5874  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Norakuro Shoui: Nichiyoubi no Kaijiken       | 4.77  | 1933 | 1        | 1 min      | Action, Military                 | https://myanimelist.net/anime/6850  |
+| Norakuro Shoui: Nichiyoubi no Kaijiken       | 4.79  | 1933 | 1        | 1 min      | Action, Military                 | https://myanimelist.net/anime/6850  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Shoujouji no Tanuki-bayashi                  | 4.66  | 1933 | 1        | 1 min      | Kids                             | https://myanimelist.net/anime/7071  |
+| Shoujouji no Tanuki-bayashi                  | 4.68  | 1933 | 1        | 1 min      | Kids                             | https://myanimelist.net/anime/7071  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Chikara to Onna no Yo no Naka                | 5.74  | 1933 | 1        | 2 min      | Historical                       | https://myanimelist.net/anime/7354  |
+| Chikara to Onna no Yo no Naka                | 5.77  | 1933 | 1        | 2 min      | Historical                       | https://myanimelist.net/anime/7354  |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Osaru no Tairyou                             | 4.97  | 1933 | 1        | 10 min     | Slice of Life                    | https://myanimelist.net/anime/23267 |
+| Osaru no Tairyou                             | 5.02  | 1933 | 1        | 10 min     | Slice of Life                    | https://myanimelist.net/anime/23267 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Numa no Taishou                              | 4.76  | 1933 | 1        | 7 min      | Adventure, Comedy                | https://myanimelist.net/anime/28049 |
+| Numa no Taishou                              | 4.8   | 1933 | 1        | 7 min      | Adventure, Comedy                | https://myanimelist.net/anime/28049 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Kaeru San Yuushi                             | 4.51  | 1933 | 1        | 6 min      | Adventure, Comedy                | https://myanimelist.net/anime/28051 |
+| Kaeru San Yuushi                             | 4.55  | 1933 | 1        | 6 min      | Adventure, Comedy                | https://myanimelist.net/anime/28051 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Yoshichirou no Keirei                        | 5.27  | 1933 | 1        | 11 min     | Historical, Samurai              | https://myanimelist.net/anime/34954 |
+| Yoshichirou no Keirei                        | 5.29  | 1933 | 1        | 11 min     | Historical, Samurai              | https://myanimelist.net/anime/34954 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Kekkaku Yobou                                | 5.35  | 1933 | 1        | 29 min     | Drama, Educational, Historical   | https://myanimelist.net/anime/35387 |
+| Kekkaku Yobou                                | 5.37  | 1933 | 1        | 29 min     | Drama, Educational, Historical   | https://myanimelist.net/anime/35387 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
-| Kamishibai Itazura Tanuki no Maki            | 5.48  | 1933 | 1        | 5 min      | Action, Historical, Supernatural | https://myanimelist.net/anime/35399 |
+| Kamishibai Itazura Tanuki no Maki            | 5.5   | 1933 | 1        | 5 min      | Action, Historical, Supernatural | https://myanimelist.net/anime/35399 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+
 | Hyaku-nengo no Aru Hi                        | 5.37  | 1933 | 1        | 11 min     | Military, Sci-Fi, Supernatural   | https://myanimelist.net/anime/35401 |
 +----------------------------------------------+-------+------+----------+------------+----------------------------------+-------------------------------------+

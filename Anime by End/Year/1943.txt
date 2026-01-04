@@ -1,11 +1,11 @@
 +---------------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
 | Title                     | Score | Year | Episodes | EpDuration | Genres                     | Link                                |
 +---------------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Kumo to Tulip             | 5.64  | 1943 | 1        | 14 min     | Adventure                  | https://myanimelist.net/anime/3990  |
+| Kumo to Tulip             | 5.65  | 1943 | 1        | 14 min     | Adventure                  | https://myanimelist.net/anime/3990  |
 +---------------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Momotarou no Umiwashi     | 4.85  | 1943 | 1        | 36 min     | Historical, Kids, Military | https://myanimelist.net/anime/6857  |
+| Momotarou no Umiwashi     | 4.86  | 1943 | 1        | 36 min     | Historical, Kids, Military | https://myanimelist.net/anime/6857  |
 +---------------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
 | Fuku-chan no Zousan Butai | None  | 1943 | 1        | 11 min     | Comedy, Historical         | https://myanimelist.net/anime/23971 |
 +---------------------------+-------+------+----------+------------+----------------------------+-------------------------------------+
-| Malay Oki Kaisen          | 4.77  | 1943 | 1        | 26 min     | Historical, Military       | https://myanimelist.net/anime/29782 |
+| Malay Oki Kaisen          | 4.8   | 1943 | 1        | 26 min     | Historical, Military       | https://myanimelist.net/anime/29782 |
 +---------------------------+-------+------+----------+------------+----------------------------+-------------------------------------+

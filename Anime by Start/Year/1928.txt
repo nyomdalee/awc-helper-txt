@@ -1,19 +1,19 @@
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
 | Title                           | Score | Year | Episodes | EpDuration | Genres               | Link                                |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Tairiki Tarou no Mucha Shuugyou | 4.7   | 1928 | 1        | 1 min      | Action               | https://myanimelist.net/anime/4462  |
+| Tairiki Tarou no Mucha Shuugyou | 4.71  | 1928 | 1        | 1 min      | Action               | https://myanimelist.net/anime/4462  |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Nihonichi Momotarou             | 5.36  | 1928 | 1        | 11 min     | Fantasy              | https://myanimelist.net/anime/5632  |
+| Nihonichi Momotarou             | 5.38  | 1928 | 1        | 11 min     | Fantasy              | https://myanimelist.net/anime/5632  |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Doubutsu Olympic Taikai         | 5.48  | 1928 | 1        | 13 min     | Comedy, Sports       | https://myanimelist.net/anime/7498  |
+| Doubutsu Olympic Taikai         | 5.5   | 1928 | 1        | 13 min     | Comedy, Sports       | https://myanimelist.net/anime/7498  |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Bunbuku Chagama                 | 5.84  | 1928 | 1        | 15 min     | Kids                 | https://myanimelist.net/anime/24881 |
+| Bunbuku Chagama                 | 5.87  | 1928 | 1        | 15 min     | Kids                 | https://myanimelist.net/anime/24881 |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Okuni no Tame ni                | 5.06  | 1928 | 1        | 7 min      | Historical, Military | https://myanimelist.net/anime/29557 |
+| Okuni no Tame ni                | 5.05  | 1928 | 1        | 7 min      | Historical, Military | https://myanimelist.net/anime/29557 |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Hanasaka Jiisan                 | 4.81  | 1928 | 1        | 6 min      | Comedy, Drama        | https://myanimelist.net/anime/30086 |
+| Hanasaka Jiisan                 | 4.84  | 1928 | 1        | 6 min      | Comedy, Drama        | https://myanimelist.net/anime/30086 |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
-| Sakana no Kuni                  | 5.09  | 1928 | 1        | 15 min     | Military             | https://myanimelist.net/anime/34958 |
+| Sakana no Kuni                  | 5.11  | 1928 | 1        | 15 min     | Military             | https://myanimelist.net/anime/34958 |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+
 | Chinsetsu Yoshida Goten         | None  | 1928 | 1        | Unknown    | Historical           | https://myanimelist.net/anime/39083 |
 +---------------------------------+-------+------+----------+------------+----------------------+-------------------------------------+

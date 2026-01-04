@@ -6,4 +6,4 @@ This project aims to help with finding anime for the [Anime Watching Challenge](
 The lists are sourced from a local MongoDB which is maintained by another project and gets its data from the official MyAnimeList API as well as Jikan.
 
 Lists are up to date to:
-December 03, 2025
+January 01, 2026
